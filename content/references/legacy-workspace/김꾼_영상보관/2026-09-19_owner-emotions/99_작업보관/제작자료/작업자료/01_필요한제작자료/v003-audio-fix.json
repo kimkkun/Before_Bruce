@@ -1,0 +1,73 @@
+{
+  "at": "2026-09-19T13:10:33.423726",
+  "cause": "all audio incorrectly reused click effect_id 6873506883139799041",
+  "changes": [
+    {
+      "name": "v001-bgm.wav",
+      "start": 0.0,
+      "gain": 0.15848931924611134,
+      "sha256": "9bf48228d5b0ed062258fdc5519074085b0dda0e9176677207aac791c806816d"
+    },
+    {
+      "name": "094d89a171a8b6394b503fcdbb196205.mp3",
+      "start": 2.233333,
+      "gain": 0.35,
+      "sha256": "18c4fdf01e1ff39bf732b7a8ce1b3bbe07e5a4630c11589d592842d2955401ea"
+    },
+    {
+      "name": "094d89a171a8b6394b503fcdbb196205.mp3",
+      "start": 10.066666,
+      "gain": 0.35,
+      "sha256": "18c4fdf01e1ff39bf732b7a8ce1b3bbe07e5a4630c11589d592842d2955401ea"
+    },
+    {
+      "name": "094d89a171a8b6394b503fcdbb196205.mp3",
+      "start": 32.166666,
+      "gain": 0.35,
+      "sha256": "18c4fdf01e1ff39bf732b7a8ce1b3bbe07e5a4630c11589d592842d2955401ea"
+    },
+    {
+      "name": "094d89a171a8b6394b503fcdbb196205.mp3",
+      "start": 57.0,
+      "gain": 0.35,
+      "sha256": "18c4fdf01e1ff39bf732b7a8ce1b3bbe07e5a4630c11589d592842d2955401ea"
+    },
+    {
+      "name": "094d89a171a8b6394b503fcdbb196205.mp3",
+      "start": 68.733333,
+      "gain": 0.35,
+      "sha256": "18c4fdf01e1ff39bf732b7a8ce1b3bbe07e5a4630c11589d592842d2955401ea"
+    },
+    {
+      "name": "33f11a55221681b3fefec3346290169e.mp3",
+      "start": 70.166666,
+      "gain": 0.19535418131049068,
+      "sha256": "7ba9bfdf4fabcbf5403f83ee237181724ab5924c8862b240a096627e6167321d"
+    },
+    {
+      "name": "33f11a55221681b3fefec3346290169e.mp3",
+      "start": 73.966666,
+      "gain": 0.19535418131049068,
+      "sha256": "7ba9bfdf4fabcbf5403f83ee237181724ab5924c8862b240a096627e6167321d"
+    },
+    {
+      "name": "094d89a171a8b6394b503fcdbb196205.mp3",
+      "start": 88.2,
+      "gain": 0.35,
+      "sha256": "18c4fdf01e1ff39bf732b7a8ce1b3bbe07e5a4630c11589d592842d2955401ea"
+    },
+    {
+      "name": "33f11a55221681b3fefec3346290169e.mp3",
+      "start": 98.0,
+      "gain": 0.19535418131049068,
+      "sha256": "7ba9bfdf4fabcbf5403f83ee237181724ab5924c8862b240a096627e6167321d"
+    },
+    {
+      "name": "bfa290bd0ef51bcc6a62d8a80e40e5a0.mp3",
+      "start": 109.033333,
+      "gain": 0.28,
+      "sha256": "1d2094515839d902bd74684a535eed1907df541b2be1ee76910218c2fb23ffdb"
+    }
+  ],
+  "non_audio_tracks_unchanged": true
+}

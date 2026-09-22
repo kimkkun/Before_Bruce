@@ -1,0 +1,52 @@
+{
+  "checked_at": "2026-09-21T16:12:29.742Z",
+  "checks": [
+    {
+      "endpoint": "18114392998790417/insights?metric=reels_skip_rate",
+      "status": 200,
+      "response": {
+        "data": [
+          {
+            "name": "reels_skip_rate",
+            "period": "lifetime",
+            "values": [
+              {
+                "value": 49.7
+              }
+            ],
+            "title": "건너뛰기 비율",
+            "description": "릴스의 첫 3초 안에 건너뛴 사람들의 조회율. 이 지표는 첫 3초 동안 릴스를 건너뛴 조회수를 최초 조회수로 나누어 계산됩니다. 최초 조회는 릴스가 릴스 세션에서 처음으로 재생되는 경우를 말합니다.",
+            "id": "18114392998790417/insights/reels_skip_rate/lifetime"
+          }
+        ]
+      }
+    },
+    {
+      "endpoint": "18071366042439802/insights?metric=reels_skip_rate",
+      "status": 200,
+      "response": {
+        "data": [
+          {
+            "name": "reels_skip_rate",
+            "period": "lifetime",
+            "values": [
+              {
+                "value": 27.9
+              }
+            ],
+            "title": "건너뛰기 비율",
+            "description": "릴스의 첫 3초 안에 건너뛴 사람들의 조회율. 이 지표는 첫 3초 동안 릴스를 건너뛴 조회수를 최초 조회수로 나누어 계산됩니다. 최초 조회는 릴스가 릴스 세션에서 처음으로 재생되는 경우를 말합니다.",
+            "id": "18071366042439802/insights/reels_skip_rate/lifetime"
+          }
+        ]
+      }
+    },
+    {
+      "endpoint": "18114392998790417?fields=id,thumbnail_url,media_url",
+      "status": 200,
+      "id": "18114392998790417",
+      "thumbnail_available": true,
+      "video_available": true
+    }
+  ]
+}

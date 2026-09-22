@@ -1,0 +1,92 @@
+{
+  "duration": 111.130703,
+  "width": 1440,
+  "height": 2560,
+  "fps": "30",
+  "decoded_frames": 3332,
+  "audio_alignment_samples": 766,
+  "sha256": "1dfc1245b99a94d0b3629c95909ddb9487bbce824c9795a9de9a7059170b4b00",
+  "bgm_checks": [
+    {
+      "seconds": [
+        15,
+        25
+      ],
+      "restored_bgm_gain": 0.1113601103425026,
+      "correlation": 0.9960061973777595
+    },
+    {
+      "seconds": [
+        40,
+        50
+      ],
+      "restored_bgm_gain": 0.11154012382030487,
+      "correlation": 0.997402752058266
+    },
+    {
+      "seconds": [
+        78,
+        85
+      ],
+      "restored_bgm_gain": 0.11152785271406174,
+      "correlation": 0.9975558418242854
+    },
+    {
+      "seconds": [
+        100,
+        106
+      ],
+      "restored_bgm_gain": 0.11158131808042526,
+      "correlation": 0.9977034636152075
+    }
+  ],
+  "effect_checks": [
+    {
+      "start": 2.28125,
+      "file": "094d89a171a8b6394b503fcdbb196205.mp3",
+      "restored_gain": 0.314717924057575,
+      "correlation": 0.8949227099175503
+    },
+    {
+      "start": 10.1149375,
+      "file": "094d89a171a8b6394b503fcdbb196205.mp3",
+      "restored_gain": 0.3138427738717068,
+      "correlation": 0.8844555305480098
+    },
+    {
+      "start": 32.2145,
+      "file": "094d89a171a8b6394b503fcdbb196205.mp3",
+      "restored_gain": 0.34275265518752307,
+      "correlation": 0.9758080216455023
+    },
+    {
+      "start": 57.047375,
+      "file": "094d89a171a8b6394b503fcdbb196205.mp3",
+      "restored_gain": 0.31364957848046915,
+      "correlation": 0.8920257039962349
+    },
+    {
+      "start": 68.7806875,
+      "file": "094d89a171a8b6394b503fcdbb196205.mp3",
+      "restored_gain": 0.3146997706038393,
+      "correlation": 0.8878966955420394
+    },
+    {
+      "start": 88.2476875,
+      "file": "094d89a171a8b6394b503fcdbb196205.mp3",
+      "restored_gain": 0.3241427651103642,
+      "correlation": 0.9169112812907706
+    },
+    {
+      "start": 109.081,
+      "file": "bfa290bd0ef51bcc6a62d8a80e40e5a0.mp3",
+      "restored_gain": 0.27951329155788507,
+      "correlation": 0.9989287805358125
+    }
+  ],
+  "audio_peak_dbfs": -1.4980583190917969,
+  "clipped_samples": 0,
+  "originals_unchanged": true,
+  "non_audio_tracks_unchanged": true,
+  "full_human_listening": false
+}

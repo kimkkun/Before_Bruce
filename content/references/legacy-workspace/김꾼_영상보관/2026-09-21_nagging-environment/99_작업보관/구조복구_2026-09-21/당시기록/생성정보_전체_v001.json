@@ -1,0 +1,835 @@
+{
+  "soul_id": "6de0213f-4463-4a36-98c7-2ae41dd38071",
+  "initial": {
+    "items": [
+      {
+        "id": "db89a61b-514b-47a7-b317-1cdb2b138b0f",
+        "type": "image",
+        "status": "completed",
+        "model": "text2image_soul_v2",
+        "params": {
+          "prompt": "Photoreal live-action cinematic still for a vertical Korean restaurant-owner short film, 9:16. The main man is the exact trained Soul ID identity, natural face, black rectangular glasses, short dark hair. Wardrobe continuity: ivory short-sleeve cotton shirt, charcoal trousers, plain black apron, silver wristwatch. The SAME small contemporary Korean restaurant design across shots: honey oak wall panels, matte charcoal tables, black steel chairs, black-framed glass front door, a plain white wall-mounted split air conditioner above the oak wall. Natural skin texture, believable hand anatomy, tactile ordinary materials, controlled warm practical lights and daylight, restrained film color, legible visual story. No title, subtitles, watermarks, fake logos or readable generated lettering. Medium-wide three-quarter side shot at the restaurant entrance on a warm summer morning, showing the man from knees up on the right third, his face visible as he looks into the restaurant. His right hand grips the black door handle naturally. The glass door is just slightly ajar, revealing a thin wedge of cold blue interior light. At floor level a little cold mist spills through the gap. Warm sunlight on his shirt, subtle surprised anticipation. There is ample frame space on the left for the doorway and interior. Real physical doorway and feet firmly on pavement. This is the instant just before opening the door farther.",
+          "custom_reference_id": "6de0213f-4463-4a36-98c7-2ae41dd38071",
+          "width": 1152,
+          "height": 2048,
+          "batch_size": 1,
+          "seed": 108915,
+          "enhance_prompt": false,
+          "use_sage_attention": false,
+          "quality": "1080p",
+          "use_relax": false,
+          "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+          "style": {
+            "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+            "name": "General",
+            "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+            "strength": 1
+          },
+          "style_strength": 1
+        },
+        "results": {
+          "rawUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_134951_db89a61b-514b-47a7-b317-1cdb2b138b0f.png",
+          "minUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_134951_db89a61b-514b-47a7-b317-1cdb2b138b0f_min.webp"
+        },
+        "createdAt": 1789998591.964251
+      },
+      {
+        "id": "c0d94d89-d077-4b63-9aa6-55b6395496f3",
+        "type": "image",
+        "status": "completed",
+        "model": "text2image_soul_v2",
+        "params": {
+          "prompt": "Photoreal live-action cinematic still for a vertical Korean restaurant-owner short film, 9:16. The main man is the exact trained Soul ID identity, natural face, black rectangular glasses, short dark hair. Wardrobe continuity: ivory short-sleeve cotton shirt, charcoal trousers, plain black apron, silver wristwatch. The SAME small contemporary Korean restaurant design across shots: honey oak wall panels, matte charcoal tables, black steel chairs, black-framed glass front door, a plain white wall-mounted split air conditioner above the oak wall. Natural skin texture, believable hand anatomy, tactile ordinary materials, controlled warm practical lights and daylight, restrained film color, legible visual story. No title, subtitles, watermarks, fake logos or readable generated lettering. A wide interior reveal of this ordinary restaurant transformed by impossible cold: tables and chair legs are coated with detailed white frost, small icicles hang from table edges, thin low cold mist above the floor, the air conditioner on the upper wall is on with its louver open and a tiny cyan power light. The same man is standing on the right in three-quarter view, visible head to knees, he has just stepped in and stares in disbelief, mouth slightly parted, shoulders raised against cold. Warm morning sunlight from the black-framed entrance behind him contrasts with blue-white frozen interior. Keep the restaurant recognizable, no polar landscape, no penguins, no snowman. His face must remain recognizable and large enough to read. Composition conveys discovery, not posing.",
+          "custom_reference_id": "6de0213f-4463-4a36-98c7-2ae41dd38071",
+          "width": 1152,
+          "height": 2048,
+          "batch_size": 1,
+          "seed": 862803,
+          "enhance_prompt": false,
+          "use_sage_attention": false,
+          "quality": "1080p",
+          "use_relax": false,
+          "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+          "style": {
+            "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+            "name": "General",
+            "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+            "strength": 1
+          },
+          "style_strength": 1
+        },
+        "results": {
+          "rawUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_134951_c0d94d89-d077-4b63-9aa6-55b6395496f3.png",
+          "minUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_134951_c0d94d89-d077-4b63-9aa6-55b6395496f3_min.webp"
+        },
+        "createdAt": 1789998591.966058
+      },
+      {
+        "id": "d8aab5c8-7b85-4931-84f6-f2809d62629f",
+        "type": "image",
+        "status": "completed",
+        "model": "text2image_soul_v2",
+        "params": {
+          "prompt": "Photoreal live-action cinematic still for a vertical Korean restaurant-owner short film, 9:16. The main man is the exact trained Soul ID identity, natural face, black rectangular glasses, short dark hair. Wardrobe continuity: ivory short-sleeve cotton shirt, charcoal trousers, plain black apron, silver wristwatch. The SAME small contemporary Korean restaurant design across shots: honey oak wall panels, matte charcoal tables, black steel chairs, black-framed glass front door, a plain white wall-mounted split air conditioner above the oak wall. Natural skin texture, believable hand anatomy, tactile ordinary materials, controlled warm practical lights and daylight, restrained film color, legible visual story. No title, subtitles, watermarks, fake logos or readable generated lettering. Medium shot of the same man in three-quarter profile at the restaurant's oak wall beside the glass exit door. He holds a single clean pale-yellow rectangular reminder sheet against the wall with one hand and a small piece of tape in the other. On that wall there are already several plain cream and pale-yellow blank reminder sheets with dog-eared corners, leaving negative space for more. The white wall-mounted air conditioner is clearly visible above at upper left, its lower air outlet open, small blue operating light ON. His expression is weary, not angry. Warm evening practical light. All paper surfaces blank for post-production typography. Hands and tape contact with paper is anatomically plausible. This is an ordinary cluttered warning wall, no floating or magical papers.",
+          "custom_reference_id": "6de0213f-4463-4a36-98c7-2ae41dd38071",
+          "width": 1152,
+          "height": 2048,
+          "batch_size": 1,
+          "seed": 867377,
+          "enhance_prompt": false,
+          "use_sage_attention": false,
+          "quality": "1080p",
+          "use_relax": false,
+          "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+          "style": {
+            "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+            "name": "General",
+            "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+            "strength": 1
+          },
+          "style_strength": 1
+        },
+        "results": {
+          "rawUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_134951_d8aab5c8-7b85-4931-84f6-f2809d62629f.png",
+          "minUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_134951_d8aab5c8-7b85-4931-84f6-f2809d62629f_min.webp"
+        },
+        "createdAt": 1789998591.508717
+      },
+      {
+        "id": "d7f02419-368a-420e-b034-e860be522aad",
+        "type": "image",
+        "status": "completed",
+        "model": "text2image_soul_v2",
+        "params": {
+          "prompt": "Photoreal live-action cinematic still for a vertical Korean restaurant-owner short film, 9:16. The main man is the exact trained Soul ID identity, natural face, black rectangular glasses, short dark hair. Wardrobe continuity: ivory short-sleeve cotton shirt, charcoal trousers, plain black apron, silver wristwatch. The SAME small contemporary Korean restaurant design across shots: honey oak wall panels, matte charcoal tables, black steel chairs, black-framed glass front door, a plain white wall-mounted split air conditioner above the oak wall. Natural skin texture, believable hand anatomy, tactile ordinary materials, controlled warm practical lights and daylight, restrained film color, legible visual story. No title, subtitles, watermarks, fake logos or readable generated lettering. Over-the-shoulder close medium view of the same man at a narrow restaurant counter. His recognizable three-quarter face appears in the upper right third looking down. In the foreground center a plain cream clipboard is tilted toward camera with a simple ruled checklist and ONE large EMPTY square checkbox in its upper half, no writing. His right hand holds a black pen with tip just above the empty square; his left supports the clipboard naturally. In the upper-left background, clear enough to identify, the white wall-mounted air conditioner is STILL ON: lower louver open, cyan power indicator lit. Keep the paper and open air conditioner simultaneously readable in the vertical composition. Warm closing-time light, understated mood of an unnoticed mismatch.",
+          "custom_reference_id": "6de0213f-4463-4a36-98c7-2ae41dd38071",
+          "width": 1152,
+          "height": 2048,
+          "batch_size": 1,
+          "seed": 246386,
+          "enhance_prompt": false,
+          "use_sage_attention": false,
+          "quality": "1080p",
+          "use_relax": false,
+          "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+          "style": {
+            "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+            "name": "General",
+            "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+            "strength": 1
+          },
+          "style_strength": 1
+        },
+        "results": {
+          "rawUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_134952_d7f02419-368a-420e-b034-e860be522aad.png",
+          "minUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_134952_d7f02419-368a-420e-b034-e860be522aad_min.webp"
+        },
+        "createdAt": 1789998592.220863
+      },
+      {
+        "id": "e86281b2-c345-458e-a36f-68e2a68d4d94",
+        "type": "image",
+        "status": "completed",
+        "model": "text2image_soul_v2",
+        "params": {
+          "prompt": "Photoreal live-action cinematic still for a vertical Korean restaurant-owner short film, 9:16. The main man is the exact trained Soul ID identity, natural face, black rectangular glasses, short dark hair. Wardrobe continuity: ivory short-sleeve cotton shirt, charcoal trousers, plain black apron, silver wristwatch. The SAME small contemporary Korean restaurant design across shots: honey oak wall panels, matte charcoal tables, black steel chairs, black-framed glass front door, a plain white wall-mounted split air conditioner above the oak wall. Natural skin texture, believable hand anatomy, tactile ordinary materials, controlled warm practical lights and daylight, restrained film color, legible visual story. No title, subtitles, watermarks, fake logos or readable generated lettering. Medium two-person shot in the same restaurant at closing time. The main Soul ID man stands at left in ivory shirt and charcoal apron, recognizable three-quarter face, holding a plain white remote in his right hand aimed at the white wall-mounted air conditioner in upper center, thumb poised over one button. A distinct adult Korean woman coworker in a beige shirt and dark apron stands at right, she looks up attentively at the same air conditioner, holding a small plain clipboard down at her waist. The air conditioner outlet is OPEN, blue operating light ON, preparing to turn off. Both people's eyelines point to the appliance. Grounded teamwork, no smiling at camera or posed thumbs-up. Clear hands, correct remote grip, no text, no screens with invented app UI.",
+          "custom_reference_id": "6de0213f-4463-4a36-98c7-2ae41dd38071",
+          "width": 1152,
+          "height": 2048,
+          "batch_size": 1,
+          "seed": 287387,
+          "enhance_prompt": false,
+          "use_sage_attention": false,
+          "quality": "1080p",
+          "use_relax": false,
+          "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+          "style": {
+            "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+            "name": "General",
+            "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+            "strength": 1
+          },
+          "style_strength": 1
+        },
+        "results": {
+          "rawUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_134952_e86281b2-c345-458e-a36f-68e2a68d4d94.png",
+          "minUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_134952_e86281b2-c345-458e-a36f-68e2a68d4d94_min.webp"
+        },
+        "createdAt": 1789998592.20489
+      }
+    ],
+    "jobs": [
+      {
+        "index": 1,
+        "job_id": "db89a61b-514b-47a7-b317-1cdb2b138b0f",
+        "status": "completed",
+        "type": "image",
+        "model": "text2image_soul_v2",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_134951_db89a61b-514b-47a7-b317-1cdb2b138b0f.png"
+      },
+      {
+        "index": 2,
+        "job_id": "c0d94d89-d077-4b63-9aa6-55b6395496f3",
+        "status": "completed",
+        "type": "image",
+        "model": "text2image_soul_v2",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_134951_c0d94d89-d077-4b63-9aa6-55b6395496f3.png"
+      },
+      {
+        "index": 3,
+        "job_id": "d8aab5c8-7b85-4931-84f6-f2809d62629f",
+        "status": "completed",
+        "type": "image",
+        "model": "text2image_soul_v2",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_134951_d8aab5c8-7b85-4931-84f6-f2809d62629f.png"
+      },
+      {
+        "index": 4,
+        "job_id": "d7f02419-368a-420e-b034-e860be522aad",
+        "status": "completed",
+        "type": "image",
+        "model": "text2image_soul_v2",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_134952_d7f02419-368a-420e-b034-e860be522aad.png"
+      },
+      {
+        "index": 5,
+        "job_id": "e86281b2-c345-458e-a36f-68e2a68d4d94",
+        "status": "completed",
+        "type": "image",
+        "model": "text2image_soul_v2",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_134952_e86281b2-c345-458e-a36f-68e2a68d4d94.png"
+      }
+    ],
+    "all_found": true
+  },
+  "repair": {
+    "items": [
+      {
+        "id": "a52e67e3-ce58-4c93-943a-2e664fed00ea",
+        "type": "image",
+        "status": "completed",
+        "model": "text2image_soul_v2",
+        "params": {
+          "prompt": "Single full-frame cinematic photograph, no collage, no panels. The Soul ID man standing upright at a black framed restaurant entrance, seen from knees up, ivory short sleeve shirt and black apron, black glasses. He looks through the doorway, one hand on the door handle, body angled away from camera. Warm summer sunlight outside. Cold blue mist spills across the threshold from inside. Natural anatomy, 35mm lens, premium Korean film lighting, restrained color. No outdoor air conditioner visible, no text.",
+          "custom_reference_id": "6de0213f-4463-4a36-98c7-2ae41dd38071",
+          "width": 1152,
+          "height": 2048,
+          "batch_size": 1,
+          "seed": 968378,
+          "enhance_prompt": false,
+          "use_sage_attention": false,
+          "quality": "1080p",
+          "use_relax": false,
+          "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+          "style": {
+            "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+            "name": "General",
+            "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+            "strength": 1
+          },
+          "style_strength": 1
+        },
+        "results": {
+          "rawUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_135107_a52e67e3-ce58-4c93-943a-2e664fed00ea.png",
+          "minUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_135107_a52e67e3-ce58-4c93-943a-2e664fed00ea_min.webp"
+        },
+        "createdAt": 1789998667.039903
+      },
+      {
+        "id": "146370d7-5cc9-4e9a-b45e-28de9ee34cb3",
+        "type": "image",
+        "status": "completed",
+        "model": "text2image_soul_v2",
+        "params": {
+          "prompt": "ONE single continuous full-frame photograph, NOT a collage, NOT split screen, NOT repeated panels. Wide 35mm cinematic view inside a small Korean restaurant, honey oak walls, charcoal tables, black chairs. Every table and chair is thickly covered in white frost and long icicles. Low blue-white freezing mist covers the floor. A white wall-mounted split air conditioner is on. The Soul ID man stands on the right looking across the frozen room in disbelief, ivory short sleeve shirt, black apron, black glasses, both arms relaxed by his sides. His body visible head to knees. Cold blue light, warm sunlight at entrance, dramatic realistic film image. No text.",
+          "custom_reference_id": "6de0213f-4463-4a36-98c7-2ae41dd38071",
+          "width": 1152,
+          "height": 2048,
+          "batch_size": 1,
+          "seed": 895859,
+          "enhance_prompt": false,
+          "use_sage_attention": false,
+          "quality": "1080p",
+          "use_relax": false,
+          "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+          "style": {
+            "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+            "name": "General",
+            "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+            "strength": 1
+          },
+          "style_strength": 1
+        },
+        "results": {
+          "rawUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_135107_146370d7-5cc9-4e9a-b45e-28de9ee34cb3.png",
+          "minUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_135107_146370d7-5cc9-4e9a-b45e-28de9ee34cb3_min.webp"
+        },
+        "createdAt": 1789998667.612101
+      },
+      {
+        "id": "6a1f53f8-87dc-489a-bdc2-3e39ab774c43",
+        "type": "image",
+        "status": "completed",
+        "model": "text2image_soul_v2",
+        "params": {
+          "prompt": "ONE single continuous full-frame photograph, no collage, no panels. Medium cinematic shot in a Korean restaurant with honey oak walls and charcoal tables. Soul ID man with black glasses wearing ivory short sleeve shirt and black apron, looking down as he marks a small paper checklist resting flat on a counter, black pen in his right hand. A plain white modern wall mounted split air conditioner behind him is clearly operating with its vent open and a blue power light. Camera looks diagonally across the counter; both face and hands visible. The paper has simple empty square checkboxes, no writing. Warm low evening light, realistic premium film photography.",
+          "custom_reference_id": "6de0213f-4463-4a36-98c7-2ae41dd38071",
+          "width": 1152,
+          "height": 2048,
+          "batch_size": 1,
+          "seed": 646581,
+          "enhance_prompt": false,
+          "use_sage_attention": false,
+          "quality": "1080p",
+          "use_relax": false,
+          "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+          "style": {
+            "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+            "name": "General",
+            "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+            "strength": 1
+          },
+          "style_strength": 1
+        },
+        "results": {
+          "rawUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_135105_6a1f53f8-87dc-489a-bdc2-3e39ab774c43.png",
+          "minUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_135105_6a1f53f8-87dc-489a-bdc2-3e39ab774c43_min.webp"
+        },
+        "createdAt": 1789998665.926979
+      }
+    ],
+    "jobs": [
+      {
+        "index": 1,
+        "job_id": "a52e67e3-ce58-4c93-943a-2e664fed00ea",
+        "status": "completed",
+        "type": "image",
+        "model": "text2image_soul_v2",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_135107_a52e67e3-ce58-4c93-943a-2e664fed00ea.png"
+      },
+      {
+        "index": 2,
+        "job_id": "146370d7-5cc9-4e9a-b45e-28de9ee34cb3",
+        "status": "completed",
+        "type": "image",
+        "model": "text2image_soul_v2",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_135107_146370d7-5cc9-4e9a-b45e-28de9ee34cb3.png"
+      },
+      {
+        "index": 4,
+        "job_id": "6a1f53f8-87dc-489a-bdc2-3e39ab774c43",
+        "status": "completed",
+        "type": "image",
+        "model": "text2image_soul_v2",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_135105_6a1f53f8-87dc-489a-bdc2-3e39ab774c43.png"
+      }
+    ],
+    "all_found": true
+  },
+  "edit": {
+    "items": [
+      {
+        "id": "82d3aacd-4b8b-4c88-a67f-a260fa2877ad",
+        "type": "image",
+        "status": "completed",
+        "model": "gpt_image_2_5",
+        "params": {
+          "prompt": "Preserve the reference man's exact face glasses and ivory shirt black apron. Single cinematic photograph: he stands on right third, head to knees, stunned looking left over an entire small restaurant covered in thick frost and icicles. Oak walls charcoal tables black chairs; one normal modern white wall air conditioner. Cold blue light from windows, subtle warm hanging practical lamps, floating low mist. Full-frame single composition, no panels, no collage. No lettering. Premium film still.",
+          "aspect_ratio": "9:16",
+          "medias": [
+            {
+              "role": "image",
+              "data": {
+                "id": "e86281b2-c345-458e-a36f-68e2a68d4d94",
+                "type": "image_job",
+                "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_134952_e86281b2-c345-458e-a36f-68e2a68d4d94.png"
+              }
+            }
+          ],
+          "width": 1520,
+          "height": 2688,
+          "quality": "high",
+          "resolution": "2k",
+          "model": "flare",
+          "remove_bg": false,
+          "reference_elements": []
+        },
+        "results": {
+          "rawUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_135352_82d3aacd-4b8b-4c88-a67f-a260fa2877ad.png",
+          "minUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_135352_82d3aacd-4b8b-4c88-a67f-a260fa2877ad_min.webp"
+        },
+        "createdAt": 1789998832.329039
+      },
+      {
+        "id": "178584cb-390a-4905-b1c0-e9c64de03dd5",
+        "type": "image",
+        "status": "completed",
+        "model": "gpt_image_2_5",
+        "params": {
+          "prompt": "Edit this photograph preserving exactly the man, face, hands, glasses, shirt, apron, paper, camera angle, room. Replace the large outdoor condenser fan on the indoor wall with a realistic smooth white rectangular wall-mounted indoor split air conditioner with narrow horizontal outlet louvers OPEN and a single small blue power indicator. There must be NO big circular fan visible. Remove all nonsense lettering and logos. On the checklist use simple grid lines and empty square checkboxes. Warm cinematic closing-time lighting. Single continuous photograph.",
+          "aspect_ratio": "9:16",
+          "medias": [
+            {
+              "role": "image",
+              "data": {
+                "id": "6a1f53f8-87dc-489a-bdc2-3e39ab774c43",
+                "type": "image_job",
+                "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_135105_6a1f53f8-87dc-489a-bdc2-3e39ab774c43.png"
+              }
+            }
+          ],
+          "width": 1520,
+          "height": 2688,
+          "quality": "high",
+          "resolution": "2k",
+          "model": "flare",
+          "remove_bg": false,
+          "reference_elements": []
+        },
+        "results": {
+          "rawUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_135351_178584cb-390a-4905-b1c0-e9c64de03dd5.png",
+          "minUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_135351_178584cb-390a-4905-b1c0-e9c64de03dd5_min.webp"
+        },
+        "createdAt": 1789998831.340571
+      }
+    ],
+    "jobs": [
+      {
+        "index": 2,
+        "job_id": "82d3aacd-4b8b-4c88-a67f-a260fa2877ad",
+        "status": "completed",
+        "type": "image",
+        "model": "gpt_image_2_5",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_135352_82d3aacd-4b8b-4c88-a67f-a260fa2877ad.png"
+      },
+      {
+        "index": 4,
+        "job_id": "178584cb-390a-4905-b1c0-e9c64de03dd5",
+        "status": "completed",
+        "type": "image",
+        "model": "gpt_image_2_5",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_135351_178584cb-390a-4905-b1c0-e9c64de03dd5.png"
+      }
+    ],
+    "all_found": true
+  },
+  "video": {
+    "items": [
+      {
+        "id": "2e566440-896e-475c-8ea4-0bd95e47903b",
+        "type": "video",
+        "status": "completed",
+        "model": "kling3_0",
+        "params": {
+          "prompt": "The standing man slowly opens the door further and takes one cautious half-step into the restaurant. Cold mist rolls out past his ankles. Keep the camera at the original height, a subtle forward push following his shoulder. His hand stays physically connected to the handle until he releases it. Natural realistic movement, preserve clothes and identity. One continuous shot, no cut, no speech.",
+          "aspect_ratio": "9:16",
+          "duration": 5,
+          "medias": [
+            {
+              "role": "start_image",
+              "data": {
+                "id": "a52e67e3-ce58-4c93-943a-2e664fed00ea",
+                "type": "image_job",
+                "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_135107_a52e67e3-ce58-4c93-943a-2e664fed00ea.png"
+              }
+            }
+          ],
+          "width": 720,
+          "height": 1280,
+          "multi_shots": false,
+          "multi_prompt": [],
+          "sound": "off",
+          "cfg_scale": 0.5,
+          "mode": "std",
+          "kling_elements": [],
+          "kling_element_ids": [],
+          "multi_shot_mode": "custom",
+          "reference_elements": [],
+          "enhance_prompt": false
+        },
+        "results": {
+          "rawUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_135355_2e566440-896e-475c-8ea4-0bd95e47903b.mp4",
+          "thumbnailUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_135107_a52e67e3-ce58-4c93-943a-2e664fed00ea.png"
+        },
+        "createdAt": 1789998835.474424
+      },
+      {
+        "id": "0cf1e7e5-36da-4261-8aa9-820221a277d1",
+        "type": "video",
+        "status": "completed",
+        "model": "kling3_0",
+        "params": {
+          "prompt": "One continuous cinematic shot. The man slowly looks across the frozen restaurant, exhales a small visible cloud of breath and shivers once, bringing his shoulders up slightly. A few tiny ice crystals drift down; icicles and furniture remain solid and stable. Slow subtle camera dolly forward, enough parallax to reveal the frozen tables. Keep his exact face glasses clothing and realistic anatomy. No talking, no smiling at camera, no transformation of room.",
+          "aspect_ratio": "9:16",
+          "duration": 5,
+          "medias": [
+            {
+              "role": "start_image",
+              "data": {
+                "id": "82d3aacd-4b8b-4c88-a67f-a260fa2877ad",
+                "type": "image_job",
+                "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_135352_82d3aacd-4b8b-4c88-a67f-a260fa2877ad.png"
+              }
+            }
+          ],
+          "width": 720,
+          "height": 1280,
+          "multi_shots": false,
+          "multi_prompt": [],
+          "sound": "off",
+          "cfg_scale": 0.5,
+          "mode": "std",
+          "kling_elements": [],
+          "kling_element_ids": [],
+          "multi_shot_mode": "custom",
+          "reference_elements": [],
+          "enhance_prompt": false
+        },
+        "results": {
+          "rawUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_135522_0cf1e7e5-36da-4261-8aa9-820221a277d1.mp4",
+          "thumbnailUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_135352_82d3aacd-4b8b-4c88-a67f-a260fa2877ad.png"
+        },
+        "createdAt": 1789998922.094047
+      },
+      {
+        "id": "58f8ae9f-a5ec-4022-a9de-c847d51d852d",
+        "type": "video",
+        "status": "completed",
+        "model": "kling3_0",
+        "params": {
+          "prompt": "The man finishes pressing a reminder sheet to the wall, smoothing its upper edge once, then lets his arm drop in tired resignation. Existing papers stay attached, their corners barely flutter from the air conditioner that remains on. Camera slowly tilts upward a few degrees to include the still-operating air conditioner and the cluttered wall. One continuous realistic shot, preserve face hands room. No speech, no magical appearing papers.",
+          "aspect_ratio": "9:16",
+          "duration": 5,
+          "medias": [
+            {
+              "role": "start_image",
+              "data": {
+                "id": "d8aab5c8-7b85-4931-84f6-f2809d62629f",
+                "type": "image_job",
+                "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_134951_d8aab5c8-7b85-4931-84f6-f2809d62629f.png"
+              }
+            }
+          ],
+          "width": 720,
+          "height": 1280,
+          "multi_shots": false,
+          "multi_prompt": [],
+          "sound": "off",
+          "cfg_scale": 0.5,
+          "mode": "std",
+          "kling_elements": [],
+          "kling_element_ids": [],
+          "multi_shot_mode": "custom",
+          "reference_elements": [],
+          "enhance_prompt": false
+        },
+        "results": {
+          "rawUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_135356_58f8ae9f-a5ec-4022-a9de-c847d51d852d.mp4",
+          "thumbnailUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_134951_d8aab5c8-7b85-4931-84f6-f2809d62629f.png"
+        },
+        "createdAt": 1789998836.208408
+      },
+      {
+        "id": "c109577a-23f4-40a3-a121-e37bd63eb8de",
+        "type": "video",
+        "status": "completed",
+        "model": "kling3_0",
+        "params": {
+          "prompt": "One continuous shot, locked camera. The man completes ONE small check mark in a square on the paper using his pen, then puts the pen down beside the paper and lifts his gaze slightly as if finished. The blue power light of the air conditioner behind him stays ON and the outlet stays OPEN through the entire shot. Natural restrained physical hand movement, no extra fingers, maintain exact face and glasses. No speaking, no scene cuts.",
+          "aspect_ratio": "9:16",
+          "duration": 5,
+          "medias": [
+            {
+              "role": "start_image",
+              "data": {
+                "id": "178584cb-390a-4905-b1c0-e9c64de03dd5",
+                "type": "image_job",
+                "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_135351_178584cb-390a-4905-b1c0-e9c64de03dd5.png"
+              }
+            }
+          ],
+          "width": 720,
+          "height": 1280,
+          "multi_shots": false,
+          "multi_prompt": [],
+          "sound": "off",
+          "cfg_scale": 0.5,
+          "mode": "std",
+          "kling_elements": [],
+          "kling_element_ids": [],
+          "multi_shot_mode": "custom",
+          "reference_elements": [],
+          "enhance_prompt": false
+        },
+        "results": {
+          "rawUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_135521_c109577a-23f4-40a3-a121-e37bd63eb8de.mp4",
+          "thumbnailUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_135351_178584cb-390a-4905-b1c0-e9c64de03dd5.png"
+        },
+        "createdAt": 1789998921.313697
+      },
+      {
+        "id": "75f84dc8-9a8b-4d10-b0fc-f392aade8641",
+        "type": "video",
+        "status": "completed",
+        "model": "kling3_0",
+        "params": {
+          "prompt": "The man presses the remote control power button once, then holds still. The air conditioner's long outlet flap visibly closes slowly from open to completely shut, and the small power light turns off. The woman keeps looking at the air conditioner until the flap is shut, then nods once. Preserve both faces, exact clothing and remote grip. Locked camera, realistic subtle movements, one continuous shot, no talking, no extra hands.",
+          "aspect_ratio": "9:16",
+          "duration": 5,
+          "medias": [
+            {
+              "role": "start_image",
+              "data": {
+                "id": "e86281b2-c345-458e-a36f-68e2a68d4d94",
+                "type": "image_job",
+                "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_134952_e86281b2-c345-458e-a36f-68e2a68d4d94.png"
+              }
+            }
+          ],
+          "width": 720,
+          "height": 1280,
+          "multi_shots": false,
+          "multi_prompt": [],
+          "sound": "off",
+          "cfg_scale": 0.5,
+          "mode": "std",
+          "kling_elements": [],
+          "kling_element_ids": [],
+          "multi_shot_mode": "custom",
+          "reference_elements": [],
+          "enhance_prompt": false
+        },
+        "results": {
+          "rawUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_135354_75f84dc8-9a8b-4d10-b0fc-f392aade8641.mp4",
+          "thumbnailUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_134952_e86281b2-c345-458e-a36f-68e2a68d4d94.png"
+        },
+        "createdAt": 1789998834.903658
+      }
+    ],
+    "jobs": [
+      {
+        "index": 1,
+        "job_id": "2e566440-896e-475c-8ea4-0bd95e47903b",
+        "status": "completed",
+        "type": "video",
+        "model": "kling3_0",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_135355_2e566440-896e-475c-8ea4-0bd95e47903b.mp4"
+      },
+      {
+        "index": 2,
+        "job_id": "0cf1e7e5-36da-4261-8aa9-820221a277d1",
+        "status": "completed",
+        "type": "video",
+        "model": "kling3_0",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_135522_0cf1e7e5-36da-4261-8aa9-820221a277d1.mp4"
+      },
+      {
+        "index": 3,
+        "job_id": "58f8ae9f-a5ec-4022-a9de-c847d51d852d",
+        "status": "completed",
+        "type": "video",
+        "model": "kling3_0",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_135356_58f8ae9f-a5ec-4022-a9de-c847d51d852d.mp4"
+      },
+      {
+        "index": 4,
+        "job_id": "c109577a-23f4-40a3-a121-e37bd63eb8de",
+        "status": "completed",
+        "type": "video",
+        "model": "kling3_0",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_135521_c109577a-23f4-40a3-a121-e37bd63eb8de.mp4"
+      },
+      {
+        "index": 5,
+        "job_id": "75f84dc8-9a8b-4d10-b0fc-f392aade8641",
+        "status": "completed",
+        "type": "video",
+        "model": "kling3_0",
+        "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_135354_75f84dc8-9a8b-4d10-b0fc-f392aade8641.mp4"
+      }
+    ],
+    "all_found": true
+  },
+  "image_prompts": [
+    {
+      "model": "soul_2",
+      "soul_id": "6de0213f-4463-4a36-98c7-2ae41dd38071",
+      "quality": "2k",
+      "aspect_ratio": "9:16",
+      "prompt": "Photoreal live-action cinematic still for a vertical Korean restaurant-owner short film, 9:16. The main man is the exact trained Soul ID identity, natural face, black rectangular glasses, short dark hair. Wardrobe continuity: ivory short-sleeve cotton shirt, charcoal trousers, plain black apron, silver wristwatch. The SAME small contemporary Korean restaurant design across shots: honey oak wall panels, matte charcoal tables, black steel chairs, black-framed glass front door, a plain white wall-mounted split air conditioner above the oak wall. Natural skin texture, believable hand anatomy, tactile ordinary materials, controlled warm practical lights and daylight, restrained film color, legible visual story. No title, subtitles, watermarks, fake logos or readable generated lettering. Medium-wide three-quarter side shot at the restaurant entrance on a warm summer morning, showing the man from knees up on the right third, his face visible as he looks into the restaurant. His right hand grips the black door handle naturally. The glass door is just slightly ajar, revealing a thin wedge of cold blue interior light. At floor level a little cold mist spills through the gap. Warm sunlight on his shirt, subtle surprised anticipation. There is ample frame space on the left for the doorway and interior. Real physical doorway and feet firmly on pavement. This is the instant just before opening the door farther."
+    },
+    {
+      "model": "soul_2",
+      "soul_id": "6de0213f-4463-4a36-98c7-2ae41dd38071",
+      "quality": "2k",
+      "aspect_ratio": "9:16",
+      "prompt": "Photoreal live-action cinematic still for a vertical Korean restaurant-owner short film, 9:16. The main man is the exact trained Soul ID identity, natural face, black rectangular glasses, short dark hair. Wardrobe continuity: ivory short-sleeve cotton shirt, charcoal trousers, plain black apron, silver wristwatch. The SAME small contemporary Korean restaurant design across shots: honey oak wall panels, matte charcoal tables, black steel chairs, black-framed glass front door, a plain white wall-mounted split air conditioner above the oak wall. Natural skin texture, believable hand anatomy, tactile ordinary materials, controlled warm practical lights and daylight, restrained film color, legible visual story. No title, subtitles, watermarks, fake logos or readable generated lettering. A wide interior reveal of this ordinary restaurant transformed by impossible cold: tables and chair legs are coated with detailed white frost, small icicles hang from table edges, thin low cold mist above the floor, the air conditioner on the upper wall is on with its louver open and a tiny cyan power light. The same man is standing on the right in three-quarter view, visible head to knees, he has just stepped in and stares in disbelief, mouth slightly parted, shoulders raised against cold. Warm morning sunlight from the black-framed entrance behind him contrasts with blue-white frozen interior. Keep the restaurant recognizable, no polar landscape, no penguins, no snowman. His face must remain recognizable and large enough to read. Composition conveys discovery, not posing."
+    },
+    {
+      "model": "soul_2",
+      "soul_id": "6de0213f-4463-4a36-98c7-2ae41dd38071",
+      "quality": "2k",
+      "aspect_ratio": "9:16",
+      "prompt": "Photoreal live-action cinematic still for a vertical Korean restaurant-owner short film, 9:16. The main man is the exact trained Soul ID identity, natural face, black rectangular glasses, short dark hair. Wardrobe continuity: ivory short-sleeve cotton shirt, charcoal trousers, plain black apron, silver wristwatch. The SAME small contemporary Korean restaurant design across shots: honey oak wall panels, matte charcoal tables, black steel chairs, black-framed glass front door, a plain white wall-mounted split air conditioner above the oak wall. Natural skin texture, believable hand anatomy, tactile ordinary materials, controlled warm practical lights and daylight, restrained film color, legible visual story. No title, subtitles, watermarks, fake logos or readable generated lettering. Medium shot of the same man in three-quarter profile at the restaurant's oak wall beside the glass exit door. He holds a single clean pale-yellow rectangular reminder sheet against the wall with one hand and a small piece of tape in the other. On that wall there are already several plain cream and pale-yellow blank reminder sheets with dog-eared corners, leaving negative space for more. The white wall-mounted air conditioner is clearly visible above at upper left, its lower air outlet open, small blue operating light ON. His expression is weary, not angry. Warm evening practical light. All paper surfaces blank for post-production typography. Hands and tape contact with paper is anatomically plausible. This is an ordinary cluttered warning wall, no floating or magical papers."
+    },
+    {
+      "model": "soul_2",
+      "soul_id": "6de0213f-4463-4a36-98c7-2ae41dd38071",
+      "quality": "2k",
+      "aspect_ratio": "9:16",
+      "prompt": "Photoreal live-action cinematic still for a vertical Korean restaurant-owner short film, 9:16. The main man is the exact trained Soul ID identity, natural face, black rectangular glasses, short dark hair. Wardrobe continuity: ivory short-sleeve cotton shirt, charcoal trousers, plain black apron, silver wristwatch. The SAME small contemporary Korean restaurant design across shots: honey oak wall panels, matte charcoal tables, black steel chairs, black-framed glass front door, a plain white wall-mounted split air conditioner above the oak wall. Natural skin texture, believable hand anatomy, tactile ordinary materials, controlled warm practical lights and daylight, restrained film color, legible visual story. No title, subtitles, watermarks, fake logos or readable generated lettering. Over-the-shoulder close medium view of the same man at a narrow restaurant counter. His recognizable three-quarter face appears in the upper right third looking down. In the foreground center a plain cream clipboard is tilted toward camera with a simple ruled checklist and ONE large EMPTY square checkbox in its upper half, no writing. His right hand holds a black pen with tip just above the empty square; his left supports the clipboard naturally. In the upper-left background, clear enough to identify, the white wall-mounted air conditioner is STILL ON: lower louver open, cyan power indicator lit. Keep the paper and open air conditioner simultaneously readable in the vertical composition. Warm closing-time light, understated mood of an unnoticed mismatch."
+    },
+    {
+      "model": "soul_2",
+      "soul_id": "6de0213f-4463-4a36-98c7-2ae41dd38071",
+      "quality": "2k",
+      "aspect_ratio": "9:16",
+      "prompt": "Photoreal live-action cinematic still for a vertical Korean restaurant-owner short film, 9:16. The main man is the exact trained Soul ID identity, natural face, black rectangular glasses, short dark hair. Wardrobe continuity: ivory short-sleeve cotton shirt, charcoal trousers, plain black apron, silver wristwatch. The SAME small contemporary Korean restaurant design across shots: honey oak wall panels, matte charcoal tables, black steel chairs, black-framed glass front door, a plain white wall-mounted split air conditioner above the oak wall. Natural skin texture, believable hand anatomy, tactile ordinary materials, controlled warm practical lights and daylight, restrained film color, legible visual story. No title, subtitles, watermarks, fake logos or readable generated lettering. Medium two-person shot in the same restaurant at closing time. The main Soul ID man stands at left in ivory shirt and charcoal apron, recognizable three-quarter face, holding a plain white remote in his right hand aimed at the white wall-mounted air conditioner in upper center, thumb poised over one button. A distinct adult Korean woman coworker in a beige shirt and dark apron stands at right, she looks up attentively at the same air conditioner, holding a small plain clipboard down at her waist. The air conditioner outlet is OPEN, blue operating light ON, preparing to turn off. Both people's eyelines point to the appliance. Grounded teamwork, no smiling at camera or posed thumbs-up. Clear hands, correct remote grip, no text, no screens with invented app UI."
+    }
+  ],
+  "repair_prompts": [
+    {
+      "model": "soul_2",
+      "soul_id": "6de0213f-4463-4a36-98c7-2ae41dd38071",
+      "quality": "2k",
+      "aspect_ratio": "9:16",
+      "prompt": "Single full-frame cinematic photograph, no collage, no panels. The Soul ID man standing upright at a black framed restaurant entrance, seen from knees up, ivory short sleeve shirt and black apron, black glasses. He looks through the doorway, one hand on the door handle, body angled away from camera. Warm summer sunlight outside. Cold blue mist spills across the threshold from inside. Natural anatomy, 35mm lens, premium Korean film lighting, restrained color. No outdoor air conditioner visible, no text."
+    },
+    {
+      "model": "soul_2",
+      "soul_id": "6de0213f-4463-4a36-98c7-2ae41dd38071",
+      "quality": "2k",
+      "aspect_ratio": "9:16",
+      "prompt": "ONE single continuous full-frame photograph, NOT a collage, NOT split screen, NOT repeated panels. Wide 35mm cinematic view inside a small Korean restaurant, honey oak walls, charcoal tables, black chairs. Every table and chair is thickly covered in white frost and long icicles. Low blue-white freezing mist covers the floor. A white wall-mounted split air conditioner is on. The Soul ID man stands on the right looking across the frozen room in disbelief, ivory short sleeve shirt, black apron, black glasses, both arms relaxed by his sides. His body visible head to knees. Cold blue light, warm sunlight at entrance, dramatic realistic film image. No text."
+    },
+    {
+      "model": "soul_2",
+      "soul_id": "6de0213f-4463-4a36-98c7-2ae41dd38071",
+      "quality": "2k",
+      "aspect_ratio": "9:16",
+      "prompt": "ONE single continuous full-frame photograph, no collage, no panels. Medium cinematic shot in a Korean restaurant with honey oak walls and charcoal tables. Soul ID man with black glasses wearing ivory short sleeve shirt and black apron, looking down as he marks a small paper checklist resting flat on a counter, black pen in his right hand. A plain white modern wall mounted split air conditioner behind him is clearly operating with its vent open and a blue power light. Camera looks diagonally across the counter; both face and hands visible. The paper has simple empty square checkboxes, no writing. Warm low evening light, realistic premium film photography."
+    }
+  ],
+  "edit_prompts": [
+    {
+      "model": "gpt_image_2_5",
+      "quality": "high",
+      "resolution": "2k",
+      "aspect_ratio": "9:16",
+      "medias": [
+        {
+          "role": "image_references",
+          "value": "e86281b2-c345-458e-a36f-68e2a68d4d94"
+        }
+      ],
+      "prompt": "Preserve the reference man's exact face glasses and ivory shirt black apron. Single cinematic photograph: he stands on right third, head to knees, stunned looking left over an entire small restaurant covered in thick frost and icicles. Oak walls charcoal tables black chairs; one normal modern white wall air conditioner. Cold blue light from windows, subtle warm hanging practical lamps, floating low mist. Full-frame single composition, no panels, no collage. No lettering. Premium film still."
+    },
+    {
+      "model": "gpt_image_2_5",
+      "quality": "high",
+      "resolution": "2k",
+      "aspect_ratio": "9:16",
+      "medias": [
+        {
+          "role": "image_references",
+          "value": "6a1f53f8-87dc-489a-bdc2-3e39ab774c43"
+        }
+      ],
+      "prompt": "Edit this photograph preserving exactly the man, face, hands, glasses, shirt, apron, paper, camera angle, room. Replace the large outdoor condenser fan on the indoor wall with a realistic smooth white rectangular wall-mounted indoor split air conditioner with narrow horizontal outlet louvers OPEN and a single small blue power indicator. There must be NO big circular fan visible. Remove all nonsense lettering and logos. On the checklist use simple grid lines and empty square checkboxes. Warm cinematic closing-time lighting. Single continuous photograph."
+    }
+  ],
+  "video_requests": [
+    {
+      "index": 1,
+      "params": {
+        "model": "kling3_0",
+        "mode": "std",
+        "sound": "off",
+        "duration": 5,
+        "aspect_ratio": "9:16",
+        "medias": [
+          {
+            "role": "start_image",
+            "value": "a52e67e3-ce58-4c93-943a-2e664fed00ea"
+          }
+        ],
+        "prompt": "The standing man slowly opens the door further and takes one cautious half-step into the restaurant. Cold mist rolls out past his ankles. Keep the camera at the original height, a subtle forward push following his shoulder. His hand stays physically connected to the handle until he releases it. Natural realistic movement, preserve clothes and identity. One continuous shot, no cut, no speech."
+      }
+    },
+    {
+      "index": 2,
+      "params": {
+        "model": "kling3_0",
+        "mode": "std",
+        "sound": "off",
+        "duration": 5,
+        "aspect_ratio": "9:16",
+        "medias": [
+          {
+            "role": "start_image",
+            "value": "82d3aacd-4b8b-4c88-a67f-a260fa2877ad"
+          }
+        ],
+        "prompt": "One continuous cinematic shot. The man slowly looks across the frozen restaurant, exhales a small visible cloud of breath and shivers once, bringing his shoulders up slightly. A few tiny ice crystals drift down; icicles and furniture remain solid and stable. Slow subtle camera dolly forward, enough parallax to reveal the frozen tables. Keep his exact face glasses clothing and realistic anatomy. No talking, no smiling at camera, no transformation of room."
+      }
+    },
+    {
+      "index": 3,
+      "params": {
+        "model": "kling3_0",
+        "mode": "std",
+        "sound": "off",
+        "duration": 5,
+        "aspect_ratio": "9:16",
+        "medias": [
+          {
+            "role": "start_image",
+            "value": "d8aab5c8-7b85-4931-84f6-f2809d62629f"
+          }
+        ],
+        "prompt": "The man finishes pressing a reminder sheet to the wall, smoothing its upper edge once, then lets his arm drop in tired resignation. Existing papers stay attached, their corners barely flutter from the air conditioner that remains on. Camera slowly tilts upward a few degrees to include the still-operating air conditioner and the cluttered wall. One continuous realistic shot, preserve face hands room. No speech, no magical appearing papers."
+      }
+    },
+    {
+      "index": 4,
+      "params": {
+        "model": "kling3_0",
+        "mode": "std",
+        "sound": "off",
+        "duration": 5,
+        "aspect_ratio": "9:16",
+        "medias": [
+          {
+            "role": "start_image",
+            "value": "178584cb-390a-4905-b1c0-e9c64de03dd5"
+          }
+        ],
+        "prompt": "One continuous shot, locked camera. The man completes ONE small check mark in a square on the paper using his pen, then puts the pen down beside the paper and lifts his gaze slightly as if finished. The blue power light of the air conditioner behind him stays ON and the outlet stays OPEN through the entire shot. Natural restrained physical hand movement, no extra fingers, maintain exact face and glasses. No speaking, no scene cuts."
+      }
+    },
+    {
+      "index": 5,
+      "params": {
+        "model": "kling3_0",
+        "mode": "std",
+        "sound": "off",
+        "duration": 5,
+        "aspect_ratio": "9:16",
+        "medias": [
+          {
+            "role": "start_image",
+            "value": "e86281b2-c345-458e-a36f-68e2a68d4d94"
+          }
+        ],
+        "prompt": "The man presses the remote control power button once, then holds still. The air conditioner's long outlet flap visibly closes slowly from open to completely shut, and the small power light turns off. The woman keeps looking at the air conditioner until the flap is shut, then nods once. Preserve both faces, exact clothing and remote grip. Locked camera, realistic subtle movements, one continuous shot, no talking, no extra hands."
+      }
+    }
+  ],
+  "credits": {
+    "before": 2838.51,
+    "after": 2800.3,
+    "spent": 38.21
+  },
+  "review": "0.5초 간격 프레임 50장 확인. 실시간 전체 재생 검수는 사용자 확인 대기. 무음.",
+  "status": "검토본; 사용자 채택 미정"
+}

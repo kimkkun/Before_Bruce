@@ -1,0 +1,16 @@
+{
+  "duration": 90800000,
+  "captions": 69,
+  "video_clips": 48,
+  "files_updated": 6,
+  "render_verified": false,
+  "reopened_in_capcut": true,
+  "ui_duration": "00:01:30:24",
+  "visual_checks": [
+    "basic one-line caption",
+    "long basic caption",
+    "red underline emphasis",
+    "125% punch-in"
+  ],
+  "full_playback_audio_sync_verified": false
+}

@@ -1,0 +1,35 @@
+# Media remains local; this repository shares structure, documents and code.
+*.[mM][oO][vV]
+*.[mM][pP]4
+*.[mM][kK][vV]
+*.[aA][vV][iI]
+*.[wW][eE][bB][mM]
+*.[mM]4[vV]
+*.[mM][pP]3
+*.[wW][aA][vV]
+*.[mM]4[aA]
+*.[aA][aA][cC]
+*.[fF][lL][aA][cC]
+*.[zZ][iI][pP]
+*.7z
+*.tar
+*.gz
+*.npy
+*.ttf
+*.otf
+*.tmp
+*.partial
+*.lock
+*.log
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+
+# Copied editor runtime caches
+cache/

@@ -1,0 +1,60 @@
+{
+  "timeline_seconds": 124.2,
+  "export_video_frames": 3725,
+  "export_audio_peak_dbfs": -1.6125127738244827,
+  "voice_to_export_correlation": 0.8721027130713609,
+  "audio_offset_ms": 47.6875,
+  "original_hashes_unchanged": true,
+  "project_matches_applied": true,
+  "visual_samples_seconds": [
+    0,
+    4.8,
+    16,
+    39,
+    69.5,
+    76.5,
+    101.5,
+    104.5,
+    112,
+    121.5
+  ],
+  "validation_limits": "Representative exported frames, full video decode, waveform and ASR checks; not full human listening.",
+  "five_second_audio_checks": [
+    {
+      "start": 0,
+      "offset_ms": 47.875,
+      "correlation": 0.9874322321351078
+    },
+    {
+      "start": 10,
+      "offset_ms": 47.9375,
+      "correlation": 0.986187946753367
+    },
+    {
+      "start": 30,
+      "offset_ms": 47.8125,
+      "correlation": 0.9908481190306084
+    },
+    {
+      "start": 50,
+      "offset_ms": 47.6875,
+      "correlation": 0.9830536285330707
+    },
+    {
+      "start": 75,
+      "offset_ms": 47.625,
+      "correlation": 0.972451592563042
+    },
+    {
+      "start": 100,
+      "offset_ms": 47.5625,
+      "correlation": 0.990533440147274
+    },
+    {
+      "start": 115,
+      "offset_ms": 47.5,
+      "correlation": 0.9864027855128057
+    }
+  ],
+  "audio_note": "Global correlation is sensitive to sub-millisecond sample alignment drift. Seven local 5-second windows align within 47.5–47.94ms and individually exceed 0.95 correlation."
+}

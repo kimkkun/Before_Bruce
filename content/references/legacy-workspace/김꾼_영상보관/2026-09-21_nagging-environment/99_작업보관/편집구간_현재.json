@@ -1,0 +1,32 @@
+[
+  {
+    "out": "/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-21_nagging-environment/02_결과보기/김꾼_비컷4장면_재현검토본_v004.mp4",
+    "segments": [
+      {
+        "path": "/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-21_nagging-environment/99_작업보관/Higgsfield/03_인물기반 생성/S01A_문을여는김꾼/02_생성버전/v003/영상.mp4",
+        "from": 1,
+        "dur": 1.8
+      },
+      {
+        "path": "/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-21_nagging-environment/99_작업보관/Higgsfield/03_인물기반 생성/S01B_남극이된매장/02_생성버전/v004/영상.mp4",
+        "from": 0.5,
+        "dur": 3.2
+      },
+      {
+        "path": "/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-21_nagging-environment/99_작업보관/Higgsfield/03_인물기반 생성/S02_늘어나는안내문/02_생성버전/v002/영상.mp4",
+        "from": 0,
+        "dur": 2.8
+      },
+      {
+        "path": "/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-21_nagging-environment/99_작업보관/Higgsfield/03_인물기반 생성/S03_체크만끝난마감/02_생성버전/v004/영상.mp4",
+        "from": 0.4,
+        "dur": 3.6
+      },
+      {
+        "path": "/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-21_nagging-environment/99_작업보관/Higgsfield/03_인물기반 생성/S04_실제로끄고확인/02_생성버전/v002/영상.mp4",
+        "from": 0,
+        "dur": 5
+      }
+    ]
+  }
+]

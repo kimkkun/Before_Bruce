@@ -1,0 +1,42 @@
+{
+  "params": {
+    "model": "hf_mult_replace_object",
+    "resolution": "720p",
+    "duration": 5,
+    "medias": [
+      {
+        "role": "video_references",
+        "value": "f2faa36e-f14b-44e8-a0c8-3a391e1b5843"
+      },
+      {
+        "role": "image_references",
+        "value": "5f9015d4-a3ac-42bb-8f4c-6ccd75e26823"
+      }
+    ],
+    "prompt": "Edit this live-action talking-head video. Preserve the man's exact identity, face, black glasses, white shirt, microphone, natural gestures, mouth movements, framing and timing. Add only a dramatic cast shadow on the beige wall behind him: it starts as a small human silhouette, then gradually grows huge and ominous, with broad exaggerated shoulders, looming behind the real man by the end. The man himself remains fully human and unchanged. The shadow is a flat soft-edged projected silhouette attached to the background wall, not a solid creature or second person. Match the original warm indoor light and photorealism. Preserve original room and foreground. No text, no cuts, no new speech. The reference image is the original first frame, supplied to anchor the unchanged man's appearance and room. Apply the requested growing shadow to the video background."
+  },
+  "job": {
+    "index": 1,
+    "job_id": "d307f061-a92e-47b4-a336-730b11fb3fbd"
+  },
+  "source": {
+    "media_id": "f2faa36e-f14b-44e8-a0c8-3a391e1b5843",
+    "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/f2faa36e-f14b-44e8-a0c8-3a391e1b5843.mp4"
+  },
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_105853_d307f061-a92e-47b4-a336-730b11fb3fbd.mp4",
+  "outputs": [
+    {
+      "media_id": "4db4a6c5-71d4-4dbc-8a0f-873c1a2ae59b",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/4db4a6c5-71d4-4dbc-8a0f-873c1a2ae59b.mp4"
+    },
+    {
+      "media_id": "02c1c27f-c2d7-4bd8-85d8-0a0da66ab16e",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/02c1c27f-c2d7-4bd8-85d8-0a0da66ab16e.mp4"
+    },
+    {
+      "media_id": "9326892f-0485-432b-b39c-8fcab6b9e847",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/9326892f-0485-432b-b39c-8fcab6b9e847.jpg"
+    }
+  ]
+}

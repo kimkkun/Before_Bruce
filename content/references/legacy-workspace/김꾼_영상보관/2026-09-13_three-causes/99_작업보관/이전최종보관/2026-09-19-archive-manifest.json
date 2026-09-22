@@ -1,0 +1,22 @@
+{
+  "archived_date": "2026-09-19",
+  "user_identified_final": true,
+  "publication_status": "unverified",
+  "export_duration_seconds": 121.301043,
+  "timeline_duration_seconds": 121.233333,
+  "live_tracks_and_materials_match_saved_project": true,
+  "files": [
+    {
+      "source": "/Users/kim.kkun/Movies/CapCut/2026-09-13_three-causes_v001(1).mov",
+      "saved": "2026-09-18_three-causes_final-v001.mov",
+      "sha256": "a81dcd34c65d5964d222a1ee1471968197bedf65c0d081b258cb04cd9859042f",
+      "bytes": 304893725
+    },
+    {
+      "source": "/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-13_three-causes/03_수환수정/2026-09-18-capcut-reference.zip",
+      "saved": "2026-09-18_three-causes_project-v001.zip",
+      "sha256": "5d64a89cb2114d6ee737b9fe1022d10fc96132a5a82785ef0bad622fdfcf048a",
+      "bytes": 816166873
+    }
+  ]
+}

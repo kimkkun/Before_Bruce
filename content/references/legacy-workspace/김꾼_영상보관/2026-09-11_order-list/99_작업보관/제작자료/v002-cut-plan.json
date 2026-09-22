@@ -1,0 +1,215 @@
+{
+  "source": "/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-11_order-list/01_원본/copy_9B0EF888-D596-4CC0-92D7-00D702EB125D.MOV",
+  "source_sha256": "ca96c8fddf7a0ea07abb8b85a7f2633521fcd9175762f4ad844b4b208229b592",
+  "source_duration": 179.349342,
+  "asr_to_source_offset_seconds": 0.6950113378684807,
+  "retake_removed_asr": [
+    [
+      7.248,
+      9.002
+    ],
+    [
+      141.11,
+      143.28
+    ]
+  ],
+  "fps": 30,
+  "duration": 105.63333333333334,
+  "clips": 32,
+  "keeps": [
+    {
+      "source_start": 1.0666666666666667,
+      "source_end": 4.4,
+      "target_start": 0.0,
+      "duration": 3.3333333333333335
+    },
+    {
+      "source_start": 4.7,
+      "source_end": 6.933333333333334,
+      "target_start": 3.3333333333333335,
+      "duration": 2.2333333333333334
+    },
+    {
+      "source_start": 10.033333333333333,
+      "source_end": 13.366666666666667,
+      "target_start": 5.566666666666666,
+      "duration": 3.3333333333333335
+    },
+    {
+      "source_start": 15.933333333333334,
+      "source_end": 17.366666666666667,
+      "target_start": 8.9,
+      "duration": 1.4333333333333333
+    },
+    {
+      "source_start": 23.1,
+      "source_end": 28.833333333333332,
+      "target_start": 10.333333333333334,
+      "duration": 5.733333333333333
+    },
+    {
+      "source_start": 29.5,
+      "source_end": 32.1,
+      "target_start": 16.066666666666666,
+      "duration": 2.6
+    },
+    {
+      "source_start": 33.06666666666667,
+      "source_end": 36.7,
+      "target_start": 18.666666666666668,
+      "duration": 3.6333333333333333
+    },
+    {
+      "source_start": 41.233333333333334,
+      "source_end": 43.766666666666666,
+      "target_start": 22.3,
+      "duration": 2.533333333333333
+    },
+    {
+      "source_start": 44.4,
+      "source_end": 47.6,
+      "target_start": 24.833333333333332,
+      "duration": 3.2
+    },
+    {
+      "source_start": 48.56666666666667,
+      "source_end": 51.166666666666664,
+      "target_start": 28.033333333333335,
+      "duration": 2.6
+    },
+    {
+      "source_start": 51.43333333333333,
+      "source_end": 52.833333333333336,
+      "target_start": 30.633333333333333,
+      "duration": 1.4
+    },
+    {
+      "source_start": 57.8,
+      "source_end": 63.833333333333336,
+      "target_start": 32.03333333333333,
+      "duration": 6.033333333333333
+    },
+    {
+      "source_start": 66.26666666666667,
+      "source_end": 69.93333333333334,
+      "target_start": 38.06666666666667,
+      "duration": 3.6666666666666665
+    },
+    {
+      "source_start": 73.53333333333333,
+      "source_end": 76.73333333333333,
+      "target_start": 41.733333333333334,
+      "duration": 3.2
+    },
+    {
+      "source_start": 77.5,
+      "source_end": 79.7,
+      "target_start": 44.93333333333333,
+      "duration": 2.2
+    },
+    {
+      "source_start": 83.83333333333333,
+      "source_end": 87.06666666666666,
+      "target_start": 47.13333333333333,
+      "duration": 3.2333333333333334
+    },
+    {
+      "source_start": 87.8,
+      "source_end": 90.33333333333333,
+      "target_start": 50.36666666666667,
+      "duration": 2.533333333333333
+    },
+    {
+      "source_start": 90.93333333333334,
+      "source_end": 93.33333333333333,
+      "target_start": 52.9,
+      "duration": 2.4
+    },
+    {
+      "source_start": 97.53333333333333,
+      "source_end": 100.4,
+      "target_start": 55.3,
+      "duration": 2.8666666666666667
+    },
+    {
+      "source_start": 100.63333333333334,
+      "source_end": 106.5,
+      "target_start": 58.166666666666664,
+      "duration": 5.866666666666666
+    },
+    {
+      "source_start": 110.63333333333334,
+      "source_end": 116.83333333333333,
+      "target_start": 64.03333333333333,
+      "duration": 6.2
+    },
+    {
+      "source_start": 116.96666666666667,
+      "source_end": 118.56666666666666,
+      "target_start": 70.23333333333333,
+      "duration": 1.6
+    },
+    {
+      "source_start": 119.16666666666667,
+      "source_end": 121.66666666666667,
+      "target_start": 71.83333333333333,
+      "duration": 2.5
+    },
+    {
+      "source_start": 124.93333333333334,
+      "source_end": 127.93333333333334,
+      "target_start": 74.33333333333333,
+      "duration": 3.0
+    },
+    {
+      "source_start": 131.2,
+      "source_end": 135.93333333333334,
+      "target_start": 77.33333333333333,
+      "duration": 4.733333333333333
+    },
+    {
+      "source_start": 139.33333333333334,
+      "source_end": 141.83333333333334,
+      "target_start": 82.06666666666666,
+      "duration": 2.5
+    },
+    {
+      "source_start": 143.96666666666667,
+      "source_end": 146.93333333333334,
+      "target_start": 84.56666666666666,
+      "duration": 2.966666666666667
+    },
+    {
+      "source_start": 150.5,
+      "source_end": 153.26666666666668,
+      "target_start": 87.53333333333333,
+      "duration": 2.7666666666666666
+    },
+    {
+      "source_start": 153.5,
+      "source_end": 155.73333333333332,
+      "target_start": 90.3,
+      "duration": 2.2333333333333334
+    },
+    {
+      "source_start": 158.16666666666666,
+      "source_end": 162.33333333333334,
+      "target_start": 92.53333333333333,
+      "duration": 4.166666666666667
+    },
+    {
+      "source_start": 165.3,
+      "source_end": 168.73333333333332,
+      "target_start": 96.7,
+      "duration": 3.433333333333333
+    },
+    {
+      "source_start": 172.03333333333333,
+      "source_end": 177.53333333333333,
+      "target_start": 100.13333333333334,
+      "duration": 5.5
+    }
+  ],
+  "stage": "cut only; original framing, no captions or music",
+  "audio": "original stereo 44100 Hz; 4 ms cut-edge fades"
+}

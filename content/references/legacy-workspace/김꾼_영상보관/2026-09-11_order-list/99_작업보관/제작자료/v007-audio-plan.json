@@ -1,0 +1,56 @@
+{
+  "duration_seconds": 81.233333,
+  "voice_gain_db": 9,
+  "bgm_gain_db": -28,
+  "voice_rms_db": -23.570463180541992,
+  "bgm_rms_db": -42.310035705566406,
+  "predicted_mix_peak_db": -3.990031078493532,
+  "sfx": [
+    {
+      "caption": "그런데 주문은 안 들어갔죠",
+      "start": 2.466666,
+      "duration": 1.366666,
+      "gain": 0.1537898343267471,
+      "path": "/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-11_order-list/02_AI편집/v007-sfx-wood.mp3"
+    },
+    {
+      "caption": "위로 밀려 있는 거죠",
+      "start": 30.533333,
+      "duration": 1.366666,
+      "gain": 0.1537898343267471,
+      "path": "/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-11_order-list/02_AI편집/v007-sfx-wood.mp3"
+    },
+    {
+      "caption": "빠지는 겁니다",
+      "start": 41.466666,
+      "duration": 1.366666,
+      "gain": 0.1537898343267471,
+      "path": "/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-11_order-list/02_AI편집/v007-sfx-wood.mp3"
+    },
+    {
+      "caption": "끝!",
+      "start": 48.166666,
+      "duration": 2.666666,
+      "gain": 0.10895065833222503,
+      "path": "/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-11_order-list/02_AI편집/v007-sfx-drum.mp3"
+    },
+    {
+      "caption": "사장님 주문표에 다 모입니다",
+      "start": 57.033333,
+      "duration": 1.366666,
+      "gain": 0.1537898343267471,
+      "path": "/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-11_order-list/02_AI편집/v007-sfx-wood.mp3"
+    },
+    {
+      "caption": "주문이 들어가진 않잖아요",
+      "start": 75.533333,
+      "duration": 1.366666,
+      "gain": 0.1537898343267471,
+      "path": "/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-11_order-list/02_AI편집/v007-sfx-wood.mp3"
+    }
+  ],
+  "pov_text": "POV:\n주문 들어왔는데\n재료가 없을 때",
+  "pov_end": 7.666666,
+  "intro_scene": false,
+  "final_export_verified": false
+}

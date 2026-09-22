@@ -1,0 +1,562 @@
+[
+  {
+    "path": "0919/draft_virtual_store.json",
+    "bytes": 489,
+    "sha256": "f54e00dadb4ebe205bb662878fdf4a77986b22c725f46e4c1c477aa9899d5019"
+  },
+  {
+    "path": "0919/performance_opt_info.json",
+    "bytes": 71,
+    "sha256": "22b9f1b911c55c0fc253ad95d07474133b8c03462157f19304114956ffe0e3fe"
+  },
+  {
+    "path": "0919/draft.extra",
+    "bytes": 206288,
+    "sha256": "6b1390c6cfb9bd558a77a983e45f08a40b966f915257b0c2d61143cec1bd4fc0"
+  },
+  {
+    "path": "0919/draft_settings",
+    "bytes": 142,
+    "sha256": "6251d0214a4c414bffccdea58696b65837d60d9f9aa0d61fd6b3dbb3e40c7529"
+  },
+  {
+    "path": "0919/template.tmp",
+    "bytes": 1272477,
+    "sha256": "faac5d3c1122379a909810f4380cb8a32223ec06921110156642c0a500df3104"
+  },
+  {
+    "path": "0919/template-2.tmp",
+    "bytes": 1272517,
+    "sha256": "f27941c5f8cd44380f0eeb06e55e93c5784a40d87ca25af7d7c33ade9ee12914"
+  },
+  {
+    "path": "0919/draft_meta_info.json",
+    "bytes": 3568,
+    "sha256": "61d8dcd37d7b0141ceb40aaa90e5b5f48ff7a12402e0898d77f4e9ba5700033e"
+  },
+  {
+    "path": "0919/draft_info.json.bak",
+    "bytes": 1272477,
+    "sha256": "faac5d3c1122379a909810f4380cb8a32223ec06921110156642c0a500df3104"
+  },
+  {
+    "path": "0919/draft_biz_config.json",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "0919/timeline_layout.json",
+    "bytes": 175,
+    "sha256": "1baefa910596ff1288454ea832617accb623635ede8b9cee389e7dffcbd1c258"
+  },
+  {
+    "path": "0919/draft_cover.jpg",
+    "bytes": 141499,
+    "sha256": "f612034845441bacf10e9cee86b80a3a676ae6ef3e9d5c01346f189c266e53db"
+  },
+  {
+    "path": "0919/attachment_editing.json",
+    "bytes": 2126,
+    "sha256": "3672a947bfde88bfcb47d081934c29acd46a73d3b9368e9d8bca87421e9d52d8"
+  },
+  {
+    "path": "0919/key_value.json",
+    "bytes": 1630,
+    "sha256": "c2069f8199d2e2661f1af757a34ee32f9d12ec2d13f4980a58062a0058245804"
+  },
+  {
+    "path": "0919/draft_info.json",
+    "bytes": 1272517,
+    "sha256": "f27941c5f8cd44380f0eeb06e55e93c5784a40d87ca25af7d7c33ade9ee12914"
+  },
+  {
+    "path": "0919/draft_agency_config.json",
+    "bytes": 154,
+    "sha256": "6d3b0fba4c636fec9e1d3cb30cd1acefdbdacceed1bc96775b18c330cc768d22"
+  },
+  {
+    "path": "0919/common_attachment/attachment_action_scene.json",
+    "bytes": 60,
+    "sha256": "701013486065b455fb107877f8e8d7523252b50dcca6ef5f3b09d21ba0c0e38b"
+  },
+  {
+    "path": "0919/common_attachment/attachment_gen_ai_info.json",
+    "bytes": 528,
+    "sha256": "781ccc6ca11393ff23b19d2ad34de112cf1dc3d79cb59ecde74a2625d910957d"
+  },
+  {
+    "path": "0919/common_attachment/attachment_id_mapping.json",
+    "bytes": 12143,
+    "sha256": "54a6df205d83d57667859cb5a09df2ac653d252a5f37e165e7c81c77e7394a7c"
+  },
+  {
+    "path": "0919/common_attachment/attachment_script_video.json",
+    "bytes": 200,
+    "sha256": "6364041457755ea591d4d8b9114a7c5777152dd78021929eb1543f1b42bc416f"
+  },
+  {
+    "path": "0919/common_attachment/attachment_pc_timeline.json",
+    "bytes": 124,
+    "sha256": "8e4ceb6462bb707a2e17f9e27caf2de0f1a9fe7705021d6402cc8961046f9bcb"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/music/bfa290bd0ef51bcc6a62d8a80e40e5a0.mp3",
+    "bytes": 44682,
+    "sha256": "1d2094515839d902bd74684a535eed1907df541b2be1ee76910218c2fb23ffdb"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/music/094d89a171a8b6394b503fcdbb196205.mp3",
+    "bytes": 23278,
+    "sha256": "18c4fdf01e1ff39bf732b7a8ce1b3bbe07e5a4630c11589d592842d2955401ea"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/music/33f11a55221681b3fefec3346290169e.mp3",
+    "bytes": 15767,
+    "sha256": "7ba9bfdf4fabcbf5403f83ee237181724ab5924c8862b240a096627e6167321d"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/music/5fa16f0f0a34e80caf6771e0f20bea92.beat",
+    "bytes": 46,
+    "sha256": "f0197de53fea1a5d78974166675880e24b1aee5090d66d9e1f33eebfe1f9fd6c"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/music/b3ab839fb6a9ecb206a6e784ddfc8952.beat",
+    "bytes": 45,
+    "sha256": "3ced2507105483c015586aa1b15b25c77beea68f5c7adf81b6a8aeaa426b7221"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/music/1e0a94ef357f549c8b7eff9c6dbfbf89.beat",
+    "bytes": 45,
+    "sha256": "a6b3b194f6563a8d3b69f728e5d7b8f4f51155623d7db13941e33b65ee22ad50"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/7582977477643881781/872ed81e9005b4c1197099dfdc77a148/config.json",
+    "bytes": 171,
+    "sha256": "00d7cb28610858390a79626ba4b9a05868e57bd5965878bada6ed16f37d21c4f"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/7582977477643881781/872ed81e9005b4c1197099dfdc77a148/cover_icon.png",
+    "bytes": 28918,
+    "sha256": "3b0d3ccc342221b713a76507fd744afedc8aafed2ccd563b9096376f228b5872"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/7582977477643881781/872ed81e9005b4c1197099dfdc77a148/effectStyle.json",
+    "bytes": 9291,
+    "sha256": "fd8154c77e8c54663658d694d9ae6d34bf46763c1cbb2daf1422745f3303ae78"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/7582977477643881781/872ed81e9005b4c1197099dfdc77a148/1765558030939.png",
+    "bytes": 41611,
+    "sha256": "6ef80e98280a993de3e1bd8ed688d995777aa2db9501d05d657c023daa81453c"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/7582977477643881781/872ed81e9005b4c1197099dfdc77a148/1764831604602.png",
+    "bytes": 49921,
+    "sha256": "8b626ec199584eeca25fef362e09813ddf47765088c5637445dba4000ced239a"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/7592008738001734919/55e2e4622ee55fcf8c5d152d5fe1b918/config.json",
+    "bytes": 171,
+    "sha256": "e8b2d01e47a0c13ba8a7d7b5eeb640460ab570c20b5f78ef0bec43a0e881abbf"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/7592008738001734919/55e2e4622ee55fcf8c5d152d5fe1b918/cover_icon.png",
+    "bytes": 11505,
+    "sha256": "615f8c7801379293098514637132954a6ca3445a47434b79df6d463c1576cfdb"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/7592008738001734919/55e2e4622ee55fcf8c5d152d5fe1b918/1767652329688.png",
+    "bytes": 12860,
+    "sha256": "7b6c195bc01c4134d8df5f1c2a0894ced7663b80a0d3c62e2d5b9498b12bdd73"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/7592008738001734919/55e2e4622ee55fcf8c5d152d5fe1b918/effectStyle.json",
+    "bytes": 2089,
+    "sha256": "4a970db166296b360ab78b328083ac2f98feb3f0c3419db02a45c14791e8a768"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/6808056385679397389/046f11d9049144aa80e3723b5ed93b7a/DoHyeon-Regular.ttf",
+    "bytes": 858928,
+    "sha256": "8ac6965d435d7179328d846ba1156785de4c38c530624c156ccde1b6ecd6b9b4"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/7587662647647014197/2e75410d22cb5b3f9acd522f212ddc83/config.json",
+    "bytes": 171,
+    "sha256": "ff8e7ce876a5c35ba9e095daa516abc73a4e02087bf86f64b980bde35e934582"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/7587662647647014197/2e75410d22cb5b3f9acd522f212ddc83/cover_icon.png",
+    "bytes": 10581,
+    "sha256": "a760409dc19a47cae346b4fea27f157e3f7243bc741673cf5360c311832be754"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/7587662647647014197/2e75410d22cb5b3f9acd522f212ddc83/1764920446189.png",
+    "bytes": 19327,
+    "sha256": "24d1d24819c62b6014f19efb8a33f7c1f88f0112f25ce4f32255cdd3a4e3be7d"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/7587662647647014197/2e75410d22cb5b3f9acd522f212ddc83/effectStyle.json",
+    "bytes": 1524,
+    "sha256": "3ad9eadbbe8829da50a5e0a503521c108d46c603434265eb51ccf1884ee2d2a4"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/7542715028181454097/e99175037af55a39de0cdbd5fe4af695/font.ttf",
+    "bytes": 3251580,
+    "sha256": "3c8d18ca5e1772f2de98e53d263b330e4d6164d5fc706622b3b18a9470de2f02"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/7602463191511108882/fed5c498e1e45a9d9ce87a0071a85428/config.json",
+    "bytes": 177,
+    "sha256": "e741da4734966e081e4ef5e92e36575ffbae25c48aee830645eb6a7bab20e116"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/7602463191511108882/fed5c498e1e45a9d9ce87a0071a85428/1770086210828.png",
+    "bytes": 6317,
+    "sha256": "5c92782acd378f2eaf48f940e68d2af89e4255f6497710eab0192681e97310a5"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/7602463191511108882/fed5c498e1e45a9d9ce87a0071a85428/cover_icon.png",
+    "bytes": 7291,
+    "sha256": "fdf42656e55b05bf7116219778096dd9ad161b987a8250eb5f0249568d3aab0d"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/7602463191511108882/fed5c498e1e45a9d9ce87a0071a85428/effectStyle.json",
+    "bytes": 2209,
+    "sha256": "b9981a73d48604b6dd5504dab38ef7714a74fd1024743e64c76f129d00b76b7a"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/6724919382104871427/6ecc8fa1d956c3e14c84cdc0679982a9/LuaRTTI.MarkGen.lua",
+    "bytes": 318,
+    "sha256": "cee25003c4a20300db2b4502b2c9f42e0ab95a7837553fbaefb9e6e7b9320251"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/6724919382104871427/6ecc8fa1d956c3e14c84cdc0679982a9/content.json",
+    "bytes": 180,
+    "sha256": "d477770123248886847be136ae6a40bd6402c96019ae8c10239859effef941ac"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/6724919382104871427/6ecc8fa1d956c3e14c84cdc0679982a9/lua-meta.json",
+    "bytes": 3999,
+    "sha256": "05b853de94bc74b2d83e84c419090052771379c1d1e3cb74a5e8b264519dcfec"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/6724919382104871427/6ecc8fa1d956c3e14c84cdc0679982a9/js-meta.json",
+    "bytes": 2,
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/6724919382104871427/6ecc8fa1d956c3e14c84cdc0679982a9/algorithmConfig.json",
+    "bytes": 365,
+    "sha256": "a8a1736b9bde295deef9c44c8b1580499150b5ed74508de38e23a16023576737"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/6724919382104871427/6ecc8fa1d956c3e14c84cdc0679982a9/sticker.config",
+    "bytes": 295,
+    "sha256": "c7993588b4310dfa49f7f3fecdef5b22f1b24e19c67e502dc65ace089fcd934f"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/6724919382104871427/6ecc8fa1d956c3e14c84cdc0679982a9/config.json",
+    "bytes": 191,
+    "sha256": "de5c2942b2e6a03f19a3071fb83e6c6c9b9ead824748f53cc7e3275742bfa81e"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/6724919382104871427/6ecc8fa1d956c3e14c84cdc0679982a9/extra.json",
+    "bytes": 277,
+    "sha256": "1158a7f1df19017eac874891bc09110acb439ff6cb006357ac41287a5dcbec92"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/6724919382104871427/6ecc8fa1d956c3e14c84cdc0679982a9/main.scene",
+    "bytes": 3707,
+    "sha256": "d5c465300865e5d1651943151ab1be9bbf5b0d83402741faf74a45bbc94a81f8"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/6724919382104871427/6ecc8fa1d956c3e14c84cdc0679982a9/prefabs/anim.prefab",
+    "bytes": 498,
+    "sha256": "6cca1fca133c482c1423eedc517ba8c5f2d5f283e6a1a157f83b6b38a3e26f1f"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/6724919382104871427/6ecc8fa1d956c3e14c84cdc0679982a9/rt/outputTex.rt",
+    "bytes": 567,
+    "sha256": "67301e61a2c3b58c2e64fc12c6f8061f7a41a2b09de5952a21f017ff0839fc1e"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/6724919382104871427/6ecc8fa1d956c3e14c84cdc0679982a9/lua/TextAnim.lua",
+    "bytes": 14094,
+    "sha256": "f00df3996ec871dc4e3db2d8cb1126db8a1b0b03718ad2fe33b24f59e56b63bf"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/6724919382104871427/6ecc8fa1d956c3e14c84cdc0679982a9/lua/src/AE.lua",
+    "bytes": 1926,
+    "sha256": "cfba5a81d54a0b631c2764cea011a2255b08d38a7a16266c0e29747e6798bdc6"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/6724919382104871427/6ecc8fa1d956c3e14c84cdc0679982a9/lua/src/AEAdapter.lua",
+    "bytes": 3192,
+    "sha256": "62fd608db96e0be1312b212c99ec707faf996c4374cec786d5d662412b031b9b"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/6724919382104871427/6ecc8fa1d956c3e14c84cdc0679982a9/lua/src/Main.lua",
+    "bytes": 1707,
+    "sha256": "19729b2d5b726d0a1347cd48a52e9d3f12dc5ebcc59fafeb025837fd6457f102"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/6724919382104871427/6ecc8fa1d956c3e14c84cdc0679982a9/lua/src/TextEntry.lua",
+    "bytes": 6632,
+    "sha256": "3c866263bd3b049c720deecfd755adb51b71fa74158826d8df3d697294416531"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/6724919382104871427/6ecc8fa1d956c3e14c84cdc0679982a9/lua/src/Utils.lua",
+    "bytes": 5478,
+    "sha256": "e3b5a7984e5a00a36215022c7505f373b3725b305a4806a7971d7f067dff6f0c"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/6724919382104871427/6ecc8fa1d956c3e14c84cdc0679982a9/lua/src/AETools.lua",
+    "bytes": 3129,
+    "sha256": "f6937b5340c33f348ac9212174125694ac55545e256ecdc04245e53fe9248be4"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/7564674095921515777/d46a86be6aaad0a85c65833f067d6068/local_FE175CB1-1914-4FAC-BC18-5E002AE87FF5.png",
+    "bytes": 533227,
+    "sha256": "19046a4f69b21c2ca6bc0857a9454d4fc4d9b8cc4aa60ccdb8b70847fc2d8414"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/7564674095921515777/d46a86be6aaad0a85c65833f067d6068/config.json",
+    "bytes": 171,
+    "sha256": "1931480e3011df6f93cacc940a84c052200adfd90c4416cd3590ff0f964fc2fa"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/effect/7564674095921515777/d46a86be6aaad0a85c65833f067d6068/effectStyle.json",
+    "bytes": 1497,
+    "sha256": "b39e483e5a453b1ef466098e69634a7739a8c233548ab7beb4c3dc57d5317269"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7467524331845815605/2b3a48ef9d74e22ce862d2a5eebb10e9/config.json",
+    "bytes": 139,
+    "sha256": "d30571859bef439591829a6664f234619e18f09344562f752c50065bc65a6ad9"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7467524331845815605/2b3a48ef9d74e22ce862d2a5eebb10e9/final.gif",
+    "bytes": 37072,
+    "sha256": "bb612c8e78afdf2d3c5488ef419a01f5bdf7ee020e0e08c61378ab5ed6b05a19"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7467524331845815605/2b3a48ef9d74e22ce862d2a5eebb10e9/heycanInfo.json",
+    "bytes": 110,
+    "sha256": "c8a634165b49fac13eda9941fd4e6c0f0962e375fa581884664a02913a1cd2c4"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7484214195228101949/616180f6f9cd300856839cf254792f33/config.json",
+    "bytes": 139,
+    "sha256": "d30571859bef439591829a6664f234619e18f09344562f752c50065bc65a6ad9"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7484214195228101949/616180f6f9cd300856839cf254792f33/final.gif",
+    "bytes": 44106,
+    "sha256": "44b468a932862898c1633feccec405da85b15e0df7e9650c2a0f331d5b4dea3c"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7484214195228101949/616180f6f9cd300856839cf254792f33/heycanInfo.json",
+    "bytes": 110,
+    "sha256": "c8a634165b49fac13eda9941fd4e6c0f0962e375fa581884664a02913a1cd2c4"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7566683537319988533/df377043031b2c6c77ef865ebc16904f/config.json",
+    "bytes": 139,
+    "sha256": "d30571859bef439591829a6664f234619e18f09344562f752c50065bc65a6ad9"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7566683537319988533/df377043031b2c6c77ef865ebc16904f/final.gif",
+    "bytes": 717231,
+    "sha256": "6be3647d32637e00680dc7ca174518338bf348938342125031bd50bd32adc896"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7566683537319988533/df377043031b2c6c77ef865ebc16904f/heycanInfo.json",
+    "bytes": 112,
+    "sha256": "b2f5ac88439334882a85f9fcad4901ea59d1d074e9a5d0b92276281d544d4fc6"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7498829900070014261/07e3b4ce43a34b327604984e70c82a13/config.json",
+    "bytes": 139,
+    "sha256": "d30571859bef439591829a6664f234619e18f09344562f752c50065bc65a6ad9"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7498829900070014261/07e3b4ce43a34b327604984e70c82a13/final.gif",
+    "bytes": 105762,
+    "sha256": "dba72495225403fd7127657629c4930ff98b0c88dd51bd6115f4f2e060c6c5a7"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7498829900070014261/07e3b4ce43a34b327604984e70c82a13/heycanInfo.json",
+    "bytes": 111,
+    "sha256": "8c62cc8137201f73ffd38c4fe0d8e516541c905a0ed2daa6e0227a46f1c8e66b"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7109128676712795419/9b3ca51484478a37ac227b8d5000f80c/config.json",
+    "bytes": 139,
+    "sha256": "d30571859bef439591829a6664f234619e18f09344562f752c50065bc65a6ad9"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7109128676712795419/9b3ca51484478a37ac227b8d5000f80c/final.gif",
+    "bytes": 17677,
+    "sha256": "33aee06932644c487cfea4d8303bcb88495f753886f7af55a875abd32b3e32ac"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7109128676712795419/9b3ca51484478a37ac227b8d5000f80c/heycanInfo.json",
+    "bytes": 110,
+    "sha256": "53f7ab1b45d644ec96db82b77b4ea439c89e70a76cb803ec79984da4d8ed0397"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7553619507328142645/c7399185425d1dd02719c0bda3641787/config.json",
+    "bytes": 139,
+    "sha256": "d30571859bef439591829a6664f234619e18f09344562f752c50065bc65a6ad9"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7553619507328142645/c7399185425d1dd02719c0bda3641787/final.gif",
+    "bytes": 26777,
+    "sha256": "0c5cf948f1eea9bb01820a683b1276968c03674b43bb63f3df088b3188c20447"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7553619507328142645/c7399185425d1dd02719c0bda3641787/heycanInfo.json",
+    "bytes": 110,
+    "sha256": "c111fbb1e3030a0659ee69672f5a376cba6a7782cbbdebaf39a340f24c7c31e2"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7534626785766526269/64bc46568043b523f78c1f06ca0408e9/config.json",
+    "bytes": 139,
+    "sha256": "d30571859bef439591829a6664f234619e18f09344562f752c50065bc65a6ad9"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7534626785766526269/64bc46568043b523f78c1f06ca0408e9/final.gif",
+    "bytes": 1728464,
+    "sha256": "00c5adf48b113395da0029a10d7647721544488da0e2f63712af8fafbd6035ab"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7534626785766526269/64bc46568043b523f78c1f06ca0408e9/heycanInfo.json",
+    "bytes": 112,
+    "sha256": "b2f5ac88439334882a85f9fcad4901ea59d1d074e9a5d0b92276281d544d4fc6"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7588342032289074485/7eebb345b65c7981ee83886cb67c8ef3/config.json",
+    "bytes": 139,
+    "sha256": "d30571859bef439591829a6664f234619e18f09344562f752c50065bc65a6ad9"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7588342032289074485/7eebb345b65c7981ee83886cb67c8ef3/final.gif",
+    "bytes": 2088355,
+    "sha256": "99383acaec801b42e6f7ee3b28fce55c9cf021ae6e44f0cb1dc501682645e020"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7588342032289074485/7eebb345b65c7981ee83886cb67c8ef3/heycanInfo.json",
+    "bytes": 112,
+    "sha256": "8285d54bd8a14487ab1fb9533c27cb52373da815e06cae350d0e0aac41b39011"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7534626669542264117/782c511a7d694df5083d2cd7ba544b20/config.json",
+    "bytes": 139,
+    "sha256": "d30571859bef439591829a6664f234619e18f09344562f752c50065bc65a6ad9"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7534626669542264117/782c511a7d694df5083d2cd7ba544b20/final.gif",
+    "bytes": 1482370,
+    "sha256": "3c22c17f0fa1fe386d64d839f0bc25263f4a8dac77d567f7ba5db7e684b6495c"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7534626669542264117/782c511a7d694df5083d2cd7ba544b20/heycanInfo.json",
+    "bytes": 112,
+    "sha256": "b2f5ac88439334882a85f9fcad4901ea59d1d074e9a5d0b92276281d544d4fc6"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7552875526218730805/b915a45d566b74442a332b2a83e7e47e/config.json",
+    "bytes": 139,
+    "sha256": "d30571859bef439591829a6664f234619e18f09344562f752c50065bc65a6ad9"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7552875526218730805/b915a45d566b74442a332b2a83e7e47e/final.gif",
+    "bytes": 1038237,
+    "sha256": "0bf3f7840c8dd4b25ce7d204ecd3eb67189dca179e3cf2566404ae103a0c07bd"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7552875526218730805/b915a45d566b74442a332b2a83e7e47e/heycanInfo.json",
+    "bytes": 111,
+    "sha256": "9a21c02f3e03d472f0886929dcc811f993b2c82dbaafdec4d4b37840a7498b96"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7576514142979247413/b2c5283d0bc6d2d6eb839edec1f3a7bc/config.json",
+    "bytes": 139,
+    "sha256": "d30571859bef439591829a6664f234619e18f09344562f752c50065bc65a6ad9"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7576514142979247413/b2c5283d0bc6d2d6eb839edec1f3a7bc/final.gif",
+    "bytes": 378926,
+    "sha256": "6bacae0cb5352346868952c1678270bc1402cfe9811a21b3bbde5c06f85d5f99"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7576514142979247413/b2c5283d0bc6d2d6eb839edec1f3a7bc/heycanInfo.json",
+    "bytes": 111,
+    "sha256": "1792206583222ff3bb522f68e4db495ccf067e0c8fe46750d177f66aa8c0f6e1"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7547828597868825909/48b657da2ed3a7fdaec3f97702378cac/config.json",
+    "bytes": 139,
+    "sha256": "d30571859bef439591829a6664f234619e18f09344562f752c50065bc65a6ad9"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7547828597868825909/48b657da2ed3a7fdaec3f97702378cac/final.gif",
+    "bytes": 29625,
+    "sha256": "fcba79b68772e6bc0154d1bdf2154f9ee8fcf5723bbd506fe520d43190f1afaa"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7547828597868825909/48b657da2ed3a7fdaec3f97702378cac/heycanInfo.json",
+    "bytes": 111,
+    "sha256": "4f357ac8723d48b8ef0194166de33bc2f51096d33c7cf1c5bca87e59f085b7e8"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7631905966182763793/15d9154e80b2438711703da69c96e078/config.json",
+    "bytes": 139,
+    "sha256": "d30571859bef439591829a6664f234619e18f09344562f752c50065bc65a6ad9"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7631905966182763793/15d9154e80b2438711703da69c96e078/final.gif",
+    "bytes": 907216,
+    "sha256": "ecdaea86b5eddf196c87363e6279ade1dd43d1588e56373f8e188d2fb25fc857"
+  },
+  {
+    "path": "0919/owner-emotions-resources/cache/artistEffect/7631905966182763793/15d9154e80b2438711703da69c96e078/heycanInfo.json",
+    "bytes": 111,
+    "sha256": "d5db0411ecd055ac27bb0dbf600a83a82c4709fdea52750497e10cd7bcd0613d"
+  },
+  {
+    "path": "0919/owner-emotions-media/ScreenRecording_09-19-2026 12-14-42_1.MP4",
+    "bytes": 46817471,
+    "sha256": "4b8b0766d56ddfe950f0253c7012637517723296e504fbd05c13342f5cd99fe3"
+  },
+  {
+    "path": "0919/owner-emotions-media/v001-bgm.wav",
+    "bytes": 9796124,
+    "sha256": "9bf48228d5b0ed062258fdc5519074085b0dda0e9176677207aac791c806816d"
+  },
+  {
+    "path": "0919/owner-emotions-media/bfa290bd0ef51bcc6a62d8a80e40e5a0.mp3",
+    "bytes": 44682,
+    "sha256": "1d2094515839d902bd74684a535eed1907df541b2be1ee76910218c2fb23ffdb"
+  },
+  {
+    "path": "0919/owner-emotions-media/094d89a171a8b6394b503fcdbb196205.mp3",
+    "bytes": 23278,
+    "sha256": "18c4fdf01e1ff39bf732b7a8ce1b3bbe07e5a4630c11589d592842d2955401ea"
+  },
+  {
+    "path": "0919/owner-emotions-media/33f11a55221681b3fefec3346290169e.mp3",
+    "bytes": 15767,
+    "sha256": "7ba9bfdf4fabcbf5403f83ee237181724ab5924c8862b240a096627e6167321d"
+  },
+  {
+    "path": "0919/owner-emotions-media/_talkv_dJMcbtDblli_wEmEsqdvq05akIWk4b16nK_talkv_high 2.MP4",
+    "bytes": 7429305,
+    "sha256": "207f1a0337f71277ba76fffb907bfbfc9b572f64ab582df734a61a17b52cf9e4"
+  },
+  {
+    "path": "0919/owner-emotions-media/copy_1903E635-6CBB-458F-92B5-1BCF30A122D9 2.MOV",
+    "bytes": 293827340,
+    "sha256": "ed0677b88f9e8c2282a062113a4ab0b81c9d2bfb7e467811f2fc0d27ab8b6f1a"
+  }
+]

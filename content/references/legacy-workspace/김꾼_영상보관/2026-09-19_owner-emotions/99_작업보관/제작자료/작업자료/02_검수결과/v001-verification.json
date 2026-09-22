@@ -1,0 +1,14 @@
+{
+  "duration": 111.130703,
+  "width": 1440,
+  "height": 2560,
+  "fps": "30",
+  "codec": "hevc",
+  "decoded_frames": 3332,
+  "sha256": "c0af2ef3f2526aeb9cae54d0c7fe9f261a2ba0012082ad5bb5e11f68d381fc50",
+  "source_originals_unchanged": true,
+  "audio_peak_dbfs": -1.3296191692352295,
+  "clipped_samples": 0,
+  "full_human_listening": false,
+  "thumbnail": "Opening frame extracted with title, provisional"
+}

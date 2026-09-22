@@ -1,0 +1,72 @@
+{
+  "start": "2026-09-19T12:22:52.835+09:00",
+  "end": "2026-09-19T12:52:28.462+09:00",
+  "elapsed_seconds": 1775.627,
+  "tool_calls": 160,
+  "shell_commands": 150,
+  "ui_calls": 105,
+  "failed_calls": 8,
+  "call_seconds_sum": 563.1769999999997,
+  "reviews": 108,
+  "review_seconds": 310.21600000000007,
+  "review_outcomes": {
+    "allow": 108
+  },
+  "groups": {
+    "CapCut 출력 원위치": {
+      "files": 2,
+      "bytes": 402879724
+    },
+    "CapCut 프로젝트": {
+      "files": 113,
+      "bytes": 376998177
+    },
+    "Finder 관리파일": {
+      "files": 1,
+      "bytes": 10244
+    },
+    "원본": {
+      "files": 4,
+      "bytes": 350421450
+    },
+    "임시 화면·진단": {
+      "files": 16,
+      "bytes": 22737987
+    },
+    "자동 보관 사본": {
+      "files": 4,
+      "bytes": 402880891
+    },
+    "콘텐츠 기록 신규": {
+      "files": 1,
+      "bytes": 2972
+    },
+    "편집 리소스 사본": {
+      "files": 85,
+      "bytes": 13585025
+    },
+    "편집 작업 생성물": {
+      "files": 67,
+      "bytes": 841276794
+    }
+  },
+  "physical_file_entries": 293,
+  "total_bytes": 2410793264,
+  "unique_content_files": 177,
+  "unique_content_bytes": 1222562859,
+  "duplicate_entries": 116,
+  "category_calls": {
+    "분석·편집·기록": 23,
+    "화면 조회·조작": 105,
+    "실행 대기": 12,
+    "이미지 확인": 18,
+    "사용자 질문": 2
+  },
+  "category_seconds": {
+    "실행 대기": 42.46700000000001,
+    "사용자 질문": 0.139,
+    "화면 조회·조작": 490.6769999999999,
+    "분석·편집·기록": 17.14,
+    "이미지 확인": 12.754
+  }
+}

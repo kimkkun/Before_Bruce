@@ -1,0 +1,26 @@
+{
+  "params": {
+    "model": "hf_mult_motion_control",
+    "resolution": "720p",
+    "duration": 5,
+    "aspect_ratio": "9:16",
+    "medias": [
+      {
+        "role": "image_references",
+        "value": "48204119-37e3-4cf3-af90-4804a2260d11"
+      },
+      {
+        "role": "video_references",
+        "value": "f2faa36e-f14b-44e8-a0c8-3a391e1b5843"
+      }
+    ],
+    "prompt": "Use the reference IMAGE as the target visual world for the ENTIRE shot: the same Korean man, same black glasses, white T-shirt, wristwatch and ring, seated at the same black induction table in an empty restaurant after closing, illuminated by the single warm pendant above him. Maintain the image's empty restaurant background, dim lighting, color, furniture, composition and photorealistic appearance throughout. Use the reference VIDEO ONLY to drive the man's performance: reproduce his timed speech mouth movements, head movements, hand gestures, posture changes and lifting the small black handheld microphone. Keep the microphone's appearance and exact grip from the video when visible. Preserve his facial identity from the image; natural skin, stable glasses, anatomically correct hands. Transfer the performance at its original speed and timing. Fixed camera, one continuous shot. No transformation transition, no original faceted mirror or original beige wall returning, no added people, no new dialogue, no text. The approved restaurant image is the appearance reference, the video is the motion reference."
+  },
+  "job_id": "f4b07c01-e60c-407d-9fc6-204b931ec769",
+  "image_approval": "2026-09-21 사용자: 오케이 좋네, 이걸 영상으로 만든다는거지? 해봐",
+  "expected_credits": 35,
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_123419_f4b07c01-e60c-407d-9fc6-204b931ec769.mp4",
+  "voiced_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/8ec4b7a1-52e0-4096-af2d-804e25f956cb.mp4",
+  "actual_credits": 35
+}

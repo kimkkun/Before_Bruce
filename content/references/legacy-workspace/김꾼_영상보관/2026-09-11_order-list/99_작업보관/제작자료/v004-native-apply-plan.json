@@ -1,0 +1,31 @@
+{
+  "root": "/Users/kim.kkun/Movies/CapCut/User Data/Projects/com.lveditor.draft/0911",
+  "targets": [
+    {
+      "path": "/Users/kim.kkun/Movies/CapCut/User Data/Projects/com.lveditor.draft/0911/template-2.tmp",
+      "sha256": "ea6af27b362d968fe0ef8e72ce4eb9d96a48f4fe6336c33979b2baaf8adf6d54"
+    },
+    {
+      "path": "/Users/kim.kkun/Movies/CapCut/User Data/Projects/com.lveditor.draft/0911/draft_info.json.bak",
+      "sha256": "b8f852ff80fa94bab6069c4d68f4185daf2d4dcb91e92c5b06016addea13e8ee"
+    },
+    {
+      "path": "/Users/kim.kkun/Movies/CapCut/User Data/Projects/com.lveditor.draft/0911/draft_info.json",
+      "sha256": "ea6af27b362d968fe0ef8e72ce4eb9d96a48f4fe6336c33979b2baaf8adf6d54"
+    },
+    {
+      "path": "/Users/kim.kkun/Movies/CapCut/User Data/Projects/com.lveditor.draft/0911/Timelines/26CCEB28-B7BB-4EFA-8899-2371ED607261/template-2.tmp",
+      "sha256": "ea6af27b362d968fe0ef8e72ce4eb9d96a48f4fe6336c33979b2baaf8adf6d54"
+    },
+    {
+      "path": "/Users/kim.kkun/Movies/CapCut/User Data/Projects/com.lveditor.draft/0911/Timelines/26CCEB28-B7BB-4EFA-8899-2371ED607261/draft_info.json.bak",
+      "sha256": "b8f852ff80fa94bab6069c4d68f4185daf2d4dcb91e92c5b06016addea13e8ee"
+    },
+    {
+      "path": "/Users/kim.kkun/Movies/CapCut/User Data/Projects/com.lveditor.draft/0911/Timelines/26CCEB28-B7BB-4EFA-8899-2371ED607261/draft_info.json",
+      "sha256": "ea6af27b362d968fe0ef8e72ce4eb9d96a48f4fe6336c33979b2baaf8adf6d54"
+    }
+  ],
+  "duration": 90800000,
+  "clips": 42
+}

@@ -1,0 +1,20 @@
+{
+  "duration_before": 90.8,
+  "duration_after": 81.233333,
+  "removed_seconds": 9.566666999999995,
+  "video_clips": 51,
+  "captions": 69,
+  "caption_content_unchanged": true,
+  "styles_preserved": true,
+  "continuous_video_track": true,
+  "native_v005_audio_correlation": 0.97017133,
+  "native_export_global_delay_seconds": 0.0478125,
+  "full_candidate_asr_checked": true,
+  "short_phrases_rechecked": [
+    "직원은 말을 했고 사장은 들었습니다",
+    "수량 제출하고 사장님이 확인하고 끝",
+    "댓글에 남겨주세요"
+  ],
+  "full_human_listening": false,
+  "v006_native_export": false
+}

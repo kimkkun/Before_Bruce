@@ -1,0 +1,930 @@
+{
+  "checked_at": "2026-09-22 18:02:42 +0900",
+  "original_files_verified": 792,
+  "internal_symlinks": 82,
+  "new_entry_errors": [],
+  "sources_changed_after_copy": [
+    {
+      "source": "/Users/kim.kkun/Projects/김꾼_영상보관/99_관리자료/자동보관/state.json",
+      "reason": "Source changed after the copy-time snapshot; copy hash remains checked against manifest."
+    }
+  ],
+  "copied_markdown_missing_link_candidates": [
+    {
+      "document": "참고자료/기존작업장/Higgsfield/CLAUDE.md",
+      "link": "../Orchestrator/workflows/new-work.md#3-작은-구조를-정해-실행하기",
+      "copied_source": true,
+      "exists_at_original_location": true
+    },
+    {
+      "document": "참고자료/기존작업장/Higgsfield/references/2026-09-20_AI워크플로우_조사.md",
+      "link": "../../sandbox/ai-workflow-learning/dist/index.html",
+      "copied_source": true,
+      "exists_at_original_location": true
+    },
+    {
+      "document": "참고자료/기존작업장/Higgsfield/references/2026-09-20_AI워크플로우_조사.md",
+      "link": "../../sandbox/ai-workflow-learning/dist/index.html",
+      "copied_source": true,
+      "exists_at_original_location": true
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/README.md",
+      "link": "to%20delete/README.md",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-09_month-end-twice/99_작업보관/이전안내/README.md",
+      "link": "../../Kim.kkun_contents/drafts/2026-09-09_month-end-twice_suhwan-edit.md",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-09_month-end-twice/99_작업보관/이전안내/README.md",
+      "link": "../../Kim.kkun_contents/methods/capcut-caption-style.md",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/99_작업보관/점검기록/06_문서/2026-09-19_owner-emotions_suhwan-edit.md",
+      "link": "2026-09-19_owner-emotions_package.md",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/99_작업보관/점검기록/06_문서/LESSONS.md",
+      "link": "../CLAUDE.md#규칙",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/99_작업보관/점검기록/06_문서/NOW.md",
+      "link": "drafts/2026-09-19_owner-emotions_suhwan-edit.md",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/99_작업보관/점검기록/06_문서/NOW.md",
+      "link": "drafts/2026-09-19_owner-emotions_video-comparison.md",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/99_작업보관/점검기록/06_문서/NOW.md",
+      "link": "drafts/2026-09-13_owner-three-points_suhwan-edit.md",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/99_작업보관/점검기록/06_문서/NOW.md",
+      "link": "drafts/2026-09-13_three-causes_suhwan-edit.md#촬영-정본--2026-09-14-확정",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/99_작업보관/점검기록/06_문서/NOW.md",
+      "link": "drafts/2026-09-13_three-causes_video-comparison.md",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/99_작업보관/점검기록/06_문서/NOW.md",
+      "link": "drafts/2026-09-11_order-list_suhwan-edit.md",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/99_작업보관/점검기록/06_문서/NOW.md",
+      "link": "drafts/2026-09-11_order-list_video-comparison.md",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/99_작업보관/점검기록/06_문서/NOW.md",
+      "link": "methods/automation.md#영상-편집-전용-cli-권한-설정--2026-09-12",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/99_작업보관/점검기록/06_문서/NOW.md",
+      "link": "methods/capcut-caption-style.md",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/99_작업보관/점검기록/06_문서/NOW.md",
+      "link": "drafts/2026-09-09_month-end-twice_suhwan-edit.md",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/99_작업보관/점검기록/06_문서/NOW.md",
+      "link": "methods/capcut-caption-style.md#다음-검증-순서--2026-09-11-수환-확정",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/99_작업보관/점검기록/06_문서/NOW.md",
+      "link": "methods/automation.md#작업-중단재개-2026-09-10",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/99_작업보관/점검기록/06_문서/NOW.md",
+      "link": "methods/automation.md#임시-메모--개발자-등록-보안-제한-2026-09-10",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/99_작업보관/점검기록/06_문서/NOW.md",
+      "link": "methods/capcut-caption-style.md",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/99_작업보관/점검기록/06_문서/NOW.md",
+      "link": "methods/automation.md#2026-09-10--capcut-연결자막컷편집-기준",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/99_작업보관/점검기록/06_문서/NOW.md",
+      "link": "README.md#영상-파일-보관",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/99_작업보관/점검기록/06_문서/NOW.md",
+      "link": "README.md#영상-파일-보관",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/99_작업보관/점검기록/06_문서/2026-09-19_owner-emotions_video-comparison.md",
+      "link": "../../김꾼_영상보관/2026-09-19_owner-emotions/README.md",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/99_작업보관/점검기록/06_문서/영상보관함_README.md",
+      "link": "../../Kim.kkun_contents/drafts/2026-09-19_owner-emotions_suhwan-edit.md",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/99_작업보관/이전안내/README.md",
+      "link": "02_AI편집/2026-09-19_owner-emotions_v003.mov",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/99_작업보관/이전안내/README.md",
+      "link": "02_AI편집/v003-capcut-project-bundle.zip",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/99_작업보관/이전안내/README.md",
+      "link": "02_AI편집/thumbnail-v002.png",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/99_작업보관/이전안내/README.md",
+      "link": "../../Kim.kkun_contents/drafts/2026-09-19_owner-emotions_suhwan-edit.md",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/99_작업보관/이전안내/README.md",
+      "link": "02_AI편집/작업자료/README.md",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/99_작업보관/이전안내/README.md",
+      "link": "02_AI편집/작업자료/정리목록.csv",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/99_작업보관/이전안내/README.md",
+      "link": "../../Kim.kkun_contents/drafts/2026-09-19_owner-emotions_video-comparison.md",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/99_작업보관/이전안내/README.md",
+      "link": "02_AI편집/작업자료/02_검수결과/v003-verification.json",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/99_작업보관/이전안내/README.md",
+      "link": "../2026-09-19_owner-emotions_작업점검_모음/",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-11_order-list/99_작업보관/이전안내/README.md",
+      "link": "../../Kim.kkun_contents/drafts/2026-09-11_order-list_suhwan-edit.md",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-11_order-list/99_작업보관/이전안내/README.md",
+      "link": "../../Kim.kkun_contents/drafts/2026-09-11_order-list_video-comparison.md",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-11_order-list/99_작업보관/이전안내/README.md",
+      "link": "../../Kim.kkun_contents/README.md#영상-파일-보관",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-11_order-list/99_작업보관/이전안내/README.md",
+      "link": "../../Kim.kkun_contents/methods/automation.md",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-11_order-list/99_작업보관/이전안내/README.md",
+      "link": "../../Kim.kkun_contents/methods/capcut-caption-style.md",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-21_nagging-environment/03_수정기록/피드백.md",
+      "link": "../../../Orchestrator/checks/2026-09-21.md",
+      "copied_source": true,
+      "exists_at_original_location": true
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-21_nagging-environment/99_작업보관/구조복구_2026-09-21/README_변경전.md",
+      "link": "../../Kim.kkun_contents/drafts/2026-09-21_nagging-environment_full-v4.md",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-21_nagging-environment/99_작업보관/구조복구_2026-09-21/README_변경전.md",
+      "link": "../../Kim.kkun_contents/drafts/2026-09-21_nagging-environment_video-comparison.md#현재-상태--이-문서가-정본",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-21_nagging-environment/99_작업보관/구조복구_2026-09-21/README_변경전.md",
+      "link": "02_결과보기/김꾼_비컷4장면_검토본_v003.mp4",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-21_nagging-environment/99_작업보관/구조복구_2026-09-21/README_변경전.md",
+      "link": "03_수정기록/제작기록_v001.md",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/99_관리자료/자동보관/README.md",
+      "link": "../../Kim.kkun_contents/methods/capcut-archive/README.md",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-13_three-causes/99_작업보관/이전안내/README.md",
+      "link": "../../Kim.kkun_contents/drafts/2026-09-13_three-causes_suhwan-edit.md",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-13_three-causes/99_작업보관/이전안내/README.md",
+      "link": "../../Kim.kkun_contents/drafts/2026-09-13_three-causes_video-comparison.md",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-13_three-causes/99_작업보관/이전안내/README.md",
+      "link": "02_AI편집/2026-09-13_three-causes_v001.mov",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-13_three-causes/99_작업보관/이전안내/README.md",
+      "link": "02_AI편집/v001-capcut-bundle.zip",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-13_three-causes/99_작업보관/이전안내/README.md",
+      "link": "03_수환수정/2026-09-18-project.json",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-13_three-causes/99_작업보관/이전안내/README.md",
+      "link": "03_수환수정/2026-09-18-comparison.json",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-13_three-causes/99_작업보관/이전안내/README.md",
+      "link": "03_수환수정/2026-09-18-capcut-reference.zip",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-13_three-causes/99_작업보관/이전안내/README.md",
+      "link": "03_수환수정/2026-09-18-manifest.json",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-13_three-causes/99_작업보관/이전안내/README.md",
+      "link": "03_수환수정/2026-09-18-native-previews.png",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-13_three-causes/99_작업보관/이전안내/README.md",
+      "link": "02_AI편집/thumbnail-v001.png",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-13_three-causes/99_작업보관/이전안내/README.md",
+      "link": "04_최종본/README.md",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-13_three-causes/99_작업보관/이전최종보관/README.md",
+      "link": "2026-09-18_three-causes_final-v001.mov",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-13_three-causes/99_작업보관/이전최종보관/README.md",
+      "link": "2026-09-18_three-causes_project-v001.zip",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-13_three-causes/99_작업보관/이전최종보관/README.md",
+      "link": "../02_AI편집/thumbnail-v001.png",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-13_three-causes/99_작업보관/이전최종보관/README.md",
+      "link": "../../../Kim.kkun_contents/drafts/2026-09-13_three-causes_v2.md",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-13_three-causes/99_작업보관/이전최종보관/README.md",
+      "link": "../../../Kim.kkun_contents/drafts/2026-09-13_three-causes_video-comparison.md",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/Kim.kkun_contents/CLAUDE.md",
+      "link": "../the-crew-strategy/CLAUDE.md",
+      "copied_source": true,
+      "exists_at_original_location": true
+    },
+    {
+      "document": "참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-21_nagging-environment_video-comparison.md",
+      "link": "../../김꾼_영상보관/2026-09-21_nagging-environment/03_수정기록/제작기록_v001.md",
+      "copied_source": true,
+      "exists_at_original_location": false
+    },
+    {
+      "document": "참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-02_phone-only_suhwan-edit.md",
+      "link": "../../the-crew-strategy/planning/PRODUCT-RULES.md",
+      "copied_source": true,
+      "exists_at_original_location": true
+    },
+    {
+      "document": "참고자료/기존작업장/Kim.kkun_contents/ideas/2026-09-09_phone-only.md",
+      "link": "../../the-crew-strategy/planning/CUSTOMER-NEEDS.md",
+      "copied_source": true,
+      "exists_at_original_location": true
+    },
+    {
+      "document": "참고자료/기존작업장/Kim.kkun_contents/ideas/2026-09-09_phone-only.md",
+      "link": "../../the-crew-strategy/planning/PRODUCT-VISION.md",
+      "copied_source": true,
+      "exists_at_original_location": true
+    },
+    {
+      "document": "참고자료/기존작업장/Kim.kkun_contents/ideas/2026-09-09_phone-only.md",
+      "link": "../../the-crew-strategy/planning/PRODUCT-RULES.md",
+      "copied_source": true,
+      "exists_at_original_location": true
+    },
+    {
+      "document": "참고자료/기존작업장/Kim.kkun_contents/ideas/2026-09-09_phone-only.md",
+      "link": "../../the-crew-strategy/linear/DECISIONS.md",
+      "copied_source": true,
+      "exists_at_original_location": true
+    },
+    {
+      "document": "참고자료/기존작업장/Kim.kkun_contents/ideas/2026-09-09_phone-only.md",
+      "link": "../../the-crew-strategy/retrospective/v1-docs/DEBT.md",
+      "copied_source": true,
+      "exists_at_original_location": true
+    },
+    {
+      "document": "참고자료/기존작업장/Kim.kkun_contents/ideas/INDEX.md",
+      "link": "../../ideas/inbox.md",
+      "copied_source": true,
+      "exists_at_original_location": true
+    }
+  ],
+  "existing_external_markdown_links": [],
+  "copied_documents_with_absolute_path_references": [
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/99_작업보관/Higgsfield/01_내 연기 변환/S03_영업종료_빈매장/02_생성버전/v001/생성정보.md",
+      "paths": [
+        "/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-19_owner-emotions/99_작업보관/Higgsfield/01_내"
+      ]
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/99_작업보관/점검기록/06_문서/영상보관함_README.md",
+      "paths": [
+        "~/Movies/CapCut/09192026-09-19_owne-emotions_v002.mov",
+        "~/Movies/CapCut/User"
+      ]
+    },
+    {
+      "document": "참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/99_작업보관/이전안내/README.md",
+      "paths": [
+        "~/Movies/CapCut/User"
+      ]
+    },
+    {
+      "document": "참고자료/기존작업장/Kim.kkun_contents/README.md",
+      "paths": [
+        "~/Projects/research/projects/2026-07-25_content-system-folder-design/"
+      ]
+    },
+    {
+      "document": "참고자료/기존작업장/Kim.kkun_contents/methods/automation.md",
+      "paths": [
+        "/Users/kim.kkun/Projects",
+        "/Volumes/PalmierPro/PalmierPro.app,",
+        "~/.codex/video-edit.config.toml",
+        "~/.config/kimkkun-insights/credentials.json",
+        "~/.config/kimkkun-insights/status.json",
+        "~/Library/LaunchAgents/com.kimkkun.instagram-insights.plist",
+        "~/Movies/CapCut/User",
+        "~/Projects/sandbox/mcp-cut/.venv/bin/python",
+        "~/Projects/sandbox/mcp-cut/capcut-before-tight.zip"
+      ]
+    },
+    {
+      "document": "참고자료/기존작업장/Kim.kkun_contents/methods/capcut-archive/README.md",
+      "paths": [
+        "~/Library/LaunchAgents",
+        "~/Movies/CapCut/"
+      ]
+    },
+    {
+      "document": "참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-13_three-causes_video-comparison.md",
+      "paths": [
+        "~/.codex/logs_2.sqlite",
+        "~/.codex/video-edit.config.toml",
+        "~/Movies/CapCut/2026-09-13_three-causes_v001(1",
+        "~/Movies/CapCut/User"
+      ]
+    },
+    {
+      "document": "참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-11_order-list_video-comparison.md",
+      "paths": [
+        "~/Movies/CapCut/User"
+      ]
+    },
+    {
+      "document": "참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-19_owner-emotions_video-comparison.md",
+      "paths": [
+        "~/Movies",
+        "~/Movies/CapCut/User"
+      ]
+    }
+  ],
+  "symlinks": [
+    {
+      "path": "도구/Higgsfield",
+      "target": "../참고자료/기존작업장/Higgsfield",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "도구/편집과성과",
+      "target": "../참고자료/기존작업장/Kim.kkun_contents/methods",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-08-29_beta-recruit-2/기획대본/drafts/2026-08-29_beta-recruit-2_package.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-08-29_beta-recruit-2_package.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-08-29_beta-recruit-2/기획대본/drafts/2026-08-29_beta-recruit-2_v2.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-08-29_beta-recruit-2_v2.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-13_owner-three-points/99_작업보관",
+      "target": "../../참고자료/기존작업장/김꾼_영상보관/2026-09-13_owner-three-points/99_작업보관",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-13_owner-three-points/기획대본/편집근거/2026-09-13_owner-three-points_video-comparison.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-13_owner-three-points_video-comparison.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-13_owner-three-points/기획대본/drafts/2026-09-13_owner-three-points_suhwan-edit.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-13_owner-three-points_suhwan-edit.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-13_owner-three-points/기획대본/drafts/2026-09-13_owner-three-points_package.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-13_owner-three-points_package.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-09_month-end-twice/02_결과보기",
+      "target": "../../참고자료/기존작업장/김꾼_영상보관/2026-09-09_month-end-twice/02_결과보기",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-09_month-end-twice/03_수정기록",
+      "target": "../../참고자료/기존작업장/김꾼_영상보관/2026-09-09_month-end-twice/03_수정기록",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-09_month-end-twice/99_작업보관",
+      "target": "../../참고자료/기존작업장/김꾼_영상보관/2026-09-09_month-end-twice/99_작업보관",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-09_month-end-twice/01_자료넣는곳",
+      "target": "../../참고자료/기존작업장/김꾼_영상보관/2026-09-09_month-end-twice/01_자료넣는곳",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-09_month-end-twice/기획대본/편집근거/2026-09-09_month-end-twice_video-comparison.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-09_month-end-twice_video-comparison.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-09_month-end-twice/기획대본/편집근거/2026-09-09_month-end-twice_edit-style-v4.zip",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-09_month-end-twice_edit-style-v4.zip",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-09_month-end-twice/기획대본/편집근거/2026-09-09_month-end-twice_edit-style-v5.zip",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-09_month-end-twice_edit-style-v5.zip",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-09_month-end-twice/기획대본/편집근거/2026-09-09_month-end-twice_caption-style-v3.zip",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-09_month-end-twice_caption-style-v3.zip",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-09_month-end-twice/기획대본/편집근거/2026-09-09_month-end-twice_caption-style-v2.zip",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-09_month-end-twice_caption-style-v2.zip",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-09_month-end-twice/기획대본/편집근거/2026-09-09_month-end-twice_caption-style-v1.zip",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-09_month-end-twice_caption-style-v1.zip",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-09_month-end-twice/기획대본/편집근거/2026-09-09_month-end-twice_video-asr.json",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-09_month-end-twice_video-asr.json",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-09_month-end-twice/기획대본/편집근거/2026-09-09_month-end-twice_video-captions.srt",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-09_month-end-twice_video-captions.srt",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-09_month-end-twice/기획대본/편집근거/2026-09-09_month-end-twice_capcut-reference.zip",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-09_month-end-twice_capcut-reference.zip",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-09_month-end-twice/기획대본/drafts/2026-09-09_month-end-twice_package.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-09_month-end-twice_package.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-09_month-end-twice/기획대본/drafts/2026-09-09_month-end-twice_suhwan-edit.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-09_month-end-twice_suhwan-edit.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-08-16_beta-recruit/기획대본/published/2026-08-16_beta-recruit_package.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/published/2026-08-16_beta-recruit_package.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-08-16_beta-recruit/기획대본/published/2026-08-16_beta-recruit_suhwan-edit.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/published/2026-08-16_beta-recruit_suhwan-edit.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-08-06_checklist-alibi/기획대본/published/2026-08-06_checklist-alibi_package.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/published/2026-08-06_checklist-alibi_package.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-08-06_checklist-alibi/기획대본/published/2026-08-06_checklist-alibi_suhwan-edit.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/published/2026-08-06_checklist-alibi_suhwan-edit.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-07-25_kkondae-timing/기획대본/published/2026-07-25_kkondae-timing_package.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/published/2026-07-25_kkondae-timing_package.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-07-25_kkondae-timing/기획대본/published/2026-07-25_kkondae-timing_blog.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/published/2026-07-25_kkondae-timing_blog.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-07-25_kkondae-timing/기획대본/published/2026-07-25_kkondae-timing_suhwan-edit.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/published/2026-07-25_kkondae-timing_suhwan-edit.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-02_phone-only/기획대본/drafts/2026-09-02_phone-only_package.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-02_phone-only_package.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-02_phone-only/기획대본/drafts/2026-09-02_phone-only_suhwan-edit.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-02_phone-only_suhwan-edit.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-08-03_valley-system/기획대본/published/2026-08-03_valley-system_package.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/published/2026-08-03_valley-system_package.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-19_owner-emotions/02_결과보기",
+      "target": "../../참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/02_결과보기",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-19_owner-emotions/03_수정기록",
+      "target": "../../참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/03_수정기록",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-19_owner-emotions/99_작업보관",
+      "target": "../../참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/99_작업보관",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-19_owner-emotions/01_자료넣는곳",
+      "target": "../../참고자료/기존작업장/김꾼_영상보관/2026-09-19_owner-emotions/01_자료넣는곳",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-19_owner-emotions/기획대본/편집근거/2026-09-19_owner-emotions_video-comparison.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-19_owner-emotions_video-comparison.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-19_owner-emotions/기획대본/drafts/2026-09-19_owner-emotions_suhwan-edit.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-19_owner-emotions_suhwan-edit.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-19_owner-emotions/기획대본/drafts/2026-09-19_owner-emotions_package.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-19_owner-emotions_package.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-11_order-list/02_결과보기",
+      "target": "../../참고자료/기존작업장/김꾼_영상보관/2026-09-11_order-list/02_결과보기",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-11_order-list/03_수정기록",
+      "target": "../../참고자료/기존작업장/김꾼_영상보관/2026-09-11_order-list/03_수정기록",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-11_order-list/99_작업보관",
+      "target": "../../참고자료/기존작업장/김꾼_영상보관/2026-09-11_order-list/99_작업보관",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-11_order-list/01_자료넣는곳",
+      "target": "../../참고자료/기존작업장/김꾼_영상보관/2026-09-11_order-list/01_자료넣는곳",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-11_order-list/기획대본/편집근거/2026-09-11_order-list_video-comparison.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-11_order-list_video-comparison.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-11_order-list/기획대본/drafts/2026-09-11_order-list_suhwan-edit.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-11_order-list_suhwan-edit.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-11_order-list/기획대본/drafts/2026-09-11_order-list_package.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-11_order-list_package.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-08-11_notice-button/기획대본/published/2026-08-11_notice-button_package.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/published/2026-08-11_notice-button_package.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-08-11_notice-button/기획대본/published/2026-08-11_notice-button_hook-fragment.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/published/2026-08-11_notice-button_hook-fragment.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-08-11_notice-button/기획대본/published/2026-08-11_notice-button_suhwan-edit.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/published/2026-08-11_notice-button_suhwan-edit.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-07-27_invisible-work/기획대본/drafts/2026-07-27_invisible-work_package.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-07-27_invisible-work_package.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-07-27_invisible-work/기획대본/drafts/2026-07-27_invisible-work_suhwan-edit.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-07-27_invisible-work_suhwan-edit.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-21_nagging-environment/02_결과보기",
+      "target": "../../참고자료/기존작업장/김꾼_영상보관/2026-09-21_nagging-environment/02_결과보기",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-21_nagging-environment/03_수정기록",
+      "target": "../../참고자료/기존작업장/김꾼_영상보관/2026-09-21_nagging-environment/03_수정기록",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-21_nagging-environment/99_작업보관",
+      "target": "../../참고자료/기존작업장/김꾼_영상보관/2026-09-21_nagging-environment/99_작업보관",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-21_nagging-environment/01_자료넣는곳",
+      "target": "../../참고자료/기존작업장/김꾼_영상보관/2026-09-21_nagging-environment/01_자료넣는곳",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-21_nagging-environment/기획대본/편집근거/2026-09-21_nagging-environment_video-comparison.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-21_nagging-environment_video-comparison.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-21_nagging-environment/기획대본/drafts/2026-09-21_nagging-environment_ending-v3.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-21_nagging-environment_ending-v3.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-21_nagging-environment/기획대본/drafts/2026-09-21_nagging-environment_package.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-21_nagging-environment_package.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-21_nagging-environment/기획대본/drafts/2026-09-21_nagging-environment_suhwan-edit.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-21_nagging-environment_suhwan-edit.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-21_nagging-environment/기획대본/drafts/2026-09-21_nagging-environment_v2.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-21_nagging-environment_v2.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-21_nagging-environment/기획대본/drafts/2026-09-21_nagging-environment_full-v4.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-21_nagging-environment_full-v4.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-08-25_two-schedules/기획대본/published/2026-08-25_two-schedules_shooting-final.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/published/2026-08-25_two-schedules_shooting-final.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-08-25_two-schedules/기획대본/published/2026-08-25_two-schedules_package.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/published/2026-08-25_two-schedules_package.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-13_three-causes/02_결과보기",
+      "target": "../../참고자료/기존작업장/김꾼_영상보관/2026-09-13_three-causes/02_결과보기",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-13_three-causes/03_수정기록",
+      "target": "../../참고자료/기존작업장/김꾼_영상보관/2026-09-13_three-causes/03_수정기록",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-13_three-causes/99_작업보관",
+      "target": "../../참고자료/기존작업장/김꾼_영상보관/2026-09-13_three-causes/99_작업보관",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-13_three-causes/01_자료넣는곳",
+      "target": "../../참고자료/기존작업장/김꾼_영상보관/2026-09-13_three-causes/01_자료넣는곳",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-13_three-causes/기획대본/편집근거/2026-09-13_three-causes_video-comparison.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-13_three-causes_video-comparison.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-13_three-causes/기획대본/drafts/2026-09-13_three-causes_v2.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-13_three-causes_v2.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-13_three-causes/기획대본/drafts/2026-09-13_three-causes_suhwan-edit.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-13_three-causes_suhwan-edit.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-09-13_three-causes/기획대본/drafts/2026-09-13_three-causes_package.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-09-13_three-causes_package.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-08-16_best-crew-leaves-first/기획대본/published/2026-08-16_best-crew-leaves-first_shooting-final.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/published/2026-08-16_best-crew-leaves-first_shooting-final.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-08-16_best-crew-leaves-first/기획대본/published/2026-08-16_best-crew-leaves-first_v2.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/published/2026-08-16_best-crew-leaves-first_v2.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-08-16_best-crew-leaves-first/기획대본/published/2026-08-16_best-crew-leaves-first_suhwan-edit.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/published/2026-08-16_best-crew-leaves-first_suhwan-edit.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-08-16_best-crew-leaves-first/기획대본/published/2026-08-16_best-crew-leaves-first_package.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/published/2026-08-16_best-crew-leaves-first_package.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-07-27_skip-words/기획대본/published/2026-07-27_skip-words_suhwan-edit.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/published/2026-07-27_skip-words_suhwan-edit.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-07-27_skip-words/기획대본/published/2026-07-27_skip-words_package.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/published/2026-07-27_skip-words_package.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "작품/2026-08-19_decision-board/기획대본/drafts/2026-08-19_decision-board_package.md",
+      "target": "../../../../참고자료/기존작업장/Kim.kkun_contents/drafts/2026-08-19_decision-board_package.md",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "참고자료/성과원본",
+      "target": "기존작업장/Kim.kkun_contents/metrics",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "참고자료/소재목록",
+      "target": "기존작업장/Kim.kkun_contents/ideas",
+      "exists_and_inside_copy": true
+    },
+    {
+      "path": "참고자료/검증대본",
+      "target": "기존작업장/Kim.kkun_contents/context",
+      "exists_and_inside_copy": true
+    }
+  ],
+  "limits": "Markdown audit checks local target existence only, not anchors or web URLs; old absolute paths were inventoried, not rewritten. No app, generation, automation, restore, media playback or account tests."
+}

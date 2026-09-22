@@ -1,0 +1,14 @@
+{
+  "source": "/Users/kim.kkun/Movies/CapCut/무제 폴더/0911.mov",
+  "source_signature": [
+    164462873,
+    1789142813073764138
+  ],
+  "video": "/Users/kim.kkun/Projects/김꾼_영상보관/99_관리자료/과거미분류보관/0911__20260912-010653__636d4a9687de/0911.mov",
+  "sha256": "636d4a9687de98227eff2eb744abf4b2a58638d047209af725d7cf6bab709c1f",
+  "archived_at": "2026-09-19T08:16:03.682828",
+  "classification": "unclassified",
+  "publication_status": "unknown",
+  "project_snapshot": null,
+  "project_snapshot_error": "[Errno 1] Operation not permitted: '/Users/kim.kkun/Downloads/Anthony Vega - The Charming Thief (1).mp3'"
+}

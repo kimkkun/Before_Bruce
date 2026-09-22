@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>com.kimkkun.capcut-export-archive</string>
+	<key>ProcessType</key>
+	<string>Background</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/usr/bin/python3</string>
+		<string>/Users/kim.kkun/Projects/김꾼_영상보관/자동보관/archive_exports.py</string>
+	</array>
+	<key>RunAtLoad</key>
+	<true/>
+	<key>StandardErrorPath</key>
+	<string>/Users/kim.kkun/Projects/김꾼_영상보관/자동보관/service-error.log</string>
+	<key>StandardOutPath</key>
+	<string>/Users/kim.kkun/Projects/김꾼_영상보관/자동보관/service.log</string>
+	<key>StartInterval</key>
+	<integer>60</integer>
+</dict>
+</plist>

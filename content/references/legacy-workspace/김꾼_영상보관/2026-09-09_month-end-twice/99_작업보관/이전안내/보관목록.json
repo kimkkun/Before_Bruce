@@ -1,0 +1,43 @@
+{
+  "recorded_date": "2026-09-10",
+  "files": [
+    {
+      "source": "/Users/kim.kkun/Movies/CapCut/User Data/Projects/com.lveditor.draft/.cloud_cache_7387405840452060165/0910-01/video/FragmentVideo_1027799.830723.mov",
+      "stored": "01_원본/FragmentVideo_1027799.830723.mov",
+      "bytes": 281367350,
+      "sha256": "de7cb0824a6987aa832d5a2c11547ba4a7cdf24021566981a52a249aa1ad7ed9"
+    },
+    {
+      "source": "/Users/kim.kkun/Projects/Kim.kkun_contents/drafts/2026-09-09_month-end-twice_capcut-reference.zip",
+      "stored": "02_AI편집/2026-09-09_month-end-twice_capcut-reference.zip",
+      "bytes": 33571,
+      "sha256": "bac1809a9106d890d3467d64d45f8e3da254f21f1014db527a029912dcdb1ebb"
+    },
+    {
+      "source": "/Users/kim.kkun/Projects/Kim.kkun_contents/drafts/2026-09-09_month-end-twice_caption-style-v1.zip",
+      "stored": "03_수환수정/2026-09-09_month-end-twice_caption-style-v1.zip",
+      "bytes": 28852,
+      "sha256": "7357037f9cdd5739556981796ab8a4843bfe8f64b1171a2730aaeca5d3e86809"
+    },
+    {
+      "source": "/Users/kim.kkun/Projects/Kim.kkun_contents/drafts/2026-09-09_month-end-twice_caption-style-v2.zip",
+      "stored": "03_수환수정/2026-09-09_month-end-twice_caption-style-v2.zip",
+      "bytes": 720756,
+      "sha256": "61fba3d44614f305d9098f841f9d0049b1d815afa70dbad47dd5266f064e65bb"
+    },
+    {
+      "source": "/Users/kim.kkun/Projects/Kim.kkun_contents/drafts/2026-09-09_month-end-twice_caption-style-v3.zip",
+      "stored": "03_수환수정/2026-09-09_month-end-twice_caption-style-v3.zip",
+      "bytes": 32754,
+      "sha256": "6921ab2b0f80d8a921a73e3c8b517e33ae8c543b4ba2eadb59b6472300fe85f7"
+    },
+    {
+      "source": "/Users/kim.kkun/Projects/Kim.kkun_contents/drafts/2026-09-09_month-end-twice_edit-style-v4.zip",
+      "stored": "03_수환수정/2026-09-09_month-end-twice_edit-style-v4.zip",
+      "bytes": 144135,
+      "sha256": "e49771d6e69fa0c08d2fe60509a0e8e5a472aa86d8db825e410121b975797f50"
+    }
+  ],
+  "external_backup": false,
+  "exported_final_present": false
+}

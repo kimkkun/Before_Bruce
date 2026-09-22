@@ -1,0 +1,1 @@
+../../../../references/legacy-workspace/Kim.kkun_contents/drafts/2026-09-21_nagging-environment_suhwan-edit.md

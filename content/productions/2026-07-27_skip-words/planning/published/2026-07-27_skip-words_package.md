@@ -1,0 +1,1 @@
+../../../../references/legacy-workspace/Kim.kkun_contents/published/2026-07-27_skip-words_package.md

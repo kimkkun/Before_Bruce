@@ -1,0 +1,25 @@
+/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-21_nagging-environment/99_작업보관/Higgsfield/03_인물기반 생성/S01A_문을여는김꾼/제작기록.md: missing entry document
+/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-21_nagging-environment/99_작업보관/Higgsfield/03_인물기반 생성/S01A_문을여는김꾼/02_생성버전/v001: missing 생성정보.md
+/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-21_nagging-environment/99_작업보관/Higgsfield/03_인물기반 생성/S01A_문을여는김꾼/02_생성버전/v002: missing 생성정보.md
+/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-21_nagging-environment/99_작업보관/Higgsfield/03_인물기반 생성/S01B_남극이된매장/제작기록.md: missing entry document
+/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-21_nagging-environment/99_작업보관/Higgsfield/03_인물기반 생성/S01B_남극이된매장/02_생성버전/v001: missing 생성정보.md
+/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-21_nagging-environment/99_작업보관/Higgsfield/03_인물기반 생성/S01B_남극이된매장/02_생성버전/v002: missing 생성정보.md
+/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-21_nagging-environment/99_작업보관/Higgsfield/03_인물기반 생성/S01B_남극이된매장/02_생성버전/v003: missing 생성정보.md
+/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-21_nagging-environment/99_작업보관/Higgsfield/03_인물기반 생성/S02_늘어나는안내문/제작기록.md: missing entry document
+/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-21_nagging-environment/99_작업보관/Higgsfield/03_인물기반 생성/S02_늘어나는안내문/02_생성버전/v001: missing 생성정보.md
+/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-21_nagging-environment/99_작업보관/Higgsfield/03_인물기반 생성/S03_체크만끝난마감/제작기록.md: missing entry document
+/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-21_nagging-environment/99_작업보관/Higgsfield/03_인물기반 생성/S03_체크만끝난마감/02_생성버전/v001: missing 생성정보.md
+/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-21_nagging-environment/99_작업보관/Higgsfield/03_인물기반 생성/S03_체크만끝난마감/02_생성버전/v002: missing 생성정보.md
+/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-21_nagging-environment/99_작업보관/Higgsfield/03_인물기반 생성/S03_체크만끝난마감/02_생성버전/v003: missing 생성정보.md
+/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-21_nagging-environment/99_작업보관/Higgsfield/03_인물기반 생성/S04_실제로끄고확인/제작기록.md: missing entry document
+/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-21_nagging-environment/99_작업보관/Higgsfield/03_인물기반 생성/S04_실제로끄고확인/02_생성버전/v001: missing 생성정보.md
+/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-21_nagging-environment/03_수정기록/편집구간_v001.json: technical artifact belongs in 99_작업보관
+/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-21_nagging-environment/03_수정기록/생성진행_v002.json: technical artifact belongs in 99_작업보관
+/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-21_nagging-environment/03_수정기록/생성정보_전체_v001.json: technical artifact belongs in 99_작업보관
+/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-21_nagging-environment/03_수정기록/프레임검수_v001.jpg: technical artifact belongs in 99_작업보관
+/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-21_nagging-environment/03_수정기록/편집재현.swift: technical artifact belongs in 99_작업보관
+/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-21_nagging-environment/03_수정기록/생성진행_v001.json: technical artifact belongs in 99_작업보관
+/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-21_nagging-environment/03_수정기록/편집본검수_v001.jpg: technical artifact belongs in 99_작업보관
+/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-21_nagging-environment/03_수정기록/편집구간_v002.json: technical artifact belongs in 99_작업보관
+/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-21_nagging-environment/03_수정기록/편집본검수_v002.jpg: technical artifact belongs in 99_작업보관
+/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-21_nagging-environment/03_수정기록/편집구간_v003.json: technical artifact belongs in 99_작업보관

@@ -1,0 +1,23 @@
+{
+  "id": "732f9905-c620-468c-abbc-d6e47e603e6e",
+  "type": "image",
+  "status": "completed",
+  "model": "gpt_image_2_5",
+  "params": {
+    "prompt": "Create a single cinematic photorealistic surreal visual metaphor still for a Korean restaurant-owner talking-head reel. Vertical 9:16. Tactile practical miniature-set realism, restrained warm amber restaurant lighting, charcoal and muted olive palette, strong readable silhouette, realistic materials, no cartoon, no captions, no typography, no watermark, no collage. Frame the full key action with margins; leave lower 20 percent visually quiet for later subtitles. It must read in one second on a phone. A detailed miniature Korean neighborhood restaurant with a blank awning, open front showing warm tables and chairs and a stainless counter, mounted on a sturdy rectangular platform supported by three short square wooden pillars on a dark tabletop. The rightmost pillar has slid out to the right and lies separately on its side, leaving its support position visibly empty. The platform and entire miniature now tip modestly down to the right as one intact rigid structure. Remaining two pillars still visibly touch the underside; no levitation. Strong three-quarter front view revealing both the warm restaurant interior and the missing structural support beneath it. One unmistakable cause-and-effect composition. No people, no giant hands, no explosion, no rubble, no disaster realism. Amber against charcoal background.",
+    "aspect_ratio": "9:16",
+    "medias": [],
+    "width": 1520,
+    "height": 2688,
+    "quality": "medium",
+    "resolution": "2k",
+    "model": "flare",
+    "remove_bg": false,
+    "reference_elements": []
+  },
+  "results": {
+    "rawUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_102522_732f9905-c620-468c-abbc-d6e47e603e6e.png",
+    "minUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_102522_732f9905-c620-468c-abbc-d6e47e603e6e_min.webp"
+  },
+  "createdAt": 1789986322.590455
+}

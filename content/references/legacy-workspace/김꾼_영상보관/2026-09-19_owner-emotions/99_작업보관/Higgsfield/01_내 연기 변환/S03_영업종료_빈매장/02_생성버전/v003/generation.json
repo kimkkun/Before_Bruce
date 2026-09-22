@@ -1,0 +1,30 @@
+{
+  "params": {
+    "model": "seedance_2_5",
+    "mode": "video_edit",
+    "resolution": "720p",
+    "generate_audio": false,
+    "aspect_ratio": "9:16",
+    "duration": 5,
+    "medias": [
+      {
+        "role": "video_references",
+        "value": "f4b07c01-e60c-407d-9fc6-204b931ec769"
+      },
+      {
+        "role": "image_references",
+        "value": "ff465370-cc5a-49f0-8c6c-638db05da15f"
+      }
+    ],
+    "prompt": "TASK: Edit ONLY the background of the source talking-head video into a visual story of the owner being left alone. Reference IMAGE defines the STARTING BACKGROUND: two adult restaurant employees in gray aprons, one at screen left with a pad and one at screen right with a serving tray; warm rear lamps switched on. Source VIDEO is master for the FOREGROUND MAN, his exact facial identity, black glasses, white shirt, hands, ring, watch, handheld black microphone, frame-by-frame speech and gesture timing, foreground table, lens, framing, and locked camera. Keep that foreground performance unchanged, no reshoot or pose reset. TIMELINE, one continuous 5-second shot: 0.0-1.2s: both employees are fully visible in their separate background positions, naturally working with small motions, rear restaurant brightly lit as reference image. 1.2-1.6s: ONLY the LEFT employee and her pad dissolve completely out of existence in place, revealing the unchanged empty restaurant behind; rear left lamps switch OFF at that same beat. The right employee remains clearly visible. 1.6-2.6s: exactly ONE employee remains at right, left area is empty and dark. 2.6-3.0s: the RIGHT employee and tray dissolve completely out of existence in place; rear right lamps switch OFF. 3.0-5.0s: hold on the man alone, no other people, all background restaurant lights OFF, dim empty tables visible; the large pendant directly above the foreground man remains ON throughout and softly lights his face and table. Make the reduction TWO employees to ONE to ZERO unmistakable. Physical room, tables, walls and chairs remain fixed. Disappearance means fade away in place, not walking out of frame, no clones, no smoke/explosion. Never fade or darken the foreground man. Photorealistic, coherent shadows, no captions, no camera move, no cuts. Do not reintroduce people after they vanish."
+  },
+  "job_id": "1864d0ec-a6fb-4106-9817-88a0a99b54ae",
+  "status": "completed",
+  "expected_credits": 38,
+  "source_version": "v002",
+  "approval": "사용자: 그러면 이 방법대로 내가 원하는 컷을 만들어줘봐",
+  "image_prompt": "Edit this restaurant image into the START STATE of a five-second live-action visual metaphor. Preserve the foreground seated man's exact identity, face, glasses, hair, white shirt, pose, hands, jewelry and black table with induction hob. Preserve exactly the same camera position and restaurant layout. Only change BACKGROUND: add exactly TWO clearly visible adult Korean restaurant employees wearing plain charcoal aprons over light shirts, one in the open background on the LEFT of the seated man's head, one on the RIGHT; their heads and torsos fully readable, behind him, never overlapping his face or arms. Left employee stands beside a rear table holding a small order pad; right employee stands near the doorway holding a metal serving tray at waist height. Each is about 2-3 metres behind him with realistic perspective and contact, slightly soft focus but unmistakably a person. Switch on the existing rear restaurant ceiling lamps with warm light, so the background is noticeably brighter and reads as an operating staffed restaurant. Keep the large foreground pendant and the seated man's exposure, skin and lighting unchanged. Photoreal cinematic still, same portrait 9:16 composition. No additional people, no text, no panels, no motion effects. Main task: two clearly visible staff at left and right, bright working restaurant, same man and room.",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_125318_1864d0ec-a6fb-4106-9817-88a0a99b54ae.mp4",
+  "voiced_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/acef3c96-54c6-462a-86b3-8b1fafde8edd.mp4",
+  "actual_credits": 38
+}

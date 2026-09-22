@@ -1,0 +1,166 @@
+{
+  "date": "2026-09-19",
+  "launchagent": "com.kimkkun.capcut-export-archive",
+  "scheduled_run_observed": true,
+  "exports_collected": 13,
+  "scan": "2026-09-19T08:17:16.325083",
+  "errors": [],
+  "tests": [
+    "settle",
+    "dedup",
+    "same-name versioning",
+    "source preservation",
+    "unclassified routing",
+    "nested exports",
+    "User Data exclusion",
+    "project resource zip"
+  ],
+  "files": [
+    {
+      "file": "/Users/kim.kkun/Projects/김꾼_영상보관/00_자동보관_분류대기/0826-01__20260828-140013__115ad0ed47f6/0826-01.mov",
+      "sha256_ok": true,
+      "snapshot": null,
+      "snapshot_error": null
+    },
+    {
+      "file": "/Users/kim.kkun/Projects/김꾼_영상보관/00_자동보관_분류대기/0911__20260912-010653__636d4a9687de/0911.mov",
+      "sha256_ok": true,
+      "snapshot": null,
+      "snapshot_error": "[Errno 1] Operation not permitted: '/Users/kim.kkun/Downloads/Anthony Vega - The Charming Thief (1).mp3'"
+    },
+    {
+      "file": "/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-13_three-causes/04_최종본/자동보관/2026-09-13_three-causes_v001(1)__20260918-221908__a81dcd34c65d/2026-09-13_three-causes_v001(1).mov",
+      "sha256_ok": true,
+      "snapshot": {
+        "file": "capcut-project-resources.zip",
+        "missing_paths": [
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/artistEffect/7109128676712795419/9b3ca51484478a37ac227b8d5000f80c",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/artistEffect/7467524331845815605/2b3a48ef9d74e22ce862d2a5eebb10e9",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/artistEffect/7484214195228101949/616180f6f9cd300856839cf254792f33",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/artistEffect/7498829900070014261/07e3b4ce43a34b327604984e70c82a13",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/artistEffect/7534626669542264117/782c511a7d694df5083d2cd7ba544b20",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/artistEffect/7534626785766526269/64bc46568043b523f78c1f06ca0408e9",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/artistEffect/7547828597868825909/48b657da2ed3a7fdaec3f97702378cac",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/artistEffect/7552875526218730805/b915a45d566b74442a332b2a83e7e47e",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/artistEffect/7553619507328142645/c7399185425d1dd02719c0bda3641787",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/artistEffect/7566683537319988533/df377043031b2c6c77ef865ebc16904f",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/artistEffect/7576514142979247413/b2c5283d0bc6d2d6eb839edec1f3a7bc",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/artistEffect/7588342032289074485/7eebb345b65c7981ee83886cb67c8ef3",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/artistEffect/7631905966182763793/15d9154e80b2438711703da69c96e078",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/effect/6724919382104871427/6ecc8fa1d956c3e14c84cdc0679982a9",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/effect/6808056385679397389/046f11d9049144aa80e3723b5ed93b7a/DoHyeon-Regular.ttf",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/effect/7542715028181454097/e99175037af55a39de0cdbd5fe4af695/font.ttf",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/effect/7564674095921515777/d46a86be6aaad0a85c65833f067d6068",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/effect/7564674095921515777/d46a86be6aaad0a85c65833f067d6068/local_FE175CB1-1914-4FAC-BC18-5E002AE87FF5.png",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/effect/7582977477643881781/872ed81e9005b4c1197099dfdc77a148",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/effect/7587662647647014197/2e75410d22cb5b3f9acd522f212ddc83",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/effect/7592008738001734919/55e2e4622ee55fcf8c5d152d5fe1b918",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/effect/7602463191511108882/fed5c498e1e45a9d9ce87a0071a85428",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/music/094d89a171a8b6394b503fcdbb196205.mp3",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/music/1e0a94ef357f549c8b7eff9c6dbfbf89.beat",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/music/33f11a55221681b3fefec3346290169e.mp3",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/music/5fa16f0f0a34e80caf6771e0f20bea92.beat",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/music/b3ab839fb6a9ecb206a6e784ddfc8952.beat",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/music/bfa290bd0ef51bcc6a62d8a80e40e5a0.mp3"
+        ],
+        "project": "/Users/kim.kkun/Movies/CapCut/무제 폴더/User Data/Projects/com.lveditor.draft/2026-09-13_three-causes_v001",
+        "draft_sha256": "c2a3a961c9ca0e9cb0c1be5a0d5d632a81c7c853d72d3aba8f4931a6871c6f7f"
+      },
+      "snapshot_error": null
+    },
+    {
+      "file": "/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-13_three-causes/04_최종본/자동보관/2026-09-13_three-causes_v001__20260916-000853__b1764e5d0a53/2026-09-13_three-causes_v001.mov",
+      "sha256_ok": true,
+      "snapshot": {
+        "file": "capcut-project-resources.zip",
+        "missing_paths": [
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/artistEffect/7109128676712795419/9b3ca51484478a37ac227b8d5000f80c",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/artistEffect/7467524331845815605/2b3a48ef9d74e22ce862d2a5eebb10e9",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/artistEffect/7484214195228101949/616180f6f9cd300856839cf254792f33",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/artistEffect/7498829900070014261/07e3b4ce43a34b327604984e70c82a13",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/artistEffect/7534626669542264117/782c511a7d694df5083d2cd7ba544b20",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/artistEffect/7534626785766526269/64bc46568043b523f78c1f06ca0408e9",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/artistEffect/7547828597868825909/48b657da2ed3a7fdaec3f97702378cac",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/artistEffect/7552875526218730805/b915a45d566b74442a332b2a83e7e47e",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/artistEffect/7553619507328142645/c7399185425d1dd02719c0bda3641787",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/artistEffect/7566683537319988533/df377043031b2c6c77ef865ebc16904f",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/artistEffect/7576514142979247413/b2c5283d0bc6d2d6eb839edec1f3a7bc",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/artistEffect/7588342032289074485/7eebb345b65c7981ee83886cb67c8ef3",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/artistEffect/7631905966182763793/15d9154e80b2438711703da69c96e078",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/effect/6724919382104871427/6ecc8fa1d956c3e14c84cdc0679982a9",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/effect/6808056385679397389/046f11d9049144aa80e3723b5ed93b7a/DoHyeon-Regular.ttf",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/effect/7542715028181454097/e99175037af55a39de0cdbd5fe4af695/font.ttf",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/effect/7564674095921515777/d46a86be6aaad0a85c65833f067d6068",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/effect/7564674095921515777/d46a86be6aaad0a85c65833f067d6068/local_FE175CB1-1914-4FAC-BC18-5E002AE87FF5.png",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/effect/7582977477643881781/872ed81e9005b4c1197099dfdc77a148",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/effect/7587662647647014197/2e75410d22cb5b3f9acd522f212ddc83",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/effect/7592008738001734919/55e2e4622ee55fcf8c5d152d5fe1b918",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/effect/7602463191511108882/fed5c498e1e45a9d9ce87a0071a85428",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/music/094d89a171a8b6394b503fcdbb196205.mp3",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/music/1e0a94ef357f549c8b7eff9c6dbfbf89.beat",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/music/33f11a55221681b3fefec3346290169e.mp3",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/music/5fa16f0f0a34e80caf6771e0f20bea92.beat",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/music/b3ab839fb6a9ecb206a6e784ddfc8952.beat",
+          "/Users/kim.kkun/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/music/bfa290bd0ef51bcc6a62d8a80e40e5a0.mp3"
+        ],
+        "project": "/Users/kim.kkun/Movies/CapCut/무제 폴더/User Data/Projects/com.lveditor.draft/2026-09-13_three-causes_v001",
+        "draft_sha256": "c2a3a961c9ca0e9cb0c1be5a0d5d632a81c7c853d72d3aba8f4931a6871c6f7f"
+      },
+      "snapshot_error": null
+    },
+    {
+      "file": "/Users/kim.kkun/Projects/김꾼_영상보관/00_자동보관_분류대기/공지사__20260813-232728__5072f34634c1/공지사.mov",
+      "sha256_ok": true,
+      "snapshot": null,
+      "snapshot_error": null
+    },
+    {
+      "file": "/Users/kim.kkun/Projects/김꾼_영상보관/00_자동보관_분류대기/더크루-시작__20260817-214306__6499ce43d021/더크루-시작.mov",
+      "sha256_ok": true,
+      "snapshot": null,
+      "snapshot_error": null
+    },
+    {
+      "file": "/Users/kim.kkun/Projects/김꾼_영상보관/00_자동보관_분류대기/더크루__20260805-222037__1f6ec0ac9082/더크루.mov",
+      "sha256_ok": true,
+      "snapshot": null,
+      "snapshot_error": null
+    },
+    {
+      "file": "/Users/kim.kkun/Projects/김꾼_영상보관/00_자동보관_분류대기/민수야 고생많았다__20260822-133940__4c07e98f3791/민수야 고생많았다.mov",
+      "sha256_ok": true,
+      "snapshot": null,
+      "snapshot_error": null
+    },
+    {
+      "file": "/Users/kim.kkun/Projects/김꾼_영상보관/00_자동보관_분류대기/베타테스__20260831-003221__bc40c2088408/베타테스.mov",
+      "sha256_ok": true,
+      "snapshot": null,
+      "snapshot_error": null
+    },
+    {
+      "file": "/Users/kim.kkun/Projects/김꾼_영상보관/00_자동보관_분류대기/베타테스트2__20260904-231708__26aad4737209/베타테스트2.mov",
+      "sha256_ok": true,
+      "snapshot": null,
+      "snapshot_error": null
+    },
+    {
+      "file": "/Users/kim.kkun/Projects/김꾼_영상보관/00_자동보관_분류대기/월급주는 날__20260910-232704__d1464ea8e8de/월급주는 날.mov",
+      "sha256_ok": true,
+      "snapshot": null,
+      "snapshot_error": null
+    },
+    {
+      "file": "/Users/kim.kkun/Projects/김꾼_영상보관/00_자동보관_분류대기/주문은 안들어갔음__20260912-231230__feaee7402314/주문은 안들어갔음.mov",
+      "sha256_ok": true,
+      "snapshot": null,
+      "snapshot_error": null
+    },
+    {
+      "file": "/Users/kim.kkun/Projects/김꾼_영상보관/00_자동보관_분류대기/체크리스트__20260810-132542__cbcdc674f16e/체크리스트.mov",
+      "sha256_ok": true,
+      "snapshot": null,
+      "snapshot_error": null
+    }
+  ]
+}

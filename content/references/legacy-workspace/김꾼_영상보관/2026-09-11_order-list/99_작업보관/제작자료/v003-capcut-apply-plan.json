@@ -1,0 +1,34 @@
+{
+  "root": "/Users/kim.kkun/Movies/CapCut/User Data/Projects/com.lveditor.draft/0911",
+  "targets": [
+    {
+      "path": "/Users/kim.kkun/Movies/CapCut/User Data/Projects/com.lveditor.draft/0911/template-2.tmp",
+      "sha256": "ab03621d5a760a8833f328b48476c01c15e86e03296ba1756720bda190507efc"
+    },
+    {
+      "path": "/Users/kim.kkun/Movies/CapCut/User Data/Projects/com.lveditor.draft/0911/draft_info.json.bak",
+      "sha256": "ab03621d5a760a8833f328b48476c01c15e86e03296ba1756720bda190507efc"
+    },
+    {
+      "path": "/Users/kim.kkun/Movies/CapCut/User Data/Projects/com.lveditor.draft/0911/draft_info.json",
+      "sha256": "ab03621d5a760a8833f328b48476c01c15e86e03296ba1756720bda190507efc"
+    },
+    {
+      "path": "/Users/kim.kkun/Movies/CapCut/User Data/Projects/com.lveditor.draft/0911/Timelines/26CCEB28-B7BB-4EFA-8899-2371ED607261/template-2.tmp",
+      "sha256": "ab03621d5a760a8833f328b48476c01c15e86e03296ba1756720bda190507efc"
+    },
+    {
+      "path": "/Users/kim.kkun/Movies/CapCut/User Data/Projects/com.lveditor.draft/0911/Timelines/26CCEB28-B7BB-4EFA-8899-2371ED607261/draft_info.json.bak",
+      "sha256": "ab03621d5a760a8833f328b48476c01c15e86e03296ba1756720bda190507efc"
+    },
+    {
+      "path": "/Users/kim.kkun/Movies/CapCut/User Data/Projects/com.lveditor.draft/0911/Timelines/26CCEB28-B7BB-4EFA-8899-2371ED607261/draft_info.json",
+      "sha256": "ab03621d5a760a8833f328b48476c01c15e86e03296ba1756720bda190507efc"
+    }
+  ],
+  "source": "/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-11_order-list/01_원본/copy_9B0EF888-D596-4CC0-92D7-00D702EB125D.MOV",
+  "source_sha256": "ca96c8fddf7a0ea07abb8b85a7f2633521fcd9175762f4ad844b4b208229b592",
+  "destination": "/Users/kim.kkun/Movies/CapCut/User Data/Projects/com.lveditor.draft/0911/Resources/copy_9B0EF888-D596-4CC0-92D7-00D702EB125D.MOV",
+  "duration": 105633333,
+  "segments": 32
+}

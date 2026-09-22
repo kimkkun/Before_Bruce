@@ -1,0 +1,949 @@
+{
+  "status": "built_not_applied",
+  "duration": 111.06666666666666,
+  "keeps": [
+    {
+      "source_start": 0.7666666666666667,
+      "source_end": 4.4,
+      "start": 0.0,
+      "end": 3.6333333333333333
+    },
+    {
+      "source_start": 7.466666666666667,
+      "source_end": 8.333333333333334,
+      "start": 3.6333333333333333,
+      "end": 4.5
+    },
+    {
+      "source_start": 11.5,
+      "source_end": 13.233333333333333,
+      "start": 4.5,
+      "end": 6.233333333333333
+    },
+    {
+      "source_start": 14.266666666666667,
+      "source_end": 18.1,
+      "start": 6.233333333333333,
+      "end": 10.066666666666666
+    },
+    {
+      "source_start": 18.833333333333332,
+      "source_end": 20.5,
+      "start": 10.066666666666666,
+      "end": 11.733333333333333
+    },
+    {
+      "source_start": 22.866666666666667,
+      "source_end": 26.5,
+      "start": 11.733333333333333,
+      "end": 15.366666666666667
+    },
+    {
+      "source_start": 28.3,
+      "source_end": 30.4,
+      "start": 15.366666666666667,
+      "end": 17.466666666666665
+    },
+    {
+      "source_start": 32.2,
+      "source_end": 34.06666666666667,
+      "start": 17.466666666666665,
+      "end": 19.333333333333332
+    },
+    {
+      "source_start": 34.46666666666667,
+      "source_end": 35.7,
+      "start": 19.333333333333332,
+      "end": 20.566666666666666
+    },
+    {
+      "source_start": 38.2,
+      "source_end": 40.333333333333336,
+      "start": 20.566666666666666,
+      "end": 22.7
+    },
+    {
+      "source_start": 40.766666666666666,
+      "source_end": 42.93333333333333,
+      "start": 22.7,
+      "end": 24.866666666666667
+    },
+    {
+      "source_start": 45.666666666666664,
+      "source_end": 48.233333333333334,
+      "start": 24.866666666666667,
+      "end": 27.433333333333334
+    },
+    {
+      "source_start": 50.9,
+      "source_end": 53.833333333333336,
+      "start": 27.433333333333334,
+      "end": 30.366666666666667
+    },
+    {
+      "source_start": 55.766666666666666,
+      "source_end": 57.766666666666666,
+      "start": 30.366666666666667,
+      "end": 32.36666666666667
+    },
+    {
+      "source_start": 58.2,
+      "source_end": 59.46666666666667,
+      "start": 32.36666666666667,
+      "end": 33.63333333333333
+    },
+    {
+      "source_start": 62.13333333333333,
+      "source_end": 63.333333333333336,
+      "start": 33.63333333333333,
+      "end": 34.833333333333336
+    },
+    {
+      "source_start": 63.86666666666667,
+      "source_end": 67.5,
+      "start": 34.833333333333336,
+      "end": 38.46666666666667
+    },
+    {
+      "source_start": 68.06666666666666,
+      "source_end": 69.06666666666666,
+      "start": 38.46666666666667,
+      "end": 39.46666666666667
+    },
+    {
+      "source_start": 72.53333333333333,
+      "source_end": 73.76666666666667,
+      "start": 39.46666666666667,
+      "end": 40.7
+    },
+    {
+      "source_start": 75.56666666666666,
+      "source_end": 78.83333333333333,
+      "start": 40.7,
+      "end": 43.96666666666667
+    },
+    {
+      "source_start": 82.7,
+      "source_end": 83.66666666666667,
+      "start": 43.96666666666667,
+      "end": 44.93333333333333
+    },
+    {
+      "source_start": 84.4,
+      "source_end": 86.1,
+      "start": 44.93333333333333,
+      "end": 46.63333333333333
+    },
+    {
+      "source_start": 86.43333333333334,
+      "source_end": 87.8,
+      "start": 46.63333333333333,
+      "end": 48.0
+    },
+    {
+      "source_start": 92.23333333333333,
+      "source_end": 95.03333333333333,
+      "start": 48.0,
+      "end": 50.8
+    },
+    {
+      "source_start": 95.7,
+      "source_end": 97.66666666666667,
+      "start": 50.8,
+      "end": 52.766666666666666
+    },
+    {
+      "source_start": 98.4,
+      "source_end": 100.8,
+      "start": 52.766666666666666,
+      "end": 55.166666666666664
+    },
+    {
+      "source_start": 103.86666666666666,
+      "source_end": 107.46666666666667,
+      "start": 55.166666666666664,
+      "end": 58.766666666666666
+    },
+    {
+      "source_start": 111.1,
+      "source_end": 113.83333333333333,
+      "start": 58.766666666666666,
+      "end": 61.5
+    },
+    {
+      "source_start": 114.53333333333333,
+      "source_end": 115.7,
+      "start": 61.5,
+      "end": 62.666666666666664
+    },
+    {
+      "source_start": 116.23333333333333,
+      "source_end": 118.73333333333333,
+      "start": 62.666666666666664,
+      "end": 65.16666666666667
+    },
+    {
+      "source_start": 119.43333333333334,
+      "source_end": 120.96666666666667,
+      "start": 65.16666666666667,
+      "end": 66.7
+    },
+    {
+      "source_start": 121.63333333333334,
+      "source_end": 122.86666666666666,
+      "start": 66.7,
+      "end": 67.93333333333334
+    },
+    {
+      "source_start": 125.3,
+      "source_end": 127.56666666666666,
+      "start": 67.93333333333334,
+      "end": 70.2
+    },
+    {
+      "source_start": 130.0,
+      "source_end": 132.3,
+      "start": 70.2,
+      "end": 72.5
+    },
+    {
+      "source_start": 132.46666666666667,
+      "source_end": 133.96666666666667,
+      "start": 72.5,
+      "end": 74.0
+    },
+    {
+      "source_start": 135.53333333333333,
+      "source_end": 135.66666666666666,
+      "start": 74.0,
+      "end": 74.13333333333334
+    },
+    {
+      "source_start": 136.3,
+      "source_end": 138.26666666666668,
+      "start": 74.13333333333334,
+      "end": 76.1
+    },
+    {
+      "source_start": 140.53333333333333,
+      "source_end": 143.03333333333333,
+      "start": 76.1,
+      "end": 78.6
+    },
+    {
+      "source_start": 145.86666666666667,
+      "source_end": 148.76666666666668,
+      "start": 78.6,
+      "end": 81.5
+    },
+    {
+      "source_start": 149.63333333333333,
+      "source_end": 153.5,
+      "start": 81.5,
+      "end": 85.36666666666666
+    },
+    {
+      "source_start": 157.53333333333333,
+      "source_end": 157.86666666666667,
+      "start": 85.36666666666666,
+      "end": 85.7
+    },
+    {
+      "source_start": 159.86666666666667,
+      "source_end": 162.5,
+      "start": 85.7,
+      "end": 88.33333333333333
+    },
+    {
+      "source_start": 163.03333333333333,
+      "source_end": 164.93333333333334,
+      "start": 88.33333333333333,
+      "end": 90.23333333333333
+    },
+    {
+      "source_start": 167.66666666666666,
+      "source_end": 169.83333333333334,
+      "start": 90.23333333333333,
+      "end": 92.4
+    },
+    {
+      "source_start": 170.36666666666667,
+      "source_end": 173.06666666666666,
+      "start": 92.4,
+      "end": 95.1
+    },
+    {
+      "source_start": 175.66666666666666,
+      "source_end": 178.86666666666667,
+      "start": 95.1,
+      "end": 98.3
+    },
+    {
+      "source_start": 179.56666666666666,
+      "source_end": 182.46666666666667,
+      "start": 98.3,
+      "end": 101.2
+    },
+    {
+      "source_start": 183.06666666666666,
+      "source_end": 184.86666666666667,
+      "start": 101.2,
+      "end": 103.0
+    },
+    {
+      "source_start": 193.33333333333334,
+      "source_end": 194.96666666666667,
+      "start": 103.0,
+      "end": 104.63333333333334
+    },
+    {
+      "source_start": 195.63333333333333,
+      "source_end": 197.6,
+      "start": 104.63333333333334,
+      "end": 106.6
+    },
+    {
+      "source_start": 200.86666666666667,
+      "source_end": 201.03333333333333,
+      "start": 106.6,
+      "end": 106.76666666666667
+    },
+    {
+      "source_start": 201.86666666666667,
+      "source_end": 204.23333333333332,
+      "start": 106.76666666666667,
+      "end": 109.13333333333334
+    },
+    {
+      "source_start": 204.56666666666666,
+      "source_end": 206.5,
+      "start": 109.13333333333334,
+      "end": 111.06666666666666
+    }
+  ],
+  "excluded_retakes": [
+    [
+      133.96,
+      135.52
+    ],
+    [
+      156.3,
+      157.52
+    ],
+    [
+      186.6,
+      191.1
+    ],
+    [
+      199.25,
+      200.88
+    ]
+  ],
+  "captions": [
+    {
+      "source": 0.4,
+      "start": 0,
+      "text": "매장 운영하다 보니까",
+      "emphasis": false,
+      "end": 1.0
+    },
+    {
+      "source": 1.78,
+      "start": 1.0,
+      "text": "제가 점점 더",
+      "emphasis": false,
+      "end": 2.2333333333333334
+    },
+    {
+      "source": 3.0,
+      "start": 2.2333333333333334,
+      "text": "괴물이 되어가더라고요",
+      "emphasis": true,
+      "end": 3.6333333333333333
+    },
+    {
+      "source": 7.21,
+      "start": 3.6333333333333333,
+      "text": "김꾼입니다",
+      "emphasis": false,
+      "end": 4.5
+    },
+    {
+      "source": 11.47,
+      "start": 4.5,
+      "text": "매출 안 나오면 불안하죠",
+      "emphasis": false,
+      "end": 6.233333333333333
+    },
+    {
+      "source": 14.23,
+      "start": 6.233333333333333,
+      "text": "그런데 기본적인 일까지",
+      "emphasis": false,
+      "end": 7.466666666666667
+    },
+    {
+      "source": 15.49,
+      "start": 7.466666666666667,
+      "text": "매일 직원에게 묻고 확인해야 하니까",
+      "emphasis": false,
+      "end": 10.066666666666666
+    },
+    {
+      "source": 18.65,
+      "start": 10.066666666666666,
+      "text": "느는 건 짜증밖에 없더라고요",
+      "emphasis": true,
+      "end": 11.733333333333333
+    },
+    {
+      "source": 22.81,
+      "start": 11.733333333333333,
+      "text": "그래서 제가 묻지 않아도",
+      "emphasis": false,
+      "end": 12.966666666666667
+    },
+    {
+      "source": 24.09,
+      "start": 12.966666666666667,
+      "text": "일이 돌아갈 수 있게 하는",
+      "emphasis": false,
+      "end": 14.033333333333333
+    },
+    {
+      "source": 25.17,
+      "start": 14.033333333333333,
+      "text": "방법이 없을까",
+      "emphasis": false,
+      "end": 15.366666666666667
+    },
+    {
+      "source": 27.43,
+      "start": 15.366666666666667,
+      "text": "한 3년은 깊이 고민했던 것 같습니다",
+      "emphasis": false,
+      "end": 17.466666666666665
+    },
+    {
+      "source": 31.77,
+      "start": 17.466666666666665,
+      "text": "그러다가 2022년 11월에",
+      "emphasis": false,
+      "end": 19.333333333333332
+    },
+    {
+      "source": 34.09,
+      "start": 19.333333333333332,
+      "text": "AI가 등장했죠",
+      "emphasis": false,
+      "end": 20.566666666666666
+    },
+    {
+      "source": 37.38,
+      "start": 20.566666666666666,
+      "text": "원가는 오르고",
+      "emphasis": false,
+      "end": 21.5
+    },
+    {
+      "source": 39.12,
+      "start": 21.5,
+      "text": "인건비도 오르고",
+      "emphasis": false,
+      "end": 22.7
+    },
+    {
+      "source": 40.34,
+      "start": 22.7,
+      "text": "하루만 장사가 안 돼도",
+      "emphasis": false,
+      "end": 23.8
+    },
+    {
+      "source": 41.86,
+      "start": 23.8,
+      "text": "마이너스인데",
+      "emphasis": false,
+      "end": 24.866666666666667
+    },
+    {
+      "source": 45.35,
+      "start": 24.866666666666667,
+      "text": "손님들 기대는 계속 높아지잖아요",
+      "emphasis": false,
+      "end": 27.433333333333334
+    },
+    {
+      "source": 50.84,
+      "start": 27.433333333333334,
+      "text": "세금 내고 월급 주고",
+      "emphasis": false,
+      "end": 28.933333333333334
+    },
+    {
+      "source": 52.4,
+      "start": 28.933333333333334,
+      "text": "재료값 결제할 날은 매달 오는데",
+      "emphasis": false,
+      "end": 32.166666666666664
+    },
+    {
+      "source": 57.56,
+      "start": 32.166666666666664,
+      "text": "통장은 제자리입니다",
+      "emphasis": true,
+      "end": 33.666666666666664
+    },
+    {
+      "source": 62.18,
+      "start": 33.666666666666664,
+      "text": "밤에 결제할 돈 생각하면",
+      "emphasis": false,
+      "end": 36.53333333333333
+    },
+    {
+      "source": 65.58,
+      "start": 36.53333333333333,
+      "text": "식은땀이 나고 잠이 안 오는 경험",
+      "emphasis": false,
+      "end": 38.333333333333336
+    },
+    {
+      "source": 67.38,
+      "start": 38.333333333333336,
+      "text": "다들 있으시잖아요",
+      "emphasis": false,
+      "end": 39.2
+    },
+    {
+      "source": 68.8,
+      "start": 39.2,
+      "text": "그런 상태에서 매장에 나가면",
+      "emphasis": false,
+      "end": 41.53333333333333
+    },
+    {
+      "source": 76.39,
+      "start": 41.53333333333333,
+      "text": "직원들에게 똑같은 질문",
+      "emphasis": false,
+      "end": 43.0
+    },
+    {
+      "source": 77.85,
+      "start": 43.0,
+      "text": "또 묻는 거예요",
+      "emphasis": false,
+      "end": 43.96666666666667
+    },
+    {
+      "source": 82.39,
+      "start": 43.96666666666667,
+      "text": "체크리스트 했냐?",
+      "emphasis": false,
+      "end": 44.93333333333333
+    },
+    {
+      "source": 84.39,
+      "start": 44.93333333333333,
+      "text": "왜 제대로 안 돼 있어?",
+      "emphasis": false,
+      "end": 46.63333333333333
+    },
+    {
+      "source": 86.37,
+      "start": 46.63333333333333,
+      "text": "오늘 누가 출근이었더라?",
+      "emphasis": false,
+      "end": 48.0
+    },
+    {
+      "source": 91.97,
+      "start": 48.0,
+      "text": "스케줄도 일일이 물어보고",
+      "emphasis": false,
+      "end": 49.2
+    },
+    {
+      "source": 93.45,
+      "start": 49.2,
+      "text": "하루 종일 카톡하고",
+      "emphasis": false,
+      "end": 50.666666666666664
+    },
+    {
+      "source": 94.89,
+      "start": 50.666666666666664,
+      "text": "저는 불안하니까 더 예민해지고",
+      "emphasis": false,
+      "end": 52.7
+    },
+    {
+      "source": 97.59,
+      "start": 52.7,
+      "text": "직원들은 점점",
+      "emphasis": false,
+      "end": 53.7
+    },
+    {
+      "source": 99.33,
+      "start": 53.7,
+      "text": "제 눈치를 보기 시작합니다",
+      "emphasis": false,
+      "end": 55.166666666666664
+    },
+    {
+      "source": 103.85,
+      "start": 55.166666666666664,
+      "text": "그때 제가 더 열심히 하는 걸로는",
+      "emphasis": false,
+      "end": 57.0
+    },
+    {
+      "source": 105.71,
+      "start": 57.0,
+      "text": "이 문제 해결이 안 되더라고요",
+      "emphasis": true,
+      "end": 58.766666666666666
+    },
+    {
+      "source": 111.04,
+      "start": 58.766666666666666,
+      "text": "SNS에서 이야기하는 각종 장사 팁도",
+      "emphasis": false,
+      "end": 61.5
+    },
+    {
+      "source": 114.04,
+      "start": 61.5,
+      "text": "그때만 잠깐이지",
+      "emphasis": false,
+      "end": 62.666666666666664
+    },
+    {
+      "source": 116.04,
+      "start": 62.666666666666664,
+      "text": "본질적으로 시스템을",
+      "emphasis": false,
+      "end": 63.733333333333334
+    },
+    {
+      "source": 117.3,
+      "start": 63.733333333333334,
+      "text": "바꾸지는 못해가지고",
+      "emphasis": false,
+      "end": 65.16666666666667
+    },
+    {
+      "source": 119.04,
+      "start": 65.16666666666667,
+      "text": "다시 제자리로 돌아온 경험",
+      "emphasis": false,
+      "end": 66.56666666666666
+    },
+    {
+      "source": 120.84,
+      "start": 66.56666666666666,
+      "text": "저는 계속했거든요",
+      "emphasis": false,
+      "end": 67.93333333333334
+    },
+    {
+      "source": 124.95,
+      "start": 67.93333333333334,
+      "text": "그래서 제가 직접",
+      "emphasis": false,
+      "end": 68.73333333333333
+    },
+    {
+      "source": 126.11,
+      "start": 68.73333333333333,
+      "text": "더크루를 만든 거죠",
+      "emphasis": true,
+      "end": 70.2
+    },
+    {
+      "source": 129.92,
+      "start": 70.2,
+      "text": "지금은 체크리스트에",
+      "emphasis": false,
+      "end": 71.16666666666667
+    },
+    {
+      "source": 130.98,
+      "start": 71.16666666666667,
+      "text": "완료라고 되어 있어도",
+      "emphasis": false,
+      "end": 72.5
+    },
+    {
+      "source": 132.3,
+      "start": 72.5,
+      "text": "실제로 미흡한 게 있으면",
+      "emphasis": false,
+      "end": 74.0
+    },
+    {
+      "source": 135.52,
+      "start": 74.0,
+      "text": "고칠 내용을 코멘트로 남깁니다",
+      "emphasis": false,
+      "end": 76.1
+    },
+    {
+      "source": 140.13,
+      "start": 76.1,
+      "text": "크루들이 같이 확인하고",
+      "emphasis": false,
+      "end": 77.3
+    },
+    {
+      "source": 141.73,
+      "start": 77.3,
+      "text": "하나씩 개선하는 거죠",
+      "emphasis": false,
+      "end": 78.6
+    },
+    {
+      "source": 145.15,
+      "start": 78.6,
+      "text": "일 얘기는 더크루에",
+      "emphasis": false,
+      "end": 79.73333333333333
+    },
+    {
+      "source": 146.99,
+      "start": 79.73333333333333,
+      "text": "기록된 사실을 가지고 하고요",
+      "emphasis": false,
+      "end": 81.5
+    },
+    {
+      "source": 149.07,
+      "start": 81.5,
+      "text": "얼굴 보고 만났을 때는",
+      "emphasis": false,
+      "end": 82.76666666666667
+    },
+    {
+      "source": 150.89,
+      "start": 82.76666666666667,
+      "text": "크루들을 격려하는 일만",
+      "emphasis": false,
+      "end": 84.46666666666667
+    },
+    {
+      "source": 152.61,
+      "start": 84.46666666666667,
+      "text": "하게 되는 거죠",
+      "emphasis": false,
+      "end": 85.36666666666666
+    },
+    {
+      "source": 157.52,
+      "start": 85.36666666666666,
+      "text": "제가 불안할 때마다",
+      "emphasis": false,
+      "end": 86.56666666666666
+    },
+    {
+      "source": 160.74,
+      "start": 86.56666666666666,
+      "text": "잔소리로 나가던 방식을",
+      "emphasis": false,
+      "end": 88.2
+    },
+    {
+      "source": 162.36,
+      "start": 88.2,
+      "text": "지금은 시스템으로 대체한 겁니다",
+      "emphasis": true,
+      "end": 90.23333333333333
+    },
+    {
+      "source": 167.58,
+      "start": 90.23333333333333,
+      "text": "더크루는 아직 완성되지 않았습니다",
+      "emphasis": false,
+      "end": 92.4
+    },
+    {
+      "source": 170.3,
+      "start": 92.4,
+      "text": "다만 천 개 이상의 매장이",
+      "emphasis": false,
+      "end": 93.66666666666667
+    },
+    {
+      "source": 171.62,
+      "start": 93.66666666666667,
+      "text": "함께 만들어가고 있어요",
+      "emphasis": false,
+      "end": 95.1
+    },
+    {
+      "source": 175.6,
+      "start": 95.1,
+      "text": "불편한 점이나 필요한 기능은",
+      "emphasis": false,
+      "end": 96.6
+    },
+    {
+      "source": 177.18,
+      "start": 96.6,
+      "text": "저한테 DM 보내주시면",
+      "emphasis": false,
+      "end": 98.03333333333333
+    },
+    {
+      "source": 178.6,
+      "start": 98.03333333333333,
+      "text": "대한민국 최고의",
+      "emphasis": false,
+      "end": 99.33333333333333
+    },
+    {
+      "source": 180.6,
+      "start": 99.33333333333333,
+      "text": "AI 전문가팀과 협의해서",
+      "emphasis": false,
+      "end": 100.93333333333334
+    },
+    {
+      "source": 182.2,
+      "start": 100.93333333333334,
+      "text": "같이 개발에 바로 착수하죠",
+      "emphasis": false,
+      "end": 103.03333333333333
+    },
+    {
+      "source": 193.36,
+      "start": 103.03333333333333,
+      "text": "그리고 사장님들의 고충을",
+      "emphasis": false,
+      "end": 104.46666666666667
+    },
+    {
+      "source": 194.8,
+      "start": 104.46666666666667,
+      "text": "지금도 계속 받아 고치고 있습니다",
+      "emphasis": false,
+      "end": 106.6
+    },
+    {
+      "source": 200.88,
+      "start": 106.6,
+      "text": "더크루 프로젝트를",
+      "emphasis": false,
+      "end": 107.53333333333333
+    },
+    {
+      "source": 202.64,
+      "start": 107.53333333333333,
+      "text": "함께 만들어가실 사장님들",
+      "emphasis": false,
+      "end": 109.03333333333333
+    },
+    {
+      "source": 204.14,
+      "start": 109.03333333333333,
+      "text": "지금 프로필 링크를 확인해 주세요",
+      "emphasis": true,
+      "end": 111.06666666666666
+    }
+  ],
+  "broll_proposal": [
+    {
+      "source_speech_start": 129.92,
+      "source_speech_end": 143.07,
+      "file": "ScreenRecording_09-19-2026 12-14-42_1.MP4",
+      "note": "체크리스트 완료 및 코멘트 작성 장면, 실제 표시 문구 확인 후 구간 확정"
+    },
+    {
+      "source_speech_start": 178.6,
+      "source_speech_end": 184.78,
+      "file": "_talkv_dJMcbtDblli_wEmEsqdvq05akIWk4b16nK_talkv_high 2.MP4",
+      "note": "개발팀 작업실, 가로 영상 비율 유지"
+    }
+  ],
+  "broll": [
+    {
+      "start": 70.19999999999997,
+      "end": 73.99999999999999,
+      "source_start": 2.0,
+      "file": "/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-19_owner-emotions/01_원본/ScreenRecording_09-19-2026 12-14-42_1.MP4",
+      "scale": 1.04,
+      "y": 0.04
+    },
+    {
+      "start": 73.99999999999999,
+      "end": 78.59999999999998,
+      "source_start": 20.0,
+      "file": "/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-19_owner-emotions/01_원본/ScreenRecording_09-19-2026 12-14-42_1.MP4",
+      "scale": 1.04,
+      "y": 0.04
+    },
+    {
+      "start": 98.03333333333335,
+      "end": 102.91333333333337,
+      "source_start": 6.0,
+      "file": "/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-19_owner-emotions/01_원본/_talkv_dJMcbtDblli_wEmEsqdvq05akIWk4b16nK_talkv_high 2.MP4",
+      "scale": 1.0,
+      "y": 0.16
+    }
+  ],
+  "voice_gain": 0.8671211978817165,
+  "bgm_gain": 0.06267453166862126,
+  "sfx": [
+    {
+      "start": 2.2333333333333334,
+      "path": "/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-19_owner-emotions/02_AI편집/resources/cache/music/094d89a171a8b6394b503fcdbb196205.mp3",
+      "gain": 0.16916881773340534
+    },
+    {
+      "start": 10.066666666666666,
+      "path": "/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-19_owner-emotions/02_AI편집/resources/cache/music/094d89a171a8b6394b503fcdbb196205.mp3",
+      "gain": 0.16916881773340534
+    },
+    {
+      "start": 32.166666666666664,
+      "path": "/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-19_owner-emotions/02_AI편집/resources/cache/music/094d89a171a8b6394b503fcdbb196205.mp3",
+      "gain": 0.16916881773340534
+    },
+    {
+      "start": 57.0,
+      "path": "/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-19_owner-emotions/02_AI편집/resources/cache/music/094d89a171a8b6394b503fcdbb196205.mp3",
+      "gain": 0.16916881773340534
+    },
+    {
+      "start": 68.73333333333333,
+      "path": "/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-19_owner-emotions/02_AI편집/resources/cache/music/094d89a171a8b6394b503fcdbb196205.mp3",
+      "gain": 0.16916881773340534
+    },
+    {
+      "start": 88.2,
+      "path": "/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-19_owner-emotions/02_AI편집/resources/cache/music/094d89a171a8b6394b503fcdbb196205.mp3",
+      "gain": 0.16916881773340534
+    },
+    {
+      "start": 109.03333333333333,
+      "path": "/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-19_owner-emotions/02_AI편집/resources/cache/music/bfa290bd0ef51bcc6a62d8a80e40e5a0.mp3",
+      "gain": 0.11984572415239027
+    },
+    {
+      "start": 70.16666666666664,
+      "path": "/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-19_owner-emotions/02_AI편집/resources/cache/music/33f11a55221681b3fefec3346290169e.mp3",
+      "gain": 0.19535418131049068
+    },
+    {
+      "start": 73.96666666666665,
+      "path": "/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-19_owner-emotions/02_AI편집/resources/cache/music/33f11a55221681b3fefec3346290169e.mp3",
+      "gain": 0.19535418131049068
+    },
+    {
+      "start": 98.00000000000001,
+      "path": "/Users/kim.kkun/Projects/김꾼_영상보관/2026-09-19_owner-emotions/02_AI편집/resources/cache/music/33f11a55221681b3fefec3346290169e.mp3",
+      "gain": 0.19535418131049068
+    }
+  ]
+}

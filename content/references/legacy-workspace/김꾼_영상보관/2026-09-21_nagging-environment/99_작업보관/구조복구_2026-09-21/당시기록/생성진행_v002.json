@@ -1,0 +1,185 @@
+{
+  "initial_images": [
+    {
+      "index": 1,
+      "job_id": "db89a61b-514b-47a7-b317-1cdb2b138b0f"
+    },
+    {
+      "index": 2,
+      "job_id": "c0d94d89-d077-4b63-9aa6-55b6395496f3"
+    },
+    {
+      "index": 3,
+      "job_id": "d8aab5c8-7b85-4931-84f6-f2809d62629f"
+    },
+    {
+      "index": 4,
+      "job_id": "d7f02419-368a-420e-b034-e860be522aad"
+    },
+    {
+      "index": 5,
+      "job_id": "e86281b2-c345-458e-a36f-68e2a68d4d94"
+    }
+  ],
+  "repair_images": [
+    {
+      "index": 1,
+      "job_id": "a52e67e3-ce58-4c93-943a-2e664fed00ea"
+    },
+    {
+      "index": 2,
+      "job_id": "146370d7-5cc9-4e9a-b45e-28de9ee34cb3"
+    },
+    {
+      "index": 4,
+      "job_id": "6a1f53f8-87dc-489a-bdc2-3e39ab774c43"
+    }
+  ],
+  "edit_images": [
+    {
+      "index": 2,
+      "job_id": "82d3aacd-4b8b-4c88-a67f-a260fa2877ad"
+    },
+    {
+      "index": 4,
+      "job_id": "178584cb-390a-4905-b1c0-e9c64de03dd5"
+    }
+  ],
+  "video_jobs": [
+    {
+      "index": 1,
+      "job_id": "2e566440-896e-475c-8ea4-0bd95e47903b"
+    },
+    {
+      "index": 2,
+      "job_id": "0cf1e7e5-36da-4261-8aa9-820221a277d1"
+    },
+    {
+      "index": 3,
+      "job_id": "58f8ae9f-a5ec-4022-a9de-c847d51d852d"
+    },
+    {
+      "index": 4,
+      "job_id": "c109577a-23f4-40a3-a121-e37bd63eb8de"
+    },
+    {
+      "index": 5,
+      "job_id": "75f84dc8-9a8b-4d10-b0fc-f392aade8641"
+    }
+  ],
+  "video_requests": [
+    {
+      "index": 1,
+      "params": {
+        "model": "kling3_0",
+        "mode": "std",
+        "sound": "off",
+        "duration": 5,
+        "aspect_ratio": "9:16",
+        "medias": [
+          {
+            "role": "start_image",
+            "value": "a52e67e3-ce58-4c93-943a-2e664fed00ea"
+          }
+        ],
+        "prompt": "The standing man slowly opens the door further and takes one cautious half-step into the restaurant. Cold mist rolls out past his ankles. Keep the camera at the original height, a subtle forward push following his shoulder. His hand stays physically connected to the handle until he releases it. Natural realistic movement, preserve clothes and identity. One continuous shot, no cut, no speech."
+      }
+    },
+    {
+      "index": 2,
+      "params": {
+        "model": "kling3_0",
+        "mode": "std",
+        "sound": "off",
+        "duration": 5,
+        "aspect_ratio": "9:16",
+        "medias": [
+          {
+            "role": "start_image",
+            "value": "82d3aacd-4b8b-4c88-a67f-a260fa2877ad"
+          }
+        ],
+        "prompt": "One continuous cinematic shot. The man slowly looks across the frozen restaurant, exhales a small visible cloud of breath and shivers once, bringing his shoulders up slightly. A few tiny ice crystals drift down; icicles and furniture remain solid and stable. Slow subtle camera dolly forward, enough parallax to reveal the frozen tables. Keep his exact face glasses clothing and realistic anatomy. No talking, no smiling at camera, no transformation of room."
+      }
+    },
+    {
+      "index": 3,
+      "params": {
+        "model": "kling3_0",
+        "mode": "std",
+        "sound": "off",
+        "duration": 5,
+        "aspect_ratio": "9:16",
+        "medias": [
+          {
+            "role": "start_image",
+            "value": "d8aab5c8-7b85-4931-84f6-f2809d62629f"
+          }
+        ],
+        "prompt": "The man finishes pressing a reminder sheet to the wall, smoothing its upper edge once, then lets his arm drop in tired resignation. Existing papers stay attached, their corners barely flutter from the air conditioner that remains on. Camera slowly tilts upward a few degrees to include the still-operating air conditioner and the cluttered wall. One continuous realistic shot, preserve face hands room. No speech, no magical appearing papers."
+      }
+    },
+    {
+      "index": 4,
+      "params": {
+        "model": "kling3_0",
+        "mode": "std",
+        "sound": "off",
+        "duration": 5,
+        "aspect_ratio": "9:16",
+        "medias": [
+          {
+            "role": "start_image",
+            "value": "178584cb-390a-4905-b1c0-e9c64de03dd5"
+          }
+        ],
+        "prompt": "One continuous shot, locked camera. The man completes ONE small check mark in a square on the paper using his pen, then puts the pen down beside the paper and lifts his gaze slightly as if finished. The blue power light of the air conditioner behind him stays ON and the outlet stays OPEN through the entire shot. Natural restrained physical hand movement, no extra fingers, maintain exact face and glasses. No speaking, no scene cuts."
+      }
+    },
+    {
+      "index": 5,
+      "params": {
+        "model": "kling3_0",
+        "mode": "std",
+        "sound": "off",
+        "duration": 5,
+        "aspect_ratio": "9:16",
+        "medias": [
+          {
+            "role": "start_image",
+            "value": "e86281b2-c345-458e-a36f-68e2a68d4d94"
+          }
+        ],
+        "prompt": "The man presses the remote control power button once, then holds still. The air conditioner's long outlet flap visibly closes slowly from open to completely shut, and the small power light turns off. The woman keeps looking at the air conditioner until the flap is shut, then nods once. Preserve both faces, exact clothing and remote grip. Locked camera, realistic subtle movements, one continuous shot, no talking, no extra hands."
+      }
+    }
+  ],
+  "edit_params": [
+    {
+      "model": "gpt_image_2_5",
+      "quality": "high",
+      "resolution": "2k",
+      "aspect_ratio": "9:16",
+      "medias": [
+        {
+          "role": "image_references",
+          "value": "e86281b2-c345-458e-a36f-68e2a68d4d94"
+        }
+      ],
+      "prompt": "Preserve the reference man's exact face glasses and ivory shirt black apron. Single cinematic photograph: he stands on right third, head to knees, stunned looking left over an entire small restaurant covered in thick frost and icicles. Oak walls charcoal tables black chairs; one normal modern white wall air conditioner. Cold blue light from windows, subtle warm hanging practical lamps, floating low mist. Full-frame single composition, no panels, no collage. No lettering. Premium film still."
+    },
+    {
+      "model": "gpt_image_2_5",
+      "quality": "high",
+      "resolution": "2k",
+      "aspect_ratio": "9:16",
+      "medias": [
+        {
+          "role": "image_references",
+          "value": "6a1f53f8-87dc-489a-bdc2-3e39ab774c43"
+        }
+      ],
+      "prompt": "Edit this photograph preserving exactly the man, face, hands, glasses, shirt, apron, paper, camera angle, room. Replace the large outdoor condenser fan on the indoor wall with a realistic smooth white rectangular wall-mounted indoor split air conditioner with narrow horizontal outlet louvers OPEN and a single small blue power indicator. There must be NO big circular fan visible. Remove all nonsense lettering and logos. On the checklist use simple grid lines and empty square checkboxes. Warm cinematic closing-time lighting. Single continuous photograph."
+    }
+  ]
+}

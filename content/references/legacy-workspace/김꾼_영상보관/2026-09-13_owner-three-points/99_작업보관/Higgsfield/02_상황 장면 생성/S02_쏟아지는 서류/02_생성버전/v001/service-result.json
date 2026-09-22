@@ -1,0 +1,23 @@
+{
+  "id": "5da5c839-074c-4a2d-b60a-746bd2403b87",
+  "type": "image",
+  "status": "completed",
+  "model": "gpt_image_2_5",
+  "params": {
+    "prompt": "Create a single cinematic photorealistic surreal visual metaphor still for a Korean restaurant-owner talking-head reel. Vertical 9:16. Tactile practical miniature-set realism, restrained warm amber restaurant lighting, charcoal and muted olive palette, strong readable silhouette, realistic materials, no cartoon, no captions, no typography, no watermark, no collage. Frame the full key action with margins; leave lower 20 percent visually quiet for later subtitles. It must read in one second on a phone. A fictional Korean male restaurant owner in his thirties, short black hair, dark shirt and dark olive apron sits behind a small wooden desk in a dim closed neighborhood restaurant. A thick waterfall of loose blank off-white order papers is frozen falling from above into a huge mound covering the desktop, almost reaching his chest. His face remains clearly visible above the mound, exhausted disbelief, one hand has just moved a single paper aside. Dynamic paper edges with slight motion blur, crisp face, believable gravity. Medium-wide three-quarter view, one main column of falling paper, not confetti, no legible writing. Warm practical lamp and soft cool shadows, uncluttered background.",
+    "aspect_ratio": "9:16",
+    "medias": [],
+    "width": 1520,
+    "height": 2688,
+    "quality": "medium",
+    "resolution": "2k",
+    "model": "flare",
+    "remove_bg": false,
+    "reference_elements": []
+  },
+  "results": {
+    "rawUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_102522_5da5c839-074c-4a2d-b60a-746bd2403b87.png",
+    "minUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_102522_5da5c839-074c-4a2d-b60a-746bd2403b87_min.webp"
+  },
+  "createdAt": 1789986322.335625
+}

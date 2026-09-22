@@ -1,0 +1,3 @@
+ObjC.import('Cocoa');ObjC.import('CoreGraphics');
+function click(x,y){for(let t of [1,2])$.CGEventPost(0,$.CGEventCreateMouseEvent(null,t,$.CGPointMake(x,y),0));}
+function run(args){Application('CapCut').activate();let p=Application('System Events').processes.byName('CapCut'),w=p.windows.byName('CapCut'),xy=w.position(),z=w.size();if(args[0]==='export')click(xy[0]+z[0]-48,xy[1]+18);else if(args[0]==='click')click(Number(args[1]),Number(args[2]));else if(args[0]==='windows')return JSON.stringify(ObjC.deepUnwrap(ObjC.castRefToObject($.CGWindowListCopyWindowInfo(1,0))).filter(w=>w.kCGWindowOwnerName==='CapCut'));}

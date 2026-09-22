@@ -1,0 +1,606 @@
+{
+  "schema_version": 1,
+  "account": {
+    "id": "28597198696640217",
+    "username": "kim.kkun",
+    "account_type": "BUSINESS"
+  },
+  "api_version": "v26.0",
+  "collected_at": "2026-09-21T16:30:08.023Z",
+  "media": [
+    {
+      "id": "18071366042439802",
+      "caption": "시스템 없는 가게에서 제일 먼저 나가는 사람은 \n제일 잘하는 직원입니다. \n\n빠진 일은 항상 제일 잘하는 사람한테 흐르고, \n시급은 같으니까요. \n\n”믿고 맡긴다“ → \n”너가 잘하니까“ → \n”너 혼자 다 해“. \n\n이 번역이 끝나면 \n”다음 달까지만 할게요“가 옵니다. \n\n시스템 = 누가·언제·뭘이 사람 머리 밖에 남는 것. \n그게 더 크루가 하는 일입니다. \n\n베타 100팀 순서대로 초대 드릴겁니다 \n\n댓글에 그 직원이 혼자 메우는 일 하나만. \n적어주세요\n\n#자영업 #직원관리 #알바 #더크루 #김꾼",
+      "media_type": "VIDEO",
+      "media_product_type": "REELS",
+      "permalink": "https://www.instagram.com/reel/DcVFme1yBlD/",
+      "timestamp": "2026-08-22T05:06:10+0000",
+      "age_hours": 731.3994508333334,
+      "milestone": "other",
+      "content_id": null,
+      "metrics": {
+        "views": {
+          "value": 536558,
+          "status": "ok",
+          "raw": {
+            "data": [
+              {
+                "name": "views",
+                "period": "lifetime",
+                "values": [
+                  {
+                    "value": 536558
+                  }
+                ],
+                "title": "조회",
+                "description": "릴스가 재생되거나 표시된 횟수입니다.",
+                "id": "18071366042439802/insights/views/lifetime"
+              }
+            ]
+          }
+        },
+        "reach": {
+          "value": 476981,
+          "status": "ok",
+          "raw": {
+            "data": [
+              {
+                "name": "reach",
+                "period": "lifetime",
+                "values": [
+                  {
+                    "value": 476981
+                  }
+                ],
+                "title": "도달한 계정",
+                "description": "이 릴스를 한 번 이상 본 고유 계정 수. 도달은 같은 계정에서 릴스를 여러 번 본 횟수까지 집계하는 노출과는 다른 개념입니다. 이 지표는 추산치입니다.",
+                "id": "18071366042439802/insights/reach/lifetime"
+              }
+            ]
+          }
+        },
+        "likes": {
+          "value": 10063,
+          "status": "ok",
+          "raw": {
+            "data": [
+              {
+                "name": "likes",
+                "period": "lifetime",
+                "values": [
+                  {
+                    "value": 10063
+                  }
+                ],
+                "title": "좋아요",
+                "description": "릴스의 좋아요 수.",
+                "id": "18071366042439802/insights/likes/lifetime"
+              }
+            ]
+          }
+        },
+        "comments": {
+          "value": 223,
+          "status": "ok",
+          "raw": {
+            "data": [
+              {
+                "name": "comments",
+                "period": "lifetime",
+                "values": [
+                  {
+                    "value": 223
+                  }
+                ],
+                "title": "댓글",
+                "description": "릴스의 댓글 수.",
+                "id": "18071366042439802/insights/comments/lifetime"
+              }
+            ]
+          }
+        },
+        "saved": {
+          "value": 2385,
+          "status": "ok",
+          "raw": {
+            "data": [
+              {
+                "name": "saved",
+                "period": "lifetime",
+                "values": [
+                  {
+                    "value": 2385
+                  }
+                ],
+                "title": "저장됨",
+                "description": "릴스 저장 횟수.",
+                "id": "18071366042439802/insights/saved/lifetime"
+              }
+            ]
+          }
+        },
+        "shares": {
+          "value": 4729,
+          "status": "ok",
+          "raw": {
+            "data": [
+              {
+                "name": "shares",
+                "period": "lifetime",
+                "values": [
+                  {
+                    "value": 4729
+                  }
+                ],
+                "title": "공유",
+                "description": "릴스가 공유된 횟수.",
+                "id": "18071366042439802/insights/shares/lifetime"
+              }
+            ]
+          }
+        },
+        "follows": {
+          "value": null,
+          "status": "unsupported",
+          "raw": null
+        },
+        "ig_reels_avg_watch_time": {
+          "value": 35853,
+          "status": "ok",
+          "raw": {
+            "data": [
+              {
+                "name": "ig_reels_avg_watch_time",
+                "period": "lifetime",
+                "values": [
+                  {
+                    "value": 35853
+                  }
+                ],
+                "title": "릴스 평균 시청 시간(밀리초)",
+                "description": "릴스 평균 시청 시간에 대한 정의가 제시된 본문입니다",
+                "id": "18071366042439802/insights/ig_reels_avg_watch_time/lifetime"
+              }
+            ]
+          }
+        },
+        "ig_reels_video_view_total_time": {
+          "value": 16803307106,
+          "status": "ok",
+          "raw": {
+            "data": [
+              {
+                "name": "ig_reels_video_view_total_time",
+                "period": "lifetime",
+                "values": [
+                  {
+                    "value": 16803307106
+                  }
+                ],
+                "title": "동영상 조회 총 시간(밀리초)",
+                "description": "릴스 동영상 조회 시청 시간에 대한 정의가 제시된 본문입니다",
+                "id": "18071366042439802/insights/ig_reels_video_view_total_time/lifetime"
+              }
+            ]
+          }
+        },
+        "reels_skip_rate": {
+          "value": 27.9,
+          "status": "ok",
+          "raw": {
+            "data": [
+              {
+                "name": "reels_skip_rate",
+                "period": "lifetime",
+                "values": [
+                  {
+                    "value": 27.9
+                  }
+                ],
+                "title": "건너뛰기 비율",
+                "description": "릴스의 첫 3초 안에 건너뛴 사람들의 조회율. 이 지표는 첫 3초 동안 릴스를 건너뛴 조회수를 최초 조회수로 나누어 계산됩니다. 최초 조회는 릴스가 릴스 세션에서 처음으로 재생되는 경우를 말합니다.",
+                "id": "18071366042439802/insights/reels_skip_rate/lifetime"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "18084760001281344",
+      "caption": "출첵 했냐? 체크리스트 했어? 카톡 봤어?\n물어볼 시스템이 없으니까 사람한테 매일 묻는 거예요. \n\n앱을 혼자 만들다 소꿉놀이 장난 말고\n진짜 장사하면서 필요한거 만들고 싶은\n욕심이 생겼습니다\n\n릴스 한 편에서 만난 전문가 팀에\n소스 코드 전부 넘겼습니다. (그래야 진짜를 만달 수있으니까)\n\n출퇴근 도장 → 급여 / \n이름 남는 체크리스트 / \n공지 버튼 하나. \n세 개부터 나옵니다. \n\n베타 100팀, 순서대로 초대. \n댓글에 ”더크루한테 기대하는 것“ \n한 줄만 남겨주세요 — 그게 다음 기능이 됩니다. \n\n#자영업 #사장님 #직원관리 #더크루 #김꾼",
+      "media_type": "VIDEO",
+      "media_product_type": "REELS",
+      "permalink": "https://www.instagram.com/reel/DcKOtJwyyQN/",
+      "timestamp": "2026-08-17T23:39:10+0000",
+      "age_hours": 832.8494508333333,
+      "milestone": "other",
+      "content_id": null,
+      "metrics": {
+        "views": {
+          "value": 30302,
+          "status": "ok",
+          "raw": {
+            "data": [
+              {
+                "name": "views",
+                "period": "lifetime",
+                "values": [
+                  {
+                    "value": 30302
+                  }
+                ],
+                "title": "조회",
+                "description": "릴스가 재생되거나 표시된 횟수입니다.",
+                "id": "18084760001281344/insights/views/lifetime"
+              }
+            ]
+          }
+        },
+        "reach": {
+          "value": 24024,
+          "status": "ok",
+          "raw": {
+            "data": [
+              {
+                "name": "reach",
+                "period": "lifetime",
+                "values": [
+                  {
+                    "value": 24024
+                  }
+                ],
+                "title": "도달한 계정",
+                "description": "이 릴스를 한 번 이상 본 고유 계정 수. 도달은 같은 계정에서 릴스를 여러 번 본 횟수까지 집계하는 노출과는 다른 개념입니다. 이 지표는 추산치입니다.",
+                "id": "18084760001281344/insights/reach/lifetime"
+              }
+            ]
+          }
+        },
+        "likes": {
+          "value": 351,
+          "status": "ok",
+          "raw": {
+            "data": [
+              {
+                "name": "likes",
+                "period": "lifetime",
+                "values": [
+                  {
+                    "value": 351
+                  }
+                ],
+                "title": "좋아요",
+                "description": "릴스의 좋아요 수.",
+                "id": "18084760001281344/insights/likes/lifetime"
+              }
+            ]
+          }
+        },
+        "comments": {
+          "value": 346,
+          "status": "ok",
+          "raw": {
+            "data": [
+              {
+                "name": "comments",
+                "period": "lifetime",
+                "values": [
+                  {
+                    "value": 346
+                  }
+                ],
+                "title": "댓글",
+                "description": "릴스의 댓글 수.",
+                "id": "18084760001281344/insights/comments/lifetime"
+              }
+            ]
+          }
+        },
+        "saved": {
+          "value": 286,
+          "status": "ok",
+          "raw": {
+            "data": [
+              {
+                "name": "saved",
+                "period": "lifetime",
+                "values": [
+                  {
+                    "value": 286
+                  }
+                ],
+                "title": "저장됨",
+                "description": "릴스 저장 횟수.",
+                "id": "18084760001281344/insights/saved/lifetime"
+              }
+            ]
+          }
+        },
+        "shares": {
+          "value": 141,
+          "status": "ok",
+          "raw": {
+            "data": [
+              {
+                "name": "shares",
+                "period": "lifetime",
+                "values": [
+                  {
+                    "value": 141
+                  }
+                ],
+                "title": "공유",
+                "description": "릴스가 공유된 횟수.",
+                "id": "18084760001281344/insights/shares/lifetime"
+              }
+            ]
+          }
+        },
+        "follows": {
+          "value": null,
+          "status": "unsupported",
+          "raw": null
+        },
+        "ig_reels_avg_watch_time": {
+          "value": 26526,
+          "status": "ok",
+          "raw": {
+            "data": [
+              {
+                "name": "ig_reels_avg_watch_time",
+                "period": "lifetime",
+                "values": [
+                  {
+                    "value": 26526
+                  }
+                ],
+                "title": "릴스 평균 시청 시간(밀리초)",
+                "description": "릴스 평균 시청 시간에 대한 정의가 제시된 본문입니다",
+                "id": "18084760001281344/insights/ig_reels_avg_watch_time/lifetime"
+              }
+            ]
+          }
+        },
+        "ig_reels_video_view_total_time": {
+          "value": 634812123,
+          "status": "ok",
+          "raw": {
+            "data": [
+              {
+                "name": "ig_reels_video_view_total_time",
+                "period": "lifetime",
+                "values": [
+                  {
+                    "value": 634812123
+                  }
+                ],
+                "title": "동영상 조회 총 시간(밀리초)",
+                "description": "릴스 동영상 조회 시청 시간에 대한 정의가 제시된 본문입니다",
+                "id": "18084760001281344/insights/ig_reels_video_view_total_time/lifetime"
+              }
+            ]
+          }
+        },
+        "reels_skip_rate": {
+          "value": 39.3,
+          "status": "ok",
+          "raw": {
+            "data": [
+              {
+                "name": "reels_skip_rate",
+                "period": "lifetime",
+                "values": [
+                  {
+                    "value": 39.3
+                  }
+                ],
+                "title": "건너뛰기 비율",
+                "description": "릴스의 첫 3초 안에 건너뛴 사람들의 조회율. 이 지표는 첫 3초 동안 릴스를 건너뛴 조회수를 최초 조회수로 나누어 계산됩니다. 최초 조회는 릴스가 릴스 세션에서 처음으로 재생되는 경우를 말합니다.",
+                "id": "18084760001281344/insights/reels_skip_rate/lifetime"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "18099668519341277",
+      "caption": "아무도 안 보는 더러운 화이트보드, \n사장님 매장에도 하나 있죠?\n컵 위치 하나만 바꿔도 전달할 게 생기는 게 \n자영업인데, \n열 명한테 쫓아다니며 \n말할 순 없으니까요.\n\n그래서 사소한 건 건너뛰게 되고, \n매장은 그 사소한 것부터 망가집니다.\n저는 화이트보드 대신 버튼을 만들었어요.\n #출근 전 공지 팝업, 사진 첨부, \n확인 버튼. “못 들었는데요”가 \n구조적으로 안 되는 매장.\n\n#자영업 #사장님 #매장운영 #알바관리 직원관리",
+      "media_type": "VIDEO",
+      "media_product_type": "REELS",
+      "permalink": "https://www.instagram.com/reel/Db_6vXxSWo6/",
+      "timestamp": "2026-08-13T23:30:38+0000",
+      "age_hours": 928.9916730555556,
+      "milestone": "other",
+      "content_id": null,
+      "metrics": {
+        "views": {
+          "value": 22671,
+          "status": "ok",
+          "raw": {
+            "data": [
+              {
+                "name": "views",
+                "period": "lifetime",
+                "values": [
+                  {
+                    "value": 22671
+                  }
+                ],
+                "title": "조회",
+                "description": "릴스가 재생되거나 표시된 횟수입니다.",
+                "id": "18099668519341277/insights/views/lifetime"
+              }
+            ]
+          }
+        },
+        "reach": {
+          "value": 16697,
+          "status": "ok",
+          "raw": {
+            "data": [
+              {
+                "name": "reach",
+                "period": "lifetime",
+                "values": [
+                  {
+                    "value": 16697
+                  }
+                ],
+                "title": "도달한 계정",
+                "description": "이 릴스를 한 번 이상 본 고유 계정 수. 도달은 같은 계정에서 릴스를 여러 번 본 횟수까지 집계하는 노출과는 다른 개념입니다. 이 지표는 추산치입니다.",
+                "id": "18099668519341277/insights/reach/lifetime"
+              }
+            ]
+          }
+        },
+        "likes": {
+          "value": 195,
+          "status": "ok",
+          "raw": {
+            "data": [
+              {
+                "name": "likes",
+                "period": "lifetime",
+                "values": [
+                  {
+                    "value": 195
+                  }
+                ],
+                "title": "좋아요",
+                "description": "릴스의 좋아요 수.",
+                "id": "18099668519341277/insights/likes/lifetime"
+              }
+            ]
+          }
+        },
+        "comments": {
+          "value": 46,
+          "status": "ok",
+          "raw": {
+            "data": [
+              {
+                "name": "comments",
+                "period": "lifetime",
+                "values": [
+                  {
+                    "value": 46
+                  }
+                ],
+                "title": "댓글",
+                "description": "릴스의 댓글 수.",
+                "id": "18099668519341277/insights/comments/lifetime"
+              }
+            ]
+          }
+        },
+        "saved": {
+          "value": 123,
+          "status": "ok",
+          "raw": {
+            "data": [
+              {
+                "name": "saved",
+                "period": "lifetime",
+                "values": [
+                  {
+                    "value": 123
+                  }
+                ],
+                "title": "저장됨",
+                "description": "릴스 저장 횟수.",
+                "id": "18099668519341277/insights/saved/lifetime"
+              }
+            ]
+          }
+        },
+        "shares": {
+          "value": 63,
+          "status": "ok",
+          "raw": {
+            "data": [
+              {
+                "name": "shares",
+                "period": "lifetime",
+                "values": [
+                  {
+                    "value": 63
+                  }
+                ],
+                "title": "공유",
+                "description": "릴스가 공유된 횟수.",
+                "id": "18099668519341277/insights/shares/lifetime"
+              }
+            ]
+          }
+        },
+        "follows": {
+          "value": null,
+          "status": "unsupported",
+          "raw": null
+        },
+        "ig_reels_avg_watch_time": {
+          "value": 20749,
+          "status": "ok",
+          "raw": {
+            "data": [
+              {
+                "name": "ig_reels_avg_watch_time",
+                "period": "lifetime",
+                "values": [
+                  {
+                    "value": 20749
+                  }
+                ],
+                "title": "릴스 평균 시청 시간(밀리초)",
+                "description": "릴스 평균 시청 시간에 대한 정의가 제시된 본문입니다",
+                "id": "18099668519341277/insights/ig_reels_avg_watch_time/lifetime"
+              }
+            ]
+          }
+        },
+        "ig_reels_video_view_total_time": {
+          "value": 360929549,
+          "status": "ok",
+          "raw": {
+            "data": [
+              {
+                "name": "ig_reels_video_view_total_time",
+                "period": "lifetime",
+                "values": [
+                  {
+                    "value": 360929549
+                  }
+                ],
+                "title": "동영상 조회 총 시간(밀리초)",
+                "description": "릴스 동영상 조회 시청 시간에 대한 정의가 제시된 본문입니다",
+                "id": "18099668519341277/insights/ig_reels_video_view_total_time/lifetime"
+              }
+            ]
+          }
+        },
+        "reels_skip_rate": {
+          "value": 36.7,
+          "status": "ok",
+          "raw": {
+            "data": [
+              {
+                "name": "reels_skip_rate",
+                "period": "lifetime",
+                "values": [
+                  {
+                    "value": 36.7
+                  }
+                ],
+                "title": "건너뛰기 비율",
+                "description": "릴스의 첫 3초 안에 건너뛴 사람들의 조회율. 이 지표는 첫 3초 동안 릴스를 건너뛴 조회수를 최초 조회수로 나누어 계산됩니다. 최초 조회는 릴스가 릴스 세션에서 처음으로 재생되는 경우를 말합니다.",
+                "id": "18099668519341277/insights/reels_skip_rate/lifetime"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

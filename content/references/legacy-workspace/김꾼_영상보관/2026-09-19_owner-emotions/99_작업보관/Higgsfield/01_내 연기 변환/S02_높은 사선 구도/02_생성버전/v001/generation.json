@@ -1,0 +1,41 @@
+{
+  "params": {
+    "model": "seedance_2_5",
+    "mode": "video_edit",
+    "resolution": "720p",
+    "generate_audio": false,
+    "duration": 4,
+    "medias": [
+      {
+        "role": "video_references",
+        "value": "b3d60ed5-7d36-4ce0-9e48-ba324b0682cf"
+      }
+    ],
+    "prompt": "Re-render this same talking-head performance from a different camera position: camera elevated 25 degrees above eye level and moved 30 degrees to the subject's left, looking diagonally down toward the seated man and table. This is a genuine three-dimensional viewpoint change, not a crop or zoom. Hold the new camera viewpoint steady for the entire clip. Preserve the exact same man, facial identity, black glasses, white textured shirt, handheld furry microphone, gestures and original mouth-motion timing. Keep the same room, lighting, table and objects, reconstructing only newly visible surfaces naturally. Moderate medium shot showing head, torso and table. Natural photoreal live-action. No added people, no text, no cuts.",
+    "declined_preset_id": "5b3c1307-bee6-46e1-bdee-fba2db843d00"
+  },
+  "job": {
+    "index": 2,
+    "job_id": "8b337d8b-fb34-4f69-8832-b2aab1d786d9"
+  },
+  "source": {
+    "media_id": "b3d60ed5-7d36-4ce0-9e48-ba324b0682cf",
+    "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/b3d60ed5-7d36-4ce0-9e48-ba324b0682cf.mp4"
+  },
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_105818_8b337d8b-fb34-4f69-8832-b2aab1d786d9.mp4",
+  "outputs": [
+    {
+      "media_id": "836462c8-8894-429d-8bec-2671e090b9dd",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/836462c8-8894-429d-8bec-2671e090b9dd.mp4"
+    },
+    {
+      "media_id": "bdc73e6b-2237-4aca-96c7-de6e593a7057",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/bdc73e6b-2237-4aca-96c7-de6e593a7057.mp4"
+    },
+    {
+      "media_id": "54fa6a78-b7f0-4767-bbc0-c93636804442",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/54fa6a78-b7f0-4767-bbc0-c93636804442.jpg"
+    }
+  ]
+}

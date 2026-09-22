@@ -1,0 +1,310 @@
+{
+  "source": "/Users/kim.kkun/Movies/CapCut/User Data/Projects/com.lveditor.draft/0911/Resources/copy_9B0EF888-D596-4CC0-92D7-00D702EB125D.MOV",
+  "asr_to_source_offset": 0.6950113378684807,
+  "duration_before": 105.633333,
+  "duration": 90.8,
+  "clips": 42,
+  "keeps": [
+    {
+      "source_start": 1.3666666666666667,
+      "source_end": 4.333333333333333,
+      "target_start": 0.0,
+      "duration": 2.966666666666667,
+      "parent_segment": "D22DA1B1-E090-4538-A379-4BA440CBAB66"
+    },
+    {
+      "source_start": 5.0,
+      "source_end": 6.933333333333334,
+      "target_start": 2.966666666666667,
+      "duration": 1.9333333333333333,
+      "parent_segment": "5EE5EED5-5AAC-42E1-B0EA-362BC62164EC"
+    },
+    {
+      "source_start": 10.333333333333334,
+      "source_end": 13.266666666666667,
+      "target_start": 4.9,
+      "duration": 2.933333333333333,
+      "parent_segment": "779A5168-391F-4031-8F82-A1148FD4A6E8"
+    },
+    {
+      "source_start": 16.233333333333334,
+      "source_end": 17.266666666666666,
+      "target_start": 7.833333333333333,
+      "duration": 1.0333333333333334,
+      "parent_segment": "5046CC19-B169-4902-8C18-70CDF32C6044"
+    },
+    {
+      "source_start": 23.4,
+      "source_end": 26.066666666666666,
+      "target_start": 8.866666666666667,
+      "duration": 2.6666666666666665,
+      "parent_segment": "00A1252D-500C-469B-8200-E73D09C390B8"
+    },
+    {
+      "source_start": 26.533333333333335,
+      "source_end": 28.7,
+      "target_start": 11.533333333333333,
+      "duration": 2.1666666666666665,
+      "parent_segment": "00A1252D-500C-469B-8200-E73D09C390B8"
+    },
+    {
+      "source_start": 29.8,
+      "source_end": 32.03333333333333,
+      "target_start": 13.7,
+      "duration": 2.2333333333333334,
+      "parent_segment": "544D01C2-A9F6-4E89-8ACB-0952CADBD536"
+    },
+    {
+      "source_start": 33.36666666666667,
+      "source_end": 34.63333333333333,
+      "target_start": 15.933333333333334,
+      "duration": 1.2666666666666666,
+      "parent_segment": "FE99E224-8EC3-4143-B678-EA87FF695591"
+    },
+    {
+      "source_start": 35.03333333333333,
+      "source_end": 36.6,
+      "target_start": 17.2,
+      "duration": 1.5666666666666667,
+      "parent_segment": "FE99E224-8EC3-4143-B678-EA87FF695591"
+    },
+    {
+      "source_start": 41.5,
+      "source_end": 43.7,
+      "target_start": 18.766666666666666,
+      "duration": 2.2,
+      "parent_segment": "7DF9369D-8CBA-4C57-9E7B-26B998F24095"
+    },
+    {
+      "source_start": 44.7,
+      "source_end": 47.5,
+      "target_start": 20.966666666666665,
+      "duration": 2.8,
+      "parent_segment": "AB7E9284-688B-410F-812A-61597090F3EB"
+    },
+    {
+      "source_start": 48.833333333333336,
+      "source_end": 51.06666666666667,
+      "target_start": 23.766666666666666,
+      "duration": 2.2333333333333334,
+      "parent_segment": "9A6B76E2-D1F9-49D7-860F-BD302821129D"
+    },
+    {
+      "source_start": 51.733333333333334,
+      "source_end": 52.7,
+      "target_start": 26.0,
+      "duration": 0.9666666666666667,
+      "parent_segment": "18BDF123-7549-4670-8BE2-BA5307AB8B8A"
+    },
+    {
+      "source_start": 58.06666666666667,
+      "source_end": 61.233333333333334,
+      "target_start": 26.966666666666665,
+      "duration": 3.1666666666666665,
+      "parent_segment": "BE566157-4400-4F39-A108-0AB5C812AFB7"
+    },
+    {
+      "source_start": 61.43333333333333,
+      "source_end": 63.8,
+      "target_start": 30.133333333333333,
+      "duration": 2.3666666666666667,
+      "parent_segment": "BE566157-4400-4F39-A108-0AB5C812AFB7"
+    },
+    {
+      "source_start": 66.56666666666666,
+      "source_end": 69.83333333333333,
+      "target_start": 32.5,
+      "duration": 3.2666666666666666,
+      "parent_segment": "35A81013-9AD5-4C56-BDF1-77490F24BB51"
+    },
+    {
+      "source_start": 73.8,
+      "source_end": 76.63333333333334,
+      "target_start": 35.766666666666666,
+      "duration": 2.8333333333333335,
+      "parent_segment": "0122CFB1-FCA5-457D-B52A-334035D28D70"
+    },
+    {
+      "source_start": 77.8,
+      "source_end": 79.63333333333334,
+      "target_start": 38.6,
+      "duration": 1.8333333333333333,
+      "parent_segment": "8212F960-4856-4045-8B78-6F69867B7C2D"
+    },
+    {
+      "source_start": 84.1,
+      "source_end": 87.0,
+      "target_start": 40.43333333333333,
+      "duration": 2.9,
+      "parent_segment": "1D3E156E-1B5E-4B6A-AF2A-087458494E06"
+    },
+    {
+      "source_start": 88.1,
+      "source_end": 90.23333333333333,
+      "target_start": 43.333333333333336,
+      "duration": 2.1333333333333333,
+      "parent_segment": "B0CCF4DC-32AF-4187-9832-EE4694BAB7B8"
+    },
+    {
+      "source_start": 91.23333333333333,
+      "source_end": 93.23333333333333,
+      "target_start": 45.46666666666667,
+      "duration": 2.0,
+      "parent_segment": "5A6B02A3-D76D-4FE2-878B-F8D96FBA5246"
+    },
+    {
+      "source_start": 97.73333333333333,
+      "source_end": 100.3,
+      "target_start": 47.46666666666667,
+      "duration": 2.566666666666667,
+      "parent_segment": "843CA520-B367-4010-9F1C-21EAE5A3D5F1"
+    },
+    {
+      "source_start": 100.93333333333334,
+      "source_end": 102.4,
+      "target_start": 50.03333333333333,
+      "duration": 1.4666666666666666,
+      "parent_segment": "244C6A75-44D6-4EAC-A99E-D745DA93816B"
+    },
+    {
+      "source_start": 102.73333333333333,
+      "source_end": 104.0,
+      "target_start": 51.5,
+      "duration": 1.2666666666666666,
+      "parent_segment": "244C6A75-44D6-4EAC-A99E-D745DA93816B"
+    },
+    {
+      "source_start": 104.23333333333333,
+      "source_end": 105.6,
+      "target_start": 52.766666666666666,
+      "duration": 1.3666666666666667,
+      "parent_segment": "244C6A75-44D6-4EAC-A99E-D745DA93816B"
+    },
+    {
+      "source_start": 105.93333333333334,
+      "source_end": 106.4,
+      "target_start": 54.13333333333333,
+      "duration": 0.4666666666666667,
+      "parent_segment": "244C6A75-44D6-4EAC-A99E-D745DA93816B"
+    },
+    {
+      "source_start": 110.86666666666666,
+      "source_end": 113.8,
+      "target_start": 54.6,
+      "duration": 2.933333333333333,
+      "parent_segment": "2263F727-1CF2-483F-870C-292C2990B88E"
+    },
+    {
+      "source_start": 114.03333333333333,
+      "source_end": 116.73333333333333,
+      "target_start": 57.53333333333333,
+      "duration": 2.7,
+      "parent_segment": "2263F727-1CF2-483F-870C-292C2990B88E"
+    },
+    {
+      "source_start": 117.26666666666667,
+      "source_end": 118.46666666666667,
+      "target_start": 60.233333333333334,
+      "duration": 1.2,
+      "parent_segment": "B554EC7B-B36B-4B40-B9C1-0E09A74F005B"
+    },
+    {
+      "source_start": 119.46666666666667,
+      "source_end": 121.56666666666666,
+      "target_start": 61.43333333333333,
+      "duration": 2.1,
+      "parent_segment": "F21EE823-82D3-4DFB-B02C-1697CD912E1A"
+    },
+    {
+      "source_start": 125.23333333333333,
+      "source_end": 127.83333333333333,
+      "target_start": 63.53333333333333,
+      "duration": 2.6,
+      "parent_segment": "18B38866-A3BD-4CB5-B11A-DB5BC6400464"
+    },
+    {
+      "source_start": 131.43333333333334,
+      "source_end": 133.66666666666666,
+      "target_start": 66.13333333333334,
+      "duration": 2.2333333333333334,
+      "parent_segment": "54FE015C-264D-4B74-A8B8-81E4FA94CDD7"
+    },
+    {
+      "source_start": 133.83333333333334,
+      "source_end": 135.86666666666667,
+      "target_start": 68.36666666666666,
+      "duration": 2.033333333333333,
+      "parent_segment": "54FE015C-264D-4B74-A8B8-81E4FA94CDD7"
+    },
+    {
+      "source_start": 139.63333333333333,
+      "source_end": 141.83333333333334,
+      "target_start": 70.4,
+      "duration": 2.2,
+      "parent_segment": "8CE271FA-8F82-4FCC-9850-45ED090F6399"
+    },
+    {
+      "source_start": 144.26666666666668,
+      "source_end": 146.83333333333334,
+      "target_start": 72.6,
+      "duration": 2.566666666666667,
+      "parent_segment": "C1595703-8580-4E5B-8D72-9D5BBE504509"
+    },
+    {
+      "source_start": 150.7,
+      "source_end": 153.16666666666666,
+      "target_start": 75.16666666666667,
+      "duration": 2.466666666666667,
+      "parent_segment": "EF1FB8EC-3D3F-428F-87F8-38397E04A8DC"
+    },
+    {
+      "source_start": 153.8,
+      "source_end": 155.66666666666666,
+      "target_start": 77.63333333333334,
+      "duration": 1.8666666666666667,
+      "parent_segment": "5E1B5457-368A-4E34-BF0C-4E2402BAAA14"
+    },
+    {
+      "source_start": 158.46666666666667,
+      "source_end": 159.86666666666667,
+      "target_start": 79.5,
+      "duration": 1.4,
+      "parent_segment": "A0B920DA-E98C-4A8A-B0BE-C7EED9B16187"
+    },
+    {
+      "source_start": 160.33333333333334,
+      "source_end": 162.26666666666668,
+      "target_start": 80.9,
+      "duration": 1.9333333333333333,
+      "parent_segment": "A0B920DA-E98C-4A8A-B0BE-C7EED9B16187"
+    },
+    {
+      "source_start": 165.56666666666666,
+      "source_end": 168.63333333333333,
+      "target_start": 82.83333333333333,
+      "duration": 3.066666666666667,
+      "parent_segment": "8E075AA4-00FB-411F-98A3-DF148CE05CFC"
+    },
+    {
+      "source_start": 172.33333333333334,
+      "source_end": 175.5,
+      "target_start": 85.9,
+      "duration": 3.1666666666666665,
+      "parent_segment": "A604901C-41C3-4EA9-8E3E-327454B93619"
+    },
+    {
+      "source_start": 175.7,
+      "source_end": 177.43333333333334,
+      "target_start": 89.06666666666666,
+      "duration": 1.7333333333333334,
+      "parent_segment": "A604901C-41C3-4EA9-8E3E-327454B93619"
+    }
+  ],
+  "vad": {
+    "threshold": 0.3,
+    "min_silence_ms": 140,
+    "speech_pad_ms": 0,
+    "boundary_margin_before_ms": 100,
+    "boundary_margin_after_ms": 35
+  }
+}

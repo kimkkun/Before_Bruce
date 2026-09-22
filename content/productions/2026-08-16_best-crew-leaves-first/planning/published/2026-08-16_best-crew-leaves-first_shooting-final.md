@@ -1,0 +1,1 @@
+../../../../references/legacy-workspace/Kim.kkun_contents/published/2026-08-16_best-crew-leaves-first_shooting-final.md

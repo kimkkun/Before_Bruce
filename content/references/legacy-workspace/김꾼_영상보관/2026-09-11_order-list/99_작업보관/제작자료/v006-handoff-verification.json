@@ -1,0 +1,11 @@
+{
+  "bundle": "v006-resume-bundle.zip",
+  "bytes": 288768149,
+  "zip_crc_verified": true,
+  "project_stable_during_snapshot": true,
+  "original_sha256": "ca96c8fddf7a0ea07abb8b85a7f2633521fcd9175762f4ad844b4b208229b592",
+  "project_source_matches_original": true,
+  "external_asset_entries": 3,
+  "external_backup": false,
+  "cross_machine_restore_tested": false
+}

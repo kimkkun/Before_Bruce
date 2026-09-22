@@ -1,0 +1,1 @@
+../../../../references/legacy-workspace/Kim.kkun_contents/drafts/2026-09-19_owner-emotions_suhwan-edit.md

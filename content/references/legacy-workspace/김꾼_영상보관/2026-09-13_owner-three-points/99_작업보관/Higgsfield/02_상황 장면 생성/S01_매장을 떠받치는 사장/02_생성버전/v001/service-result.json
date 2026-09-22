@@ -1,0 +1,23 @@
+{
+  "id": "1463aa56-639c-4124-a5ac-72eb396f4f14",
+  "type": "image",
+  "status": "completed",
+  "model": "gpt_image_2_5",
+  "params": {
+    "prompt": "Create a single cinematic photorealistic surreal visual metaphor still for a Korean restaurant-owner talking-head reel. Vertical 9:16. Tactile practical miniature-set realism, restrained warm amber restaurant lighting, charcoal and muted olive palette, strong readable silhouette, realistic materials, no cartoon, no captions, no typography, no watermark, no collage. Frame the full key action with margins; leave lower 20 percent visually quiet for later subtitles. It must read in one second on a phone. A fictional Korean male restaurant owner in his thirties wearing a dark olive apron, dark work shirt, short black hair, full body visible in a dim uncluttered studio. He crouches with knees bending under the weight of a large waist-wide miniature Korean neighborhood restaurant held overhead with both palms firmly against its flat base. The miniature has an open front revealing warmly lit tables, chairs and a stainless prep counter, blank awning without text. Both hands and base are anatomically and physically coherent. Strained but not comic expression. Three-quarter low eye-level view, sharp owner and miniature, shadow on floor. The restaurant rests on his hands rather than floating. This is the decisive moment before he sinks further under its weight.",
+    "aspect_ratio": "9:16",
+    "medias": [],
+    "width": 1520,
+    "height": 2688,
+    "quality": "medium",
+    "resolution": "2k",
+    "model": "flare",
+    "remove_bg": false,
+    "reference_elements": []
+  },
+  "results": {
+    "rawUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_102522_1463aa56-639c-4124-a5ac-72eb396f4f14.png",
+    "minUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_31MPMLIUuTK7WHqiYARPaNCFrz1/hf_20260921_102522_1463aa56-639c-4124-a5ac-72eb396f4f14_min.webp"
+  },
+  "createdAt": 1789986322.622161
+}
